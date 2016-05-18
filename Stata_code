@@ -1,0 +1,68 @@
+*** Small Money Project ***
+
+* Marshall A. Taylor *
+* Dustin S. Stoltz *
+
+/* Note: Media_Frame and Event variables computed using sentiment analysis *
+	* function from tm.plugin.sentiment R package (for former), and the *
+	* coreNLP named entity recognition tool in Bash (for the latter). */
+
+/* Generating missflag. */
+gen missflag = Media_Frame + Perceptibility + Legibility + Amount + Space + /*
+	*/ Resistance + Outcome + Payor + Payee if Flag2==0
+recode missflag (nonmissing = 1) (missing = 0)
+
+/* Getting the models. */
+reg Media_Frame2 i.Perceptibility i.Resistance##c.Amount i.Space i.Payor3 i.Payee, /*
+	*/ vce(cluster Event), if missflag==1
+estat ic
+reg Media_Frame2 i.Legibility i.Resistance##c.Amount i.Space i.Payor3 i.Payee, /*
+	*/ vce(cluster Event), if missflag==1
+estat ic
+reg Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount  /*
+	*/ i.Space i.Payor3 i.Payee, vce(cluster Event), if missflag==1
+estat ic
+contrast r.Legibility@Perceptibility, asobserved
+
+margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+marginsplot, scheme(sj)
+
+/* Wald tests don't really hold up, but AIC suggests full model is best model. */
+qui reg Media_Frame2 Perceptibility Legibility Interact i.Resistance##c.Amount /*
+	*/ Space i.Payor3 i.Payee, vce(cluster Event), if missflag==1
+test Perceptibility Legibility
+test Perceptibility = Legibility
+
+/* Like before, checking for skewness. Cannot reject the null that
+	* Media Valence is normally distributed in terms of skewness. */
+sktest Media_Frame2
+ladder Media_Frame2
+
+/* Like before, checking for outliers. Have to remove the cluster option to 
+* do this. Doesn't appear to be a problem. */
+qui reg Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount /*
+	*/ i.Space i.Payor3 i.Payee if missflag==1
+lvr2plot
+
+/* Residuals seem to be normal. OLS should be good. */
+reg Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount  /*
+	*/ i.Space i.Payor3 i.Payee, vce(cluster Event), if missflag==1
+predict r, resid
+kdensity r, normal
+pnorm r
+qnorm r
+iqr r
+swilk r
+
+/* Random-intercept version. Differences not substantial from more parsimoneous
+* model. */
+mixed Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount i.Space i.Payor3 /*
+	*/ i.Payee if missflag==1 || Event:, vce(cluster Event)
+/* Note: The ICC cannot be computed when using robust standard errors. It can 
+	* be computed easily by hand: var(_cons)/(var(_cons) + var(Residual)).*/
+
+/* mixed gives similar results to xtreg with re option, as expected. Difference
+* in rounding, perhaps? */
+encode Event, gen(Event2)
+xtreg Media_Frame2 i.Perceptibility i.Resistance##c.Amount i.Space i.Payor3 /*
+	*/ i.Payee if missflag==1, i(Event2) re
