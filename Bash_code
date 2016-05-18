@@ -11,4 +11,4 @@ $ cd /Users/stanford-ner-2015-12-09/
 $ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier 
       -loadClassifier /Users/mat4a/stanford-ner-2015-04-20/classifiers/english.all.3class.distsim.crf.ser.gz 
       -outputFormat taggedEntities -textFiles docs/*.txt > tagged_text.txt
-$ csplit -f file tagged_text.txt /unique_identifier/ {280}
+$ csplit -f tags tagged_text.txt /unique_identifier/ {280}
