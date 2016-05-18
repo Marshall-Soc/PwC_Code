@@ -1,0 +1,14 @@
+## Bash code for NER using Stanford NER (3.5.2). The "taggedEntities" doesn't seem to be recognized anymore, but "slashTags"
+    will give you the same result--just need to tweak the last bit of R code to get the Person-tag document-term matrix to account for
+    the */ rather than the <*>...</*> format. You may also need to run the -echo- command multiple times--perhaps with the docs spread 
+    out over multiple folders--as it seems to max out before it tags all 280 documents. Same goes for the actual NER code 
+    (starting on line 9): simply disperse the content of the "docs" folder over multiple folders and batch tag the contens of each 
+    folder separately. ##
+
+$ cd /Users/stanford-ner-2015-04-20/docs
+$ echo “unique_identifier” | tee -a *.txt
+$ cd /Users/stanford-ner-2015-12-09/
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier 
+      -loadClassifier /Users/mat4a/stanford-ner-2015-04-20/classifiers/english.all.3class.distsim.crf.ser.gz 
+      -outputFormat taggedEntities -textFiles docs/*.txt > tagged_text.txt
+$ csplit -f file tagged_text.txt /unique_identifier/ {280}
