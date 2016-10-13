@@ -3,14 +3,91 @@
 * Marshall A. Taylor *
 * Dustin S. Stoltz *
 
-/* Note: Media_Frame and Event variables computed using sentiment analysis *
+/* Note: NLP variables computed using sentiment analysis *
 	* function from tm.plugin.sentiment R package (for former), and the *
-	* coreNLP named entity recognition tool in Bash (for the latter). */
+	* coreNLP named entity recognition tool in Bash (for the latter). *
+	* Data available upon request after publication. */
+
+capd
+set more off
+log using Notes/cap.log, text replace
+use Data/Small_Money_recode, clear
 
 /* Generating missflag. */
 gen missflag = Media_Frame + Perceptibility + Legibility + Amount + Space + /*
 	*/ Resistance + Outcome + Payor + Payee if Flag2==0
 recode missflag (nonmissing = 1) (missing = 0)
+	
+*** The models post ASR comments ***
+
+/* Running some new models with the square root of the absolute value of
+	* polarity score as the DV (sqrt(abs(p-n/p+n))). */
+	* Using logged version of DV b/c of non-normality with identity. */
+	* First, a random effects model. *
+global controls i. Space i.Resistance c.Amount##i.Payor3 i.Payee
+xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, /*
+	*/re vce(robust)
+	* Do I need to permute within strata? Don't think so, since I am interested */
+	/* in between effects as well as within effects. */
+permute sqapol _b, reps(800) strata(Event2): xtreg sqapol /*
+	*/i.Perceptibility##i.Legibility $controls if missflag==1, re vce(robust)
+	* Probably go with this one.
+permute sqapol _b, seed(50) reps(1000): xtreg sqapol /*
+	*/i.Perceptibility $controls if missflag==1, re
+permute sqapol _b, seed(50) reps(1000): xtreg sqapol /*
+	*/i.Legibility $controls if missflag==1, re
+permute sqapol _b, seed(50) reps(1000): xtreg sqapol /*
+	*/i.Perceptibility##i.Legibility $controls if missflag==1, re
+	
+/* Some effect size analyses. */
+xtreg sqapol i.Perceptibility##i.Legibility $controls if /*
+	*/missflag==1, re vce(robust)	
+contrast r.Legibility@Perceptibility, asobserved
+contrast r.Perceptibility@Legibility, asobserved
+qui margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+marginsplot, noci scheme(sj) play(Do-Files/percept_media.grec) /*
+	*/saving(Visualizations/cap_1, replace)
+qui margins Perceptibility, at (Legibility=(0(1)1)) asobserved
+marginsplot, noci scheme(sj) play(Do-Files/legib_media.grec) /*
+	*/saving(Visualizations/cap_2, replace)
+gr combine Visualizations/perceptibility.gph Visualizations/legibility.gph, /*
+	*/ycommon play(Do-Files/combined_media.grec)
+gr save Visualizations/cap_3.gph, replace
+
+forvalues i = 1/3 {
+		gr use Visualizations/cap_`i'.gph
+		gr export Visualizations/cap_`i'_2.png, replace
+					}
+					
+/* Some diagnostics with random effects models. Random effects is preferred, 
+	* there are differences across level-2 events,Wald tests don't hold, but 
+	* DV is normally distributed, no multicollinearity. * Problem with
+	* heteroskedasticity" IDK, but I use Huber-White estimators anyway. */
+hausman fe re
+xttest0
+gen Interact = Perceptibility*Legibility
+xtreg sqapol Perceptibility Legibility Interact i.Space i.Resistance c.Amount##i.Payor3 /*
+	*/ i.Payee if missflag==1, re vce(robust)
+test Perceptibility Legibility
+test Perceptibility=Legibility
+sktest sqapol
+collin Perceptibility Legibility Space Resistance Amount Payor3 Payee
+	* Plenty of within- and between-event variation to be explained: about 17%
+	* between and about 83% within in sqapol. *
+mixed sqapol if missflag==1||Event:,
+	* Checking for infuential outliers and normal errors. Looks fine. *
+predict r if missflag==1, e
+kdensity r, normal
+pnorm r
+qnorm r
+iqr r
+swilk r
+predict yhat
+scatter r yhat
+graph twoway (lfitci sqapol yhat) (scatter sqapol yhat)
+
+
+/* OLD MODELS */
 
 /* Getting the models. */
 reg Media_Frame2 i.Perceptibility i.Resistance##c.Amount i.Space i.Payor3 i.Payee, /*
@@ -22,9 +99,13 @@ estat ic
 reg Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount  /*
 	*/ i.Space i.Payor3 i.Payee, vce(cluster Event), if missflag==1
 estat ic
+
 contrast r.Legibility@Perceptibility, asobserved
+contrast r.Perceptibility@Legibility, asobserved
 
 margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+marginsplot, scheme(sj)
+margins Perceptibility, at (Legibility=(0(1)1)) asobserved
 marginsplot, scheme(sj)
 
 /* Wald tests don't really hold up, but AIC suggests full model is best model. */
@@ -54,7 +135,7 @@ qnorm r
 iqr r
 swilk r
 
-/* Random-intercept version. Differences not substantial from more parsimoneous
+/* Random-intercept models. Differences not substantial from more parsimoneous
 * model. */
 mixed Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount i.Space i.Payor3 /*
 	*/ i.Payee if missflag==1 || Event:, vce(cluster Event)
@@ -66,3 +147,6 @@ mixed Media_Frame2 i.Perceptibility##i.Legibility i.Resistance##c.Amount i.Space
 encode Event, gen(Event2)
 xtreg Media_Frame2 i.Perceptibility i.Resistance##c.Amount i.Space i.Payor3 /*
 	*/ i.Payee if missflag==1, i(Event2) re
+
+log close
+exit
