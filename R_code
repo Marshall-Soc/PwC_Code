@@ -1,30 +1,32 @@
 ## Coins as Protest Project ##
+## Data available upon request after publication. ##
 
 # Necesssary packages.
 library(NLP)
 library(tm)
 library(SnowballC)
 library(devtools)
-install_github("mannau/tm.plugin.sentiment")
+library(tm.plugin.sentiment)
 library(rex)
 library(stringr)
+library(LambertW)
 
 # Loading in corpus.
-docs <- file.path("file path") 
+docs <- file.path("/Users/mat4a/Box Sync/Coins as Protest/Data") 
 dir(docs)
 corp <- Corpus(DirSource(docs))
 summary(corp)
-
-# Inspect.
 writeLines(as.character(corp[[3]]))
 
-# Polarity scores.
+# Polarity and subjectivity scores, emotionality word counts and freqs.
 stop <- function(x) removeWords(x, stopwords("english"))
 control <- list(removePunctuation, removeNumbers, content_transformer(tolower),
                 stop, stripWhitespace, stemDocument)
 
 corp <- tm_map(corp, FUN=tm_reduce, tmFuns=control)
 tdm <- TermDocumentMatrix(corp)
+freq <- colSums(as.matrix(tdm))
+as.matrix(freq)
 
 positive <- inspect(TermDocumentMatrix(corp, list(dictionary=dic_gi$positive)))
 negative <- inspect(TermDocumentMatrix(corp, list(dictionary=dic_gi$negative)))
@@ -36,9 +38,21 @@ negsum <- colSums(negative, na.rm=F)
 diff <- possum - negsum
 sum <- possum + negsum
 result <- diff/sum
+result2 <- sum/freq
+as.matrix(possum)
+result_pos <- possum/freq
+result_neg <- negsum/freq
+result_diff <- diff/freq
 write.csv(result, file="polarity.csv")
+write.csv(result2, file="subjectivity.csv")
+write.csv(result_pos, file="positivity.csv")
+write.csv(result_neg, file="negativity.csv")
+write.csv(result_diff, file="difference.csv")
+write.csv(possum, file="pos.csv")
+write.csv(negsum, file="neg.csv")
+write.csv(freq, file="freq.csv")
 
-# Importing NER document tagged in CoreNLP (Bash).
+# Getting t-d matrix with POS tags for coding.
 tags <- file.path("/Users/mat4a/Cap/tagged docs")
 tags2 <- Corpus(DirSource(tags))
 tags2 <- DocumentTermMatrix(tags2)
