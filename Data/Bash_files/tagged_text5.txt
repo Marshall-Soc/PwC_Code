@@ -1,0 +1,959 @@
+Chislehurst/O carer/O pays/O parking/O fine/O in/O pennies/O Maggie/PERSON and/O Martin/PERSON Gebbett/PERSON paid/O an/O #/O 80/O parking/O fine/O in/O pennies/O in/O protest/O at/O the/O fine/O A/O CARER/O decided/O to/O pay/O an/O #/O 80/O parking/O fine/O in/O pennies/O after/O failing/O in/O her/O attempts/O to/O get/O the/O penalty/O overturned/O ./O 
+Maggie/PERSON Gebbett/PERSON ,/O 63/O ,/O was/O handed/O a/O parking/O fine/O after/O failing/O to/O pay/O and/O display/O in/O South/LOCATION Street/LOCATION ,/O Bromley/PERSON ,/O in/O May/O ./O 
+The/O mother-of-two/O claims/O the/O hot/O weather/O made/O her/O #/O 2.20/O ticket/O peel/O off/O the/O car/O window/O ./O 
+She/O immediately/O appealed/O against/O the/O decision/O but/O despite/O months/O of/O wrangling/O with/O Bromley/ORGANIZATION Council/ORGANIZATION she/O was/O told/O in/O November/O that/O her/O #/O 80/O fine/O would/O increase/O to/O #/O 120/O if/O she/O did/O n't/O pay/O ./O 
+So/O Mrs/O Gebbett/O ,/O of/O Yester/LOCATION Road/LOCATION ,/O Chislehurst/O ,/O visited/O the/O civic/O offices/O in/O Bromley/LOCATION with/O her/O husband/O Martin/PERSON yesterday/O -LRB-/O December/O 2/O -RRB-/O to/O pay/O the/O entire/O fine/O with/O a/O wheelbarrow/O filled/O with/O pennies/O ./O 
+She/O says/O that/O even/O after/O an/O adjudicating/O lawyer/O found/O her/O to/O be/O ``/O an/O honest/O ,/O credible/O and/O convincing/O witness/O ''/O and/O said/O the/O fine/O should/O be/O cancelled/O ,/O the/O council/O would/O not/O reconsider/O its/O decision/O ./O 
+The/O member/O of/O Chislehurst/ORGANIZATION Rotary/ORGANIZATION Club/ORGANIZATION said/O :/O ``/O I/O had/O to/O wait/O three/O quarters/O of/O an/O hour/O for/O staff/O to/O count/O all/O the/O money/O ,/O I/O thought/O I/O was/O going/O to/O have/O another/O parking/O fine/O waiting/O for/O me/O !/O 
+``/O I/O am/O furious/O about/O the/O whole/O business/O and/O most/O upset/O about/O being/O criminalised/O when/O I/O have/O not/O broken/O the/O law/O ./O 
+``/O In/O fact/O ,/O I/O did/O all/O I/O could/O to/O comply/O with/O the/O law/O -/O I/O paid/O and/O I/O displayed/O ./O 
+``/O If/O the/O gum/O on/O the/O parking/O ticket/O is/O not/O up/O to/O the/O job/O ,/O that/O is/O not/O my/O fault/O ./O ''/O 
+She/O added/O :/O ``/O Going/O after/O innocent/O motorists/O is/O extortion/O ./O 
+``/O The/O qualified/O lawyer/O in/O London/LOCATION recommends/O that/O Bromley/ORGANIZATION Council/ORGANIZATION drop/O the/O charge/O against/O me/O ./O 
+Why/O are/O they/O not/O doing/O so/O ?/O ''/O 
+It/O was/O revealed/O by/O News/O Shopper/O last/O month/O that/O Bromley/ORGANIZATION Council/ORGANIZATION made/O #/O 1.1/O million/O profit/O from/O penalty/O charge/O notices/O in/O the/O last/O financial/O year/O ./O 
+A/O spokesman/O for/O the/O council/O said/O :/O ``/O The/O adjudicator/O concluded/O that/O the/O contravention/O did/O occur/O and/O the/O penalty/O charge/O notice/O was/O issued/O correctly/O ./O 
+``/O Motorists/O need/O to/O ensure/O that/O they/O display/O their/O pay/O and/O display/O ticket/O correctly/O ./O 
+``/O As/O the/O appeal/O process/O has/O finished/O ,/O the/O motorist/O needed/O to/O pay/O the/O #/O 80/O penalty/O charge/O ,/O which/O she/O has/O done/O ./O ''/O 
+unique_identifier/O City/O by/O City/O ,/O an/O Antipoverty/ORGANIZATION Group/ORGANIZATION Plants/ORGANIZATION Seeds/ORGANIZATION of/O Change/O In/O Gary/PERSON ,/O Ind./LOCATION ,/O members/O of/O the/O antipoverty/O group/O Acorn/ORGANIZATION picked/O up/O pennies/O recently/O after/O a/O bag/O split/O on/O their/O way/O to/O a/O protest/O at/O a/O utility/O company/O ./O 
+The/O teller/O 's/O eyes/O widened/O as/O a/O customer/O poured/O thousands/O of/O pennies/O onto/O the/O counter/O ,/O an/O intentionally/O obnoxious/O way/O to/O pay/O a/O high/O heating/O bill/O ./O 
+Still/O looming/O in/O line/O at/O the/O utility/O payment/O center/O ,/O on/O a/O street/O of/O boarded-up/O buildings/O in/O this/O rusted/O city/O ,/O were/O 10/O more/O people/O carrying/O hefty/O bags/O of/O pennies/O ,/O all/O wearing/O the/O red/O T-shirts/O of/O the/O national/O community/O organizing/O group/O Acorn/ORGANIZATION ./O 
+Adam/PERSON Jamsa/PERSON ,/O 37/O ,/O of/O Peoria/LOCATION ,/O Ill./LOCATION ,/O an/O Acorn/O member/O ,/O rehearsed/O his/O door-to-door/O pitch/O for/O a/O living-wage/O petition/O with/O Rochelle/PERSON Prather/PERSON ./O 
+LaTrell/PERSON Smith/PERSON ,/O 26/O ,/O an/O Acorn/ORGANIZATION member/O in/O Chicago/LOCATION ,/O asked/O James/PERSON Meadows/PERSON to/O support/O a/O living-wage/O law/O ./O 
+It/O was/O a/O pinprick/O protest/O ,/O intended/O to/O grab/O the/O attention/O of/O utility/O executives/O over/O what/O members/O of/O this/O newest/O Acorn/ORGANIZATION chapter/O charged/O was/O the/O company/O 's/O overly/O quick/O shut-off/O of/O strapped/O customers/O ./O 
+That/O same/O day/O in/O Chicago/LOCATION ,/O scores/O of/O Acorn/ORGANIZATION members/O and/O volunteers/O fanned/O out/O in/O lower-income/O neighborhoods/O ,/O gathering/O signatures/O in/O favor/O of/O a/O law/O that/O would/O require/O giant/O retailers/O like/O Wal-Mart/ORGANIZATION to/O pay/O employees/O $/O 10/O an/O hour/O plus/O benefits/O ./O 
+In/O dozens/O of/O other/O cities/O ,/O members/O lobbied/O for/O the/O rights/O of/O Hurricane/O Katrina/O victims/O ,/O protested/O ``/O predatory/O lending/O ''/O and/O registered/O low-income/O voters/O ./O 
+With/O offices/O in/O 106/O cities/O and/O a/O membership/O reported/O to/O be/O 200,000/O ,/O Acorn/ORGANIZATION has/O emerged/O in/O recent/O years/O as/O the/O largest/O neighborhood-based/O antipoverty/O group/O in/O the/O country/O ,/O using/O old-fashioned/O methods/O of/O door-knocking/O and/O noisy/O protests/O to/O push/O for/O local/O and/O national/O causes/O ./O 
+It/O plans/O to/O open/O an/O office/O in/O 20/O new/O cities/O each/O year/O for/O the/O next/O five/O years/O ,/O an/O expansion/O in/O response/O to/O the/O strong/O grip/O conservatives/O have/O in/O Washington/LOCATION and/O to/O the/O travails/O of/O the/O working/O poor/O ./O 
+``/O We/O feel/O the/O Acorn/O program/O is/O popular/O wherever/O we/O go/O ,/O ''/O said/O Wade/PERSON Rathke/PERSON ,/O 57/O ,/O who/O founded/O the/O group/O 36/O years/O ago/O in/O Arkansas/LOCATION and/O goes/O by/O the/O title/O of/O chief/O organizer/O ./O 
+``/O It/O 's/O like/O a/O hot/O knife/O in/O butter/O ./O ''/O 
+Conservative/O critics/O say/O Acorn/ORGANIZATION and/O similar/O groups/O are/O pushing/O antimarket/O ,/O unrealistic/O answers/O that/O will/O not/O help/O the/O poor/O in/O the/O long/O run/O ./O 
+But/O the/O increased/O mobilizing/O efforts/O ,/O often/O in/O alliance/O with/O the/O growing/O union/O movement/O among/O low-end/O service/O workers/O ,/O have/O earned/O the/O attention/O of/O Democratic/ORGANIZATION politicians/O ./O 
+Those/O scheduled/O to/O speak/O at/O Acorn/ORGANIZATION 's/O annual/O meeting/O in/O July/O include/O Senator/O Hillary/PERSON Rodham/PERSON Clinton/PERSON ,/O Democrat/O of/O New/LOCATION York/LOCATION ;/O former/O Senator/O John/PERSON Edwards/PERSON ,/O who/O has/O worked/O with/O Acorn/ORGANIZATION on/O minimum/O wage/O initiatives/O ;/O Senator/O Edward/PERSON M./PERSON Kennedy/PERSON ,/O Democrat/O of/O Massachusetts/LOCATION ;/O and/O John/PERSON J./PERSON Sweeney/PERSON ,/O president/O of/O the/O A.F.L.-C.I.O./O The/O expansion/O of/O Acorn/ORGANIZATION ,/O whose/O formal/O name/O is/O the/O Association/ORGANIZATION of/ORGANIZATION Community/ORGANIZATION Organizations/ORGANIZATION for/ORGANIZATION Reform/ORGANIZATION Now/ORGANIZATION ,/O is/O part/O of/O a/O broader/O surge/O in/O populist/O organizing/O around/O the/O country/O centered/O on/O issues/O like/O wages/O ,/O gentrification/O ,/O environmental/O disputes/O and/O immigrant/O rights/O ./O 
+``/O Over/O the/O last/O 10/O years/O we/O 've/O seen/O pretty/O explosive/O growth/O in/O the/O number/O and/O scale/O of/O community/O groups/O working/O in/O poor/O communities/O and/O with/O people/O of/O color/O ,/O ''/O said/O Deepak/PERSON Bhargava/PERSON ,/O of/O the/O Center/ORGANIZATION for/ORGANIZATION Community/ORGANIZATION Change/ORGANIZATION ,/O a/O Washington-based/O support/O center/O for/O local/O organizers/O ./O 
+Mr./O Bhargava/PERSON said/O the/O activism/O was/O ``/O approaching/O a/O scale/O that/O could/O have/O a/O transforming/O effect/O on/O American/O politics/O and/O society/O ./O ''/O 
+But/O the/O number/O of/O people/O involved/O is/O still/O limited/O ,/O and/O while/O many/O groups/O share/O similar/O ``/O social/O justice/O ''/O philosophies/O ,/O they/O are/O often/O fragmented/O ./O 
+Mr./O Rathke/PERSON said/O he/O had/O no/O illusions/O about/O the/O strength/O of/O ``/O government/O policies/O promoting/O inequality/O ./O ''/O 
+But/O he/O added/O :/O ``/O If/O there/O is/O going/O to/O be/O a/O change/O in/O politics/O in/O a/O progressive/O direction/O ,/O we/O are/O going/O to/O be/O part/O of/O that/O ./O 
+That/O was/O n't/O true/O 10/O years/O ago/O ./O ''/O 
+Mr./O Rathke/PERSON spoke/O at/O the/O bustling/O Acorn/ORGANIZATION headquarters/O in/O New/LOCATION Orleans/LOCATION ,/O where/O the/O group/O has/O sought/O to/O involve/O poor/O ,/O displaced/O residents/O in/O the/O Hurricane/O Katrina/O recovery/O effort/O ./O 
+He/O had/O just/O returned/O from/O a/O week/O in/O India/LOCATION ,/O where/O he/O met/O with/O private/O groups/O worried/O about/O the/O possible/O entry/O of/O Wal-Mart/ORGANIZATION and/O similar/O chains/O ./O 
+Acorn/ORGANIZATION has/O a/O budget/O this/O year/O of/O $/O 37.5/O million/O ,/O which/O does/O not/O include/O its/O spinoff/O research/O and/O housing/O organizations/O ./O 
+Only/O $/O 3/O million/O of/O that/O comes/O from/O membership/O dues/O ./O 
+Most/O of/O the/O rest/O comes/O from/O foundations/O ,/O private/O donations/O and/O ``/O partnerships/O ''/O in/O which/O onetime/O corporate/O targets/O ,/O like/O the/O Household/ORGANIZATION Financial/ORGANIZATION Corporation/ORGANIZATION ,/O pay/O Acorn/ORGANIZATION to/O run/O programs/O ,/O in/O this/O case/O to/O educate/O people/O about/O mortgages/O and/O loan/O terms/O ./O 
+Local/O offices/O pursue/O local/O issues/O of/O concern/O ,/O like/O pressing/O an/O agency/O to/O clean/O up/O a/O vacant/O lot/O or/O ,/O in/O the/O case/O of/O the/O powerful/O chapter/O in/O New/LOCATION York/LOCATION ,/O opening/O schools/O and/O cosponsoring/O the/O Working/O Families/O political/O party/O ./O 
+What/O sets/O Acorn/ORGANIZATION apart/O from/O most/O community/O groups/O ,/O said/O Peter/PERSON Dreier/PERSON ,/O an/O urban/O planning/O expert/O at/O Occidental/ORGANIZATION College/ORGANIZATION in/O Los/LOCATION Angeles/LOCATION ,/O is/O its/O ability/O to/O combine/O local/O projects/O with/O coordinated/O national/O action/O on/O larger/O issues/O ./O 
+In/O a/O current/O campaign/O in/O several/O cities/O ,/O for/O example/O ,/O Acorn/ORGANIZATION is/O demanding/O that/O the/O Sherwin-Williams/ORGANIZATION paint/O company/O contribute/O to/O lead/O paint/O abatement/O ./O 
+The/O utility/O protest/O in/O Gary/PERSON illustrates/O how/O Acorn/ORGANIZATION creates/O a/O new/O chapter/O ./O 
+Eric/PERSON Weathersby/PERSON ,/O 43/O ,/O is/O a/O church/O leader/O in/O Gary/PERSON who/O wanted/O to/O get/O more/O involved/O in/O politics/O ./O 
+After/O brief/O training/O in/O Chicago/LOCATION ,/O Mr./O Weathersby/PERSON started/O as/O head/O organizer/O for/O Acorn/ORGANIZATION in/O Indiana/LOCATION on/O April/O 17/O ./O 
+Heating/O bills/O soared/O last/O winter/O ,/O and/O many/O poor/O residents/O resented/O their/O utility/O ,/O the/O Northern/ORGANIZATION Indiana/ORGANIZATION Public/ORGANIZATION Service/ORGANIZATION Company/ORGANIZATION ,/O for/O what/O they/O saw/O as/O harsh/O policies/O for/O delinquent/O payers/O ./O 
+Mr./O Weathersby/PERSON used/O the/O issue/O to/O recruit/O ,/O going/O door/O to/O door/O himself/O ,/O and/O by/O early/O June/O had/O 113/O members/O ./O 
+Oscar/PERSON L./PERSON Buggs/PERSON Jr./PERSON ,/O 69/O ,/O who/O lives/O on/O a/O pension/O from/O his/O career/O as/O a/O sanitation/O worker/O ,/O was/O drawn/O in/O ./O 
+He/O said/O he/O had/O inherited/O a/O house/O with/O past-due/O bills/O ,/O had/O found/O himself/O owing/O $/O 1,300/O that/O he/O could/O not/O pay/O and/O had/O had/O his/O utilities/O cut/O off/O for/O several/O months/O ./O 
+He/O used/O a/O flashlight/O to/O see/O at/O night/O ./O 
+``/O It/O seems/O like/O they/O do/O good/O deeds/O for/O people/O who/O need/O help/O ,/O ''/O Mr./O Buggs/PERSON said/O of/O Acorn/ORGANIZATION ./O 
+``/O Maybe/O I/O can/O do/O some/O good/O for/O somebody/O else/O ./O ''/O 
+In/O early/O June/O ,/O as/O members/O began/O unloading/O their/O pennies/O at/O the/O payment/O center/O ,/O a/O company/O officer/O quickly/O appeared/O ./O 
+He/O promised/O to/O relay/O to/O the/O company/O 's/O president/O Acorn/ORGANIZATION 's/O demands/O for/O more/O aid/O to/O poor/O customers/O and/O a/O moratorium/O on/O shut-offs/O ,/O and/O to/O try/O to/O set/O up/O a/O meeting/O with/O him/O ./O 
+In/O an/O e-mail/O response/O to/O a/O query/O by/O The/O New/ORGANIZATION York/ORGANIZATION Times/ORGANIZATION ,/O the/O company/O condemned/O Acorn/ORGANIZATION 's/O tactics/O and/O claims/O ./O 
+``/O They/O use/O threats/O of/O protests/O and/O other/O attention-grabbing/O techniques/O to/O bully/O local/O utilities/O and/O get/O media/O coverage/O ,/O ''/O Tom/PERSON Cuddy/PERSON ,/O a/O spokesman/O for/O the/O utility/O ,/O said/O in/O the/O e-mail/O message/O ./O 
+``/O Most/O of/O Acorn/ORGANIZATION 's/O `/O demands/O '/O are/O already/O addressed/O in/O existing/O assistance/O programs/O ./O ''/O 
+The/O wage/O campaign/O in/O Chicago/LOCATION ,/O where/O Wal-Mart/ORGANIZATION is/O opening/O its/O first/O store/O this/O fall/O ,/O had/O a/O visceral/O appeal/O for/O many/O residents/O and/O has/O gained/O the/O support/O in/O principle/O of/O a/O majority/O of/O the/O City/ORGANIZATION Council/ORGANIZATION ./O 
+Steven/PERSON Malanga/PERSON ,/O a/O senior/O fellow/O at/O the/O Manhattan/ORGANIZATION Institute/ORGANIZATION for/ORGANIZATION Policy/ORGANIZATION Research/ORGANIZATION and/O author/O of/O ``/O The/O New/O New/O Left/O ''/O -LRB-/O Ivan/PERSON R./PERSON Dee/PERSON ,/O 2005/O -RRB-/O ,/O said/O this/O campaign/O ,/O for/O a/O law/O tailored/O specifically/O to/O giant/O retailers/O ,/O showed/O how/O out/O of/O step/O Acorn/ORGANIZATION was/O with/O the/O national/O mood/O and/O economic/O realities/O ./O 
+``/O The/O only/O thing/O such/O laws/O ever/O do/O is/O to/O deprive/O shoppers/O in/O low-income/O neighborhoods/O of/O those/O stores/O ,/O ''/O Mr./O Malanga/PERSON said/O ./O 
+Illustrating/O the/O philosophical/O divide/O ,/O Madeline/PERSON Talbott/PERSON ,/O a/O veteran/O Acorn/ORGANIZATION organizer/O in/O charge/O of/O the/O Chicago/LOCATION office/O ,/O said/O of/O Wal-Mart/ORGANIZATION ,/O ``/O They/O 're/O the/O world/O 's/O largest/O employers/O ,/O and/O if/O they/O ca/O n't/O pay/O a/O living/O wage/O ,/O who/O can/O ?/O ''/O 
+Ms./O Talbott/PERSON added/O ,/O ``/O If/O we/O 're/O going/O to/O have/O a/O middle/O class/O in/O the/O city/O of/O Chicago/LOCATION ,/O we/O have/O to/O set/O some/O kind/O of/O standard/O in/O the/O sectors/O of/O the/O economy/O that/O ca/O n't/O just/O move/O to/O China/LOCATION ./O ''/O 
+unique_identifier/O Coin/O protest/O against/O soaring/O energy/O prices/O In/O Antwerp/LOCATION ,/O a/O client/O of/O energy/O provider/O Electrabel/ORGANIZATION has/O protested/O against/O soaring/O energy/O prices/O by/O paying/O his/O energy/O bill/O in/O coins/O ./O 
+Patrick/PERSON Janssen/PERSON found/O his/O energy/O bill/O a/O bit/O too/O expensive/O and/O thought/O of/O an/O original/O way/O to/O protest/O ./O 
+The/O man/O brought/O a/O barrowful/O of/O 1/O eurocent/O coins/O personally/O to/O Electrabel/ORGANIZATION offices/O in/O Antwerp/LOCATION ./O 
+The/O 215/O kilos/O of/O copper/O coins/O equalled/O the/O amount/O he/O had/O to/O pay/O ,/O 931/O euros/O ./O 
+Electrabel/ORGANIZATION accepted/O the/O payment/O with/O a/O smile/O and/O said/O it/O would/O discuss/O measures/O to/O put/O a/O stop/O to/O mounting/O energy/O prices/O ./O 
+unique_identifier/O Coins/O as/O payment/O :/O `/O Money/O 's/O money/O '/O A/O Portland/LOCATION woman/O says/O a/O grocery/O store/O would/O n't/O let/O her/O pay/O for/O her/O family/O 's/O food/O because/O she/O was/O paying/O for/O it/O with/O loose/O change/O ./O 
+``/O Jean/O ''/O was/O too/O embarrassed/O to/O show/O her/O face/O or/O use/O her/O real/O name/O ,/O but/O she/O wanted/O people/O to/O hear/O her/O story/O ./O 
+``/O We/O had/O nothing/O to/O feed/O our/O children/O with/O ,/O ''/O she/O said/O ./O 
+``/O So/O we/O broke/O out/O the/O change/O ./O ''/O 
+Jean/PERSON said/O she/O brought/O $/O 32/O in/O quarters/O to/O Save-a-Lot/O in/O Southeast/LOCATION Portland/LOCATION ./O 
+After/O she/O grabbed/O her/O groceries/O ,/O she/O waited/O until/O the/O checkout/O line/O cleared/O so/O she/O could/O pay/O ./O 
+``/O And/O when/O I/O went/O up/O ,/O I/O told/O them/O ,/O you/O know/O `/O I/O have/O change/O ./O 
+Sorry/O ,/O it/O 's/O hard/O times/O right/O now/O ./O '/O 
+And/O they/O go/O ,/O `/O well/O we/O can/O only/O accept/O $/O 5/O ,/O '/O ''/O Jean/PERSON said/O ./O 
+``/O It/O 's/O money/O ,/O ''/O she/O added/O ./O 
+``/O Money/O 's/O money/O ./O ''/O 
+But/O the/O clerk/O would/O n't/O budge/O ,/O Jean/PERSON said/O ./O 
+``/O I/O was/O mortified/O ./O 
+Mortified/O ./O ''/O 
+Jean/PERSON said/O she/O went/O to/O Fred/PERSON Meyer/PERSON ,/O but/O the/O store/O manager/O insisted/O she/O use/O the/O change/O machine/O where/O you/O 're/O charged/O a/O fee/O of/O nearly/O 10/O percent/O ./O 
+Jean/PERSON said/O she/O could/O n't/O afford/O to/O lose/O the/O money/O and/O started/O crying/O in/O front/O of/O another/O customer/O ./O 
+``/O He/O was/O disgusted/O by/O what/O they/O were/O saying/O too/O ,/O and/O he/O said/O `/O I/O 'll/O take/O your/O change/O ,/O I/O 'll/O buy/O your/O change/O from/O you/O ./O '/O 
+And/O the/O manager/O decided/O OK/O ,/O go/O to/O the/O change/O machine/O and/O we/O 'll/O pay/O the/O fee/O ,/O ''/O Jean/PERSON said/O ./O 
+Jean/PERSON said/O she/O did/O n't/O want/O to/O use/O gas/O money/O to/O go/O to/O her/O bank/O because/O it/O was/O far/O away/O ./O 
+Tuesday/O ,/O both/O Fred/PERSON Meyer/PERSON and/O Save-a-Lot/O responded/O to/O calls/O from/O KATU/ORGANIZATION News/ORGANIZATION ./O 
+``/O We/O apologize/O for/O the/O inconvenience/O the/O customer/O experienced/O at/O the/O store/O ,/O ''/O said/O Fred/PERSON Meyer/PERSON Public/O Affairs/O Director/O Melinda/PERSON Merrill/PERSON ./O 
+``/O Receiving/O change/O for/O a/O payment/O is/O a/O rare/O occurrence/O ./O 
+Fred/PERSON Meyer/PERSON stores/O do/O accept/O change/O as/O payment/O and/O we/O will/O work/O with/O our/O store/O directors/O and/O management/O teams/O to/O ensure/O they/O know/O this/O ./O ''/O 
+Save-a-Lot/O External/O Communications/O Manager/O Chon/PERSON Tomlin/PERSON also/O apologized/O Tuesday/O ./O 
+``/O We/O deeply/O apologize/O for/O the/O misunderstanding/O that/O occurred/O recently/O at/O our/O SE/O Foster/O location/O ./O 
+As/O a/O corporate/O policy/O ,/O we/O accept/O all/O forms/O of/O payment/O ,/O except/O for/O American/ORGANIZATION Express/ORGANIZATION ./O 
+There/O is/O no/O maximum/O limit/O on/O cash/O payments/O ,/O specifically/O those/O involving/O coins/O of/O any/O type/O ,/O ''/O Tomlin/PERSON said/O ./O 
+When/O the/O KATU/O Problem/O Solvers/O called/O around/O to/O other/O grocery/O stores/O in/O our/O area/O and/O said/O they/O were/O from/O KATU/ORGANIZATION ,/O all/O of/O the/O store/O managers/O said/O loose/O change/O was/O acceptable/O as/O payment/O ./O 
+But/O when/O they/O called/O back/O as/O customers/O ,/O they/O got/O a/O different/O story/O :/O */O QFC/ORGANIZATION would/O only/O accept/O $/O 5/O or/O $/O 6/O in/O loose/O change/O ./O 
+*/O Albertsons/ORGANIZATION said/O they/O would/O only/O accept/O $/O 5/O ./O 
+*/O WinCo/O and/O Safeway/ORGANIZATION did/O n't/O have/O a/O cutoff/O ,/O but/O said/O they/O tell/O customers/O to/O use/O the/O change/O machine/O ./O 
+*/O Only/O Whole/O Foods/O and/O New/O Seasons/O were/O open/O to/O accepting/O change/O ,/O no/O matter/O what/O the/O amount/O ./O 
+The/O KATU/O Problem/O Solvers/O checked/O with/O the/O Oregon/LOCATION Attorney/O General/O ,/O who/O said/O while/O there/O is/O a/O federal/O law/O saying/O coins/O are/O legal/O tender/O ,/O there/O is/O not/O a/O law/O that/O mandates/O private/O businesses/O accept/O them/O as/O payment/O ./O 
+``/O If/O the/O government/O issues/O you/O the/O money/O ,/O they/O should/O take/O it/O ,/O ''/O said/O Jean/PERSON ./O 
+unique_identifier/O College/O student/O pays/O tuition/O bill/O with/O 500lbs/O of/O pennies/O in/O OK/O Many/O students/O work/O to/O pay/O their/O way/O through/O college/O ./O 
+A/O soon-to-be/O grad/O in/O Oklahoma/LOCATION used/O his/O final/O payment/O to/O make/O a/O lasting/O statement/O ./O 
+It/O was/O a/O heavy/O load/O ,/O yet/O it/O was/O a/O weight/O lifted/O ./O 
+500/O pounds/O of/O pennies/O ./O 
+And/O 24-year-old/O Andrew/PERSON Magbee/PERSON earned/O every/O single/O penny/O ,/O ``/O I/O collected/O aluminum/O cans/O ,/O I/O started/O a/O sandwich/O shop/O ,/O I/O moved/O lawns/O ,/O painted/O houses/O ,/O ''/O Andrew/PERSON explained/O ./O 
+Now/O ,/O he/O turned/O every/O dollar/O ,/O every/O dime/O ,/O into/O 97,400/O pennies/O ./O 
+That/O 's/O $/O 974/O bucks/O ,/O his/O final/O tuition/O payment/O ,/O and/O a/O signifcant/O moment/O that/O 's/O priceless/O ./O 
+``/O It/O 's/O the/O idea/O that/O pennies/O add/O up/O ./O 
+And/O being/O frugal/O counts/O and/O working/O hard/O counts/O ,/O ''/O Andrew/PERSON said/O ./O 
+Andrew/PERSON said/O he/O did/O all/O of/O this/O to/O set/O an/O example/O for/O high/O school/O students/O who/O come/O behind/O him/O ,/O to/O :/O ``/O encourage/O them/O to/O think/O through/O the/O process/O of/O financing/O their/O education/O ,/O how/O they/O are/O going/O to/O do/O it/O and/O what/O they/O are/O going/O to/O pursue/O to/O make/O that/O happen/O ,/O ''/O Making/O sure/O that/O his/O last/O payment/O counted/O for/O something/O ./O 
+Right/O down/O ,/O to/O the/O last/O penny/O ./O 
+Andrew/PERSON is/O n't/O done/O with/O his/O pennies/O yet/O ./O 
+He/O 'll/O help/O the/O business/O office/O take/O them/O to/O the/O bank/O unique_identifier/O Community/O Considers/O `/O Penny/O Protest/O '/O Against/O Sewer/O Fee/O Hike/O How/O would/O you/O like/O to/O pay/O nearly/O $/O 65/O a/O month/O just/O to/O flush/O your/O toilet/O ?/O 
+That/O what/O 's/O some/O members/O of/O Benton/ORGANIZATION County/ORGANIZATION Sewer/ORGANIZATION District/ORGANIZATION #/ORGANIZATION 1/O face/O ./O 
+Some/O are/O blaming/O their/O neighbors/O for/O the/O money/O troubles/O ./O 
+About/O 360/O people/O get/O their/O sewer/O service/O from/O this/O group/O which/O functions/O like/O a/O co-op/O ./O 
+Some/O of/O them/O are/O irate/O with/O what/O they/O call/O questionable/O spending/O ,/O record/O keeping/O ,/O and/O other/O practices/O ./O 
+``/O Why/O do/O n't/O they/O go/O after/O the/O money/O that/O was/O owed/O them/O ,/O ''/O says/O George/PERSON Hall/PERSON ./O 
+He/O says/O the/O sewer/O district/O that/O gets/O the/O money/O from/O this/O bill/O is/O considering/O raising/O its/O fees/O ./O 
+A/O proposal/O would/O mean/O he/O 'd/O pay/O about/O $/O 9/O more/O a/O month/O ./O ''/O 
+-LSB-/O Some/O customers/O -RSB-/O ca/O n't/O afford/O it/O now/O ,/O and/O if/O you/O raise/O rates/O ,/O if/O they/O pay/O that/O ,/O then/O you/O 're/O going/O to/O take/O food/O off/O their/O table/O just/O so/O they/O can/O flush/O the/O toliet/O ,/O ''/O Hall/PERSON says/O ./O 
+Hall/O is/O a/O former/O board/O member/O and/O administrator/O of/O the/O Benton/ORGANIZATION County/ORGANIZATION Sewer/ORGANIZATION District/ORGANIZATION #/ORGANIZATION 1/O in/O the/O Warsaw/LOCATION ,/O Missouri/LOCATION area/O ./O 
+He/O 's/O also/O on/O an/O advisory/O board/O looking/O at/O the/O possible/O hike/O and/O alternatives/O ./O 
+He/O says/O the/O board/O for/O the/O district/O has/O n't/O collected/O all/O the/O money/O it/O should/O have/O from/O some/O customers/O ./O 
+He/O showed/O KOLR/KOZL/O documents/O from/O 2004/O ./O 
+He/O 's/O concerned/O the/O hit/O the/O district/O is/O taking/O from/O those/O write-offs/O will/O get/O passed/O along/O to/O paying/O members/O through/O a/O higher/O charge/O ./O 
+``/O You/O discover/O questionable/O billing/O practices/O ./O 
+Questionable/O aging/O reports/O ,/O ''/O says/O Hall/PERSON ./O 
+``/O We/O 're/O under/O an/O FBI/ORGANIZATION investigation/O ./O 
+From/O what/O we/O 're/O understanding/O ,/O it/O 's/O supposed/O to/O be/O done/O the/O end/O of/O this/O month/O and/O hopefully/O some/O of/O these/O answers/O can/O be/O answered/O ,/O ''/O said/O Randy/PERSON James/PERSON ,/O president/O of/O the/O sewer/O district/O 's/O board/O ./O 
+The/O Benton/ORGANIZATION County/ORGANIZATION Sheriff/ORGANIZATION says/O his/O office/O was/O investigating/O the/O finances/O of/O Benton/ORGANIZATION County/ORGANIZATION Sewer/ORGANIZATION District/ORGANIZATION #/O 1/O ./O 
+It/O handed/O off/O the/O information/O to/O the/O Federal/ORGANIZATION Bureau/ORGANIZATION of/ORGANIZATION Investigations/ORGANIZATION ./O 
+The/O FBI/ORGANIZATION would/O not/O confirm/O or/O deny/O the/O existence/O of/O any/O possible/O investigation/O ./O 
+Current/O volunteer/O board/O members/O at/O the/O sewer/O district/O say/O it/O faces/O hundreds/O of/O thousands/O of/O dollars/O in/O improvements/O to/O an/O aging/O system/O ./O 
+And/O one/O that/O 's/O facing/O new/O regulations/O ./O 
+``/O If/O there/O is/O some/O way/O that/O we/O can/O cut/O more/O off/O the/O bottom/O of/O the/O belt/O ,/O then/O we/O will/O do/O that/O to/O make/O this/O thing/O work/O ,/O ''/O James/PERSON said/O ./O 
+The/O fee/O increase/O is/O on/O hold/O while/O an/O advisory/O board/O looks/O into/O its/O options/O ./O 
+And/O while/O it/O is/O ,/O Hall/PERSON says/O some/O members/O of/O the/O district/O are/O considering/O sending/O only/O a/O penny/O on/O their/O bills/O to/O try/O to/O bankrupt/O the/O district/O ./O 
+Hall/O ,/O his/O girlfriend/O ,/O and/O a/O friend/O are/O trying/O to/O get/O a/O positions/O on/O the/O board/O ./O 
+He/O says/O district/O leaders/O also/O fired/O him/O from/O his/O past/O positions/O ./O 
+Hall/PERSON 's/O supporters/O say/O that/O was/O an/O attempt/O to/O silence/O him/O ./O 
+Board/O members/O say/O Hall/PERSON was/O n't/O qualified/O for/O the/O board/O role/O and/O they/O could/O n't/O afford/O to/O pay/O him/O as/O an/O administrator/O ./O 
+unique_identifier/O Criminal/O law/O :/O Man/O faces/O fine/O for/O penny/O protest/O A/O penny/O saved/O is/O a/O penny/O earned/O ,/O but/O try/O spending/O a/O few/O thousand/O pennies/O and/O you/O could/O end/O up/O with/O a/O hefty/O fine/O ./O 
+This/O was/O true/O for/O Jason/PERSON West/PERSON of/O Utah/LOCATION ,/O USA/LOCATION ,/O who/O faces/O a/O criminal/O conviction/O for/O paying/O a/O debt/O with/O coppers/O ./O 
+Mr/O West/O had/O been/O sent/O a/O $/O 25/O bill/O from/O his/O doctor/O 's/O office/O ,/O Basin/ORGANIZATION Clinic/ORGANIZATION ,/O which/O he/O disputed/O ./O 
+Feeling/O frustrated/O by/O the/O clinic/O 's/O poor/O customer/O service/O ,/O Mr/PERSON West/PERSON decided/O to/O go/O to/O the/O clinic/O in/O person/O to/O pay/O his/O bill/O ,/O with/O 2,500/O pennies/O ./O 
+After/O confirming/O with/O the/O receptionist/O that/O the/O clinic/O took/O payments/O in/O cash/O ,/O he/O said/O ,/O ``/O Lucky/O for/O me/O ,/O I/O happen/O to/O have/O it/O on/O me/O ,/O ''/O and/O proceeded/O to/O pour/O the/O coins/O onto/O the/O receptionist/O 's/O counter/O ./O 
+Many/O of/O the/O coins/O spilled/O off/O the/O counter/O to/O the/O floor/O and/O to/O the/O desk/O where/O the/O receptionist/O was/O sitting/O ./O 
+Although/O ,/O as/O Mr/PERSON West/PERSON said/O ,/O ``/O That/O 's/O just/O the/O nature/O of/O pennies/O ./O 
+They/O 're/O round/O ./O ''/O 
+The/O clinic/O alleged/O that/O Mr/O West/O 's/O actions/O were/O aggressive/O and/O it/O stated/O :/O ``/O We/O will/O not/O tolerate/O pennies/O or/O any/O other/O objects/O being/O thrown/O at/O our/O employees/O ./O ''/O 
+However/O ,/O Mr/PERSON West/PERSON denies/O any/O aggression/O on/O his/O part/O ,/O claiming/O ,/O ``/O I/O did/O n't/O at/O any/O time/O yell/O at/O them/O ./O 
+I/O did/O n't/O go/O on/O a/O rant/O ./O 
+I/O was/O n't/O irate/O ./O ''/O 
+He/O claims/O that/O he/O calmly/O asked/O for/O a/O receipt/O and/O told/O the/O billing/O clerk/O :/O ``/O I/O 'm/O willing/O to/O wait/O if/O you/O want/O to/O count/O them/O so/O you/O can/O make/O sure/O you/O got/O every/O penny/O ./O ''/O 
+Local/O police/O ,/O arriving/O at/O the/O clinic/O after/O Mr/PERSON West/PERSON had/O left/O ,/O confirmed/O that/O they/O found/O pennies/O ``/O strewn/O about/O the/O counter/O and/O the/O floor/O ''/O of/O the/O clinic/O ./O 
+Assistant/O Vernal/O Police/O Chief/O Keith/PERSON Campbell/PERSON said/O that/O Mr/PERSON West/PERSON 's/O penny/O stunt/O ``/O served/O no/O legitimate/O purpose/O ''/O ./O 
+To/O which/O Mr/PERSON West/PERSON responded/O :/O ``/O I/O would/O say/O that/O I/O had/O a/O legitimate/O purpose/O and/O it/O was/O to/O resolve/O a/O billing/O dispute/O and/O pay/O it/O ,/O and/O to/O protest/O how/O I/O 'd/O been/O treated/O ./O ''/O 
+If/O Mr/PERSON West/PERSON is/O found/O guilty/O of/O disorderly/O conduct/O ,/O he/O will/O be/O fined/O $/O 140/O ,/O or/O 14,000/O pennies/O ./O 
+Under/O UK/LOCATION legislation/O ,/O it/O is/O not/O permitted/O to/O repay/O large/O debts/O in/O coppers/O ./O 
+According/O to/O the/O Coinage/O Act/O 1971/O :/O ``/O Bronze/O shall/O be/O legal/O tender/O .../O for/O payment/O of/O any/O amount/O not/O exceeding/O 20/O pence/O ./O ''/O 
+Although/O this/O does/O not/O mean/O you/O are/O unable/O to/O pay/O for/O a/O #/O 1/O item/O in/O pennies/O :/O that/O is/O perfectly/O legal/O ,/O as/O long/O as/O the/O seller/O is/O agreeable/O ./O 
+unique_identifier/O Customer/ORGANIZATION Says/ORGANIZATION Grocery/ORGANIZATION Stores/ORGANIZATION Would/O n't/O Accept/O $/O 32/O In/O Quarters/O Any/O number/O of/O stores/O have/O policies/O against/O accepting/O cash/O in/O denominations/O higher/O than/O $/O 20/O or/O $/O 50/O bills/O ,/O but/O what/O about/O loose/O change/O ?/O 
+A/O woman/O in/O Portland/LOCATION -LRB-/O the/O one/O on/O the/O left/O side/O of/O the/O country/O -RRB-/O says/O her/O local/O grocery/O stores/O refused/O to/O let/O her/O use/O quarters/O to/O pay/O for/O $/O 32/O in/O groceries/O ./O 
+``/O We/O had/O nothing/O to/O feed/O our/O children/O with/O ,/O ''/O the/O woman/O tells/O KATU-TV/O ./O 
+``/O So/O we/O broke/O out/O the/O change/O ./O ''/O 
+She/O says/O she/O waited/O until/O the/O checkout/O line/O at/O Save-A-Lot/O had/O cleared/O before/O trying/O to/O pay/O so/O she/O would/O n't/O be/O holding/O anyone/O up/O while/O the/O change/O was/O counted/O ./O 
+``/O And/O when/O I/O went/O up/O ,/O I/O told/O them/O ,/O you/O know/O `/O I/O have/O change/O ./O 
+Sorry/O ,/O it/O 's/O hard/O times/O right/O now/O ./O '/O 
+And/O they/O go/O ,/O `/O well/O we/O can/O only/O accept/O $/O 5/O ,/O '/O ''/O she/O recalls/O ,/O saying/O that/O tried/O the/O ``/O Money/O 's/O money/O ''/O argument/O with/O the/O cashier/O ,/O but/O to/O no/O avail/O ./O 
+Mortified/O ,/O she/O headed/O over/O to/O Fred/PERSON Meyer/PERSON ,/O where/O the/O manager/O informed/O her/O she/O would/O have/O to/O use/O the/O coin-counting/O machine/O ,/O which/O takes/O a/O 10/O %/O fee/O ./O 
+The/O woman/O said/O she/O could/O n't/O afford/O to/O lose/O that/O much/O and/O began/O crying/O ./O 
+After/O another/O customer/O offered/O to/O buy/O her/O change/O from/O her/O ,/O the/O manager/O relented/O and/O agreed/O to/O accept/O the/O quarters/O ./O 
+When/O KATU/PERSON reached/O out/O to/O Fred/PERSON Meyer/PERSON ,/O the/O store/O replied/O :/O We/O apologize/O for/O the/O inconvenience/O the/O customer/O experienced/O at/O the/O store/O .../O Receiving/O change/O for/O a/O payment/O is/O a/O rare/O occurrence/O ./O 
+Fred/PERSON Meyer/PERSON stores/O do/O accept/O change/O as/O payment/O and/O we/O will/O work/O with/O our/O store/O directors/O and/O management/O teams/O to/O ensure/O they/O know/O this/O ./O 
+Save-A-Lot/O issued/O a/O similar/O statement/O :/O We/O deeply/O apologize/O for/O the/O misunderstanding/O that/O occurred/O recently/O at/O our/O SE/O Foster/O location/O ./O 
+As/O a/O corporate/O policy/O ,/O we/O accept/O all/O forms/O of/O payment/O ,/O except/O for/O American/ORGANIZATION Express/ORGANIZATION ./O 
+There/O is/O no/O maximum/O limit/O on/O cash/O payments/O ,/O specifically/O those/O involving/O coins/O of/O any/O type/O ./O 
+KATU/PERSON checked/O with/O other/O area/O grocery/O stores/O ,/O all/O of/O which/O said/O they/O accept/O change/O as/O payment/O ./O 
+But/O when/O they/O went/O into/O those/O same/O stores/O pretending/O to/O be/O customers/O ,/O reporters/O discovered/O quite/O the/O opposite/O :/O QFC/ORGANIZATION would/O only/O accept/O $/O 5/O or/O $/O 6/O in/O loose/O change/O ./O 
+Albertsons/ORGANIZATION said/O they/O would/O only/O accept/O $/O 5/O ./O 
+WinCo/O and/O Safeway/ORGANIZATION did/O n't/O have/O a/O cutoff/O ,/O but/O said/O they/O tell/O customers/O to/O use/O the/O change/O machine/O ./O 
+Only/O Whole/O Foods/O and/O New/ORGANIZATION Seasons/ORGANIZATION accepted/O the/O full/O amount/O of/O change/O with/O no/O hassles/O ./O 
+Contrary/O to/O what/O many/O people/O will/O tell/O you/O ,/O there/O is/O no/O federal/O law/O requiring/O private/O businesses/O to/O accept/O coins/O --/O or/O any/O sort/O of/O cash/O --/O as/O payment/O for/O goods/O or/O services/O ./O 
+But/O if/O these/O stores/O are/O going/O to/O go/O on/O the/O record/O as/O accepting/O coins/O ,/O then/O they/O should/O make/O sure/O their/O employees/O understand/O store/O policy/O ./O 
+unique_identifier/O Dade/LOCATION City/LOCATION woman/O pays/O $/O 11,075.44/O tax/O bill/O in/O dollar/O bills/O and/O pennies/O Whatever/O prompted/O Julann/PERSON Roe/PERSON to/O pay/O her/O property/O tax/O bill/O in/O $/O 1/O bills/O and/O pennies/O --/O whether/O a/O political/O protest/O or/O a/O statement/O about/O taxes/O in/O general/O --/O was/O n't/O made/O clear/O Monday/O morning/O ./O 
+The/O 52-year-old/O simply/O strode/O into/O the/O Dade/LOCATION City/LOCATION tax/O office/O and/O plopped/O two/O duffle/O bags/O packed/O with/O cash/O onto/O the/O counter/O ./O 
+She/O pulled/O more/O cash/O from/O a/O handbag/O and/O declared/O ,/O ``/O I/O want/O to/O pay/O my/O tax/O bill/O ./O ''/O 
+With/O that/O ,/O five/O county/O staffers/O spent/O the/O next/O hour/O counting/O money/O --/O $/O 11,075.44/O ./O 
+That/O 's/O after/O a/O discount/O for/O paying/O ahead/O of/O the/O March/O 31/O deadline/O ./O 
+``/O We/O wanted/O to/O make/O sure/O we/O got/O it/O right/O ,/O that/O she/O did/O n't/O overpay/O ,/O ''/O Pasco/O Tax/O Collector/O Mike/PERSON Fasano/PERSON said/O ./O 
+Roe/PERSON ,/O a/O frequent/O critic/O of/O government/O spending/O ,/O was/O cordial/O and/O polite/O ,/O but/O never/O gave/O a/O reason/O for/O paying/O her/O property/O tax/O in/O dollar/O bills/O and/O pennies/O ,/O even/O when/O prompted/O by/O a/O customer/O service/O representative/O ./O 
+Last/O year/O ,/O Roe/PERSON paid/O $/O 10,734.34/O in/O property/O taxes/O ,/O about/O $/O 341/O less/O than/O this/O year/O ./O 
+``/O She/O did/O n't/O express/O anything/O to/O anyone/O about/O that/O ,/O ''/O Fasano/PERSON said/O ./O 
+``/O She/O just/O stood/O and/O watched/O ./O ''/O 
+Roe/PERSON could/O not/O be/O reached/O for/O comment/O Tuesday/O ./O 
+She/O lives/O in/O Dade/LOCATION City/LOCATION with/O her/O husband/O ,/O Gregory/PERSON Roe/PERSON ,/O who/O owns/O New/LOCATION Port/LOCATION Richey-based/O Roe/ORGANIZATION Insurance/ORGANIZATION ./O 
+The/O two/O own/O a/O 41.5-acre/O property/O on/O Mickler/LOCATION Road/LOCATION valued/O at/O $/O 711,447/O ./O 
+In/O addition/O to/O the/O 4,014-square-foot/O ,/O two-story/O house/O ,/O records/O show/O the/O property/O includes/O a/O pool/O ,/O a/O hot/O tub/O ,/O an/O outdoor/O fireplace/O and/O horse/O stalls/O ./O 
+Roe/PERSON has/O frequently/O clashed/O with/O Pasco/O commissioners/O over/O spending/O ,/O and/O during/O recent/O budget/O hearings/O criticized/O officials/O for/O considering/O a/O pay/O raise/O for/O county/O employees/O ,/O even/O though/O they/O had/O n't/O had/O one/O in/O six/O years/O ./O 
+Fasano/PERSON was/O left/O wondering/O how/O she/O came/O up/O with/O that/O many/O dollar/O bills/O :/O ``/O I/O can/O only/O assume/O she/O contacted/O the/O bank/O early/O enough/O to/O let/O them/O know/O she/O would/O be/O withdrawing/O money/O --/O and/O wanted/O it/O all/O in/O dollar/O bills/O ./O ''/O 
+unique_identifier/O David/PERSON Penberthy/PERSON :/O Adelaide/LOCATION 's/O parking/O fine/O guy/O is/O latest/O poster/O boy/O for/O excruciating/O online/O vanity/O THE/ORGANIZATION Adelaide/ORGANIZATION guy/O who/O tried/O to/O pay/O his/O $/O 60/O parking/O fine/O with/O a/O pile/O of/O 5c/O pieces/O has/O become/O something/O of/O a/O folk/O hero/O since/O his/O actions/O were/O broadcast/O on/O advertiser.com.au/O this/O week/O ./O 
+He/O has/O been/O commended/O for/O standing/O up/O to/O a/O shiftless/O bureaucracy/O ,/O really/O sticking/O it/O to/O the/O man/O by/O not/O just/O paying/O in/O coins/O ,/O but/O tipping/O the/O coins/O all/O over/O the/O counter/O in/O front/O of/O the/O irritated/O staff/O ./O 
+His/O antics/O were/O given/O added/O hipness/O by/O the/O fact/O he/O filmed/O himself/O on/O his/O smartphone/O and/O posted/O the/O footage/O on/O a/O website/O for/O other/O like-minded/O people/O who/O also/O enjoy/O posting/O footage/O of/O themselves/O on/O websites/O ./O 
+Rather/O than/O labelling/O this/O bloke/O a/O folk/O hero/O ,/O I/O would/O opt/O for/O a/O shorter/O descriptor/O which/O starts/O with/O ``/O w/O ''/O and/O rhymes/O with/O anchor/O ./O 
+This/O anonymous/O chap/O is/O the/O latest/O poster/O boy/O for/O the/O modern/O phenomenon/O of/O excruciating/O online/O vanity/O ./O 
+The/O trend/O has/O become/O widespread/O ./O 
+Our/O former/O prime/O minister/O was/O rightly/O ridiculed/O for/O his/O love/O of/O ``/O selfies/O ''/O and/O his/O use/O of/O social/O media/O sites/O such/O as/O Instagram/ORGANIZATION to/O post/O photos/O of/O himself/O doing/O everything/O from/O cutting/O himself/O shaving/O to/O taking/O an/O important/O telephone/O call/O from/O Barack/PERSON Obama/PERSON about/O the/O crisis/O in/O Syria/LOCATION ./O 
+How/O 's/O that/O for/O gravitas/O ./O 
+female/O motorist/O putting/O Warren/PERSON Brown/PERSON 's/O cartoon/O `/O How/O Parking/O Meters/O Work/O '/O ./O 
+In/O the/O case/O of/O parking/O fine/O boy/O ,/O he/O cooked/O up/O his/O little/O stunt/O with/O a/O view/O to/O filming/O himself/O so/O he/O could/O achieve/O the/O ultimate/O form/O of/O modern/O affirmation/O ,/O by/O going/O viral/O ./O 
+The/O more/O repellent/O aspect/O of/O his/O conduct/O is/O that/O he/O engaged/O in/O what/O I/O regard/O as/O one/O of/O the/O lower/O forms/O of/O human/O behaviour/O ,/O namely/O being/O rude/O and/O aggressive/O to/O the/O poor/O receptionist/O ./O 
+It/O has/O always/O puzzled/O me/O why/O people/O will/O take/O out/O their/O anger/O with/O businesses/O or/O governments/O by/O unloading/O their/O fury/O on/O the/O lowest-paid/O staff/O who/O ,/O more/O often/O than/O not/O ,/O are/O women/O ./O 
+If/O this/O guy/O wanted/O to/O complain/O ,/O he/O should/O complain/O to/O the/O people/O who/O set/O policy/O ,/O not/O to/O the/O poor/O sheila/O sitting/O on/O the/O front/O desk/O who/O 's/O getting/O paid/O close/O to/O minimum/O wage/O for/O her/O troubles/O ./O 
+And/O not/O be/O such/O a/O wanker/O wally/O that/O instead/O of/O just/O leaving/O the/O coins/O there/O ,/O he/O tipped/O them/O all/O over/O the/O desk/O and/O the/O carpet/O so/O that/O this/O poor/O bloody/O woman/O had/O to/O clean/O them/O up/O herself/O ./O 
+The/O nature/O of/O his/O beef/O is/O so/O marginal/O as/O to/O be/O laughable/O ./O 
+His/O bombastic/O quotes/O are/O hilarious/O ./O 
+``/O You/O 're/O part/O of/O a/O corporation/O I/O do/O n't/O want/O to/O deal/O with/O ,/O ''/O the/O man/O said/O as/O he/O left/O the/O building/O ./O 
+It/O 's/O the/O kind/O of/O rhetoric/O you/O would/O expect/O from/O activists/O occupying/O the/O headquarters/O of/O some/O evil/O global/O multinational/O which/O had/O been/O covertly/O poisoning/O the/O water/O supply/O in/O a/O developing/O country/O ./O 
+Or/O perhaps/O something/O you/O would/O hear/O chanted/O at/O a/O rally/O about/O the/O Central/ORGANIZATION Intelligence/ORGANIZATION Agency/ORGANIZATION 's/O intervention/O in/O the/O Americas/LOCATION ./O 
+It/O was/O ,/O in/O fact/O ,/O the/O Adelaide/ORGANIZATION City/ORGANIZATION Council/ORGANIZATION ./O 
+The/O only/O reason/O this/O guy/O ended/O up/O having/O to/O deal/O with/O this/O ``/O corporation/O ''/O is/O that/O he/O is/O too/O stupid/O to/O know/O how/O to/O park/O his/O car/O legally/O ./O 
+As/O for/O the/O fine/O he/O had/O to/O pay/O ,/O 60/O bucks/O is/O nothing/O ./O 
+Try/O parking/O illegally/O in/O the/O eastern/O states/O and/O you/O wo/O n't/O get/O any/O change/O from/O $/O 100/O ./O 
+If/O there/O is/O any/O justice/O ,/O the/O council/O will/O send/O him/O 1200/O individual/O receipts/O for/O each/O of/O the/O 5c/O payments/O he/O made/O ./O 
+The/O punchline/O is/O that/O it/O is/O not/O legal/O to/O pay/O in/O coins/O anyway/O so/O he/O is/O going/O to/O have/O to/O go/O through/O the/O process/O again/O ./O 
+Unless/O ,/O of/O course/O ,/O he/O wants/O to/O shift/O things/O up/O a/O gear/O by/O setting/O himself/O alight/O or/O going/O on/O a/O hunger/O strike/O or/O seeing/O if/O Amnesty/ORGANIZATION International/ORGANIZATION can/O get/O involved/O ./O 
+Do/O n't/O rule/O any/O of/O this/O out/O ./O 
+In/O a/O world/O where/O kids/O are/O being/O gassed/O with/O sarin/O in/O Syria/LOCATION ,/O this/O outrage/O by/O a/O tiny/O council/O is/O the/O thing/O that/O occupies/O this/O fellow/O 's/O mind/O ./O 
+What/O a/O remarkable/O lack/O of/O perspective/O ./O 
+unique_identifier/O Dealership/O Gives/O Woman/O Refund/O In/O Pennies/O When/O a/O college/O student/O tried/O to/O get/O a/O refund/O for/O her/O trouble-prone/O Saab/ORGANIZATION from/O a/O Jacksonville/LOCATION car/O dealership/O ,/O they/O handed/O her/O two/O bags/O full/O of/O coins/O ./O 
+In/O January/O ,/O Irena/PERSON Mujakovic/PERSON bought/O a/O 2003/O Saab/ORGANIZATION from/O Holiday/ORGANIZATION Motors/ORGANIZATION in/O Jacksonville/LOCATION Florida/LOCATION ./O 
+Soon/O after/O she/O encountered/O transmission/O problems/O and/O promptly/O took/O it/O back/O to/O the/O dealership/O for/O repair/O ./O 
+The/O dealership/O fixed/O the/O transmission/O and/O sold/O her/O a/O warranty/O ./O 
+Then/O the/O transmission/O failed/O again/O ./O 
+She/O thought/O the/O warranty/O she/O purchased/O would/O cover/O both/O the/O parts/O and/O the/O labor/O ./O 
+From/O First/O Coast/O News/O -/O ``/O First/O time/O I/O paid/O $/O 300/O second/O time/O they/O asked/O me/O $/O 400/O saying/O how/O the/O warranty/O does/O n't/O cover/O labor/O ,/O ''/O said/O Mujakovic/PERSON ,/O ``/O I/O though/O it/O unfair/O because/O nobody/O said/O that/O to/O me/O ./O ''/O 
+Mujkavic/PERSON was/O never/O told/O that/O her/O warranty/O did/O not/O include/O labor/O ./O 
+Ed/PERSON Di/PERSON Miranda/PERSON who/O runs/O the/O dealership/O admits/O that/O he/O never/O disclosed/O that/O information/O ./O 
+``/O The/O warranty/O did/O not/O cover/O labor/O and/O I/O failed/O to/O write/O that/O in/O and/O that/O was/O her/O loophole/O ,/O ''/O That/O is/O when/O Mujkavic/PERSON filed/O a/O complaint/O with/O the/O DMV/ORGANIZATION ,/O who/O ordered/O Holiday/ORGANIZATION Motors/ORGANIZATION to/O refund/O her/O money/O ./O 
+When/O Mujkavic/PERSON went/O to/O collect/O they/O handed/O her/O a/O few/O bills/O and/O bags/O full/O of/O pennies/O ./O 
+When/O asked/O if/O the/O payment/O was/O retaliation/O Miranda/PERSON responded/O -/O ``/O I/O am/O doing/O what/O DMV/ORGANIZATION asked/O me/O to/O do/O ,/O ''/O he/O said/O ``/O it/O is/O legal/O tender/O ./O ''/O 
+I/O understand/O that/O many/O people/O do/O not/O have/O the/O finances/O to/O lease/O or/O buy/O a/O new/O or/O lightly/O used/O car/O ,/O but/O if/O you/O are/O going/O to/O get/O a/O cheap/O car/O try/O to/O stay/O away/O from/O shady/O dealerships/O like/O this/O one/O ./O 
+And/O definitely/O do/O n't/O buy/O an/O old/O Saab/ORGANIZATION from/O a/O shady/O used/O car/O dealership/O ./O 
+unique_identifier/O Here/O ,/O take/O your/O money/O !/O 
+Disgruntled/O client/O pays/O dealer/O $/O 19,000/O in/O COINS/O for/O new/O car/O .../O but/O the/O owner/O is/O n't/O buying/O it/O */O */O Ong/PERSON Boon/PERSON Lin/PERSON was/O ordered/O to/O pay/O Exotic/O Motor/O for/O legal/O fees/O */O */O */O He/O dumped/O SGD$/O 18,997.28/O of/O coins/O soaked/O in/O fish/O juices/O in/O the/O shop/O */O */O */O Some/O of/O the/O coins/O were/O only/O 10/O cents/O ,/O and/O came/O from/O overseas/O currencies/O */O */O */O S/O **/O hop/O owners/O Tang/PERSON Siu/PERSON Tong/PERSON said/O he/O has/O lost/O 80/O per/O cent/O of/O his/O customers/O */O */O */O He/O is/O considering/O replacing/O the/O carpet/O ,/O which/O could/O cost/O $/O 4000/O */O */O */O Under/O Singaporean/O law/O ,/O coins/O of/O a/O denomination/O smaller/O than/O 50/O cents/O can/O only/O be/O payed/O for/O an/O amount/O of/O up/O to/O $/O 2/O */O A/O luxury/O car/O salesman/O knew/O something/O smelled/O fishy/O when/O a/O customer/O paid/O him/O in/O AUD$/O 17,063.38/O -LRB-/O SGD$/O 18,997.28/O -RRB-/O in/O stinking/O coins/O ./O 
+Last/O Tuesday/O ,/O Ong/PERSON Boon/PERSON Lin/PERSON ,/O 34/O ,/O entered/O Exotic/ORGANIZATION Motor/ORGANIZATION ,/O a/O shop/O specialising/O in/O Ferraris/O and/O Bentleys/O ,/O pushing/O a/O white/O box/O on/O a/O trolley/O ./O 
+Things/O took/O a/O turn/O for/O the/O weird/O when/O he/O toppled/O the/O box/O over/O ,/O covering/O the/O shop/O in/O a/O mountain/O of/O coins/O -/O all/O of/O which/O reportedly/O reeked/O of/O fish/O ./O 
+Mr/O Lin/PERSON then/O toppled/O the/O box/O over/O ,/O covering/O the/O shop/O in/O a/O mountain/O of/O coins-all/O of/O which/O were/O reportedly/O soaked/O in/O fish/O juices/O Mr/O Lin/PERSON ,/O 34/O ,/O lost/O a/O lawsuit/O against/O the/O dealership/O over/O money/O he/O claimed/O was/O owed/O to/O him/O over/O an/O Aston/ORGANIZATION Martin/ORGANIZATION V8/ORGANIZATION Vantage/ORGANIZATION he/O bought/O from/O Exotic/O Motor/O ,/O a/O luxury/O car/O dealership/O in/O Singapore/LOCATION ./O 
+The/O court/O ordered/O he/O repay/O the/O car/O 's/O road/O tax/O and/O insurance/O ,/O as/O well/O as/O reimburse/O the/O shop/O for/O legal/O fees/O ,/O reports/O Stuff/O NZ/O So/O in/O a/O statement/O of/O disapproval/O over/O the/O decision/O ,/O Mr/PERSON Bin/PERSON paid/O the/O money/O he/O was/O owed/O in/O about/O 100/O kilograms/O of/O smelly/O coins/O ,/O from/O numerous/O different/O currencies/O ./O 
+The/O coins/O were/O valued/O at/O 10/O ,/O 20/O and/O 50/O cents/O ,/O with/O some/O from/O Malaysia/LOCATION and/O Thailand/LOCATION ./O 
+The/O car/O dealership/O 's/O workers/O were/O left/O to/O pack/O the/O money/O into/O about/O ten/O bags/O ,/O which/O were/O then/O carted/O into/O a/O car/O boot/O -/O but/O not/O without/O leaving/O an/O overwhelmingly/O fishy/O odour/O that/O 's/O not/O likely/O to/O go/O away/O soon/O ./O 
+The/O owner/O of/O the/O shop/O ,/O Tang/PERSON Siu/PERSON Tong/PERSON ,/O said/O :/O `/O The/O coins/O were/O soaked/O in/O market/O juices/O ,/O and/O smelled/O of/O fish/O ./O 
+It/O stank/O up/O the/O whole/O place/O and/O I/O had/O to/O hire/O professionals/O to/O get/O rid/O of/O it/O ./O 
+But/O the/O smell/O is/O still/O there/O ./O '/O '/O 
+I/O am/O keeping/O the/O coins/O in/O 10/O separate/O bags/O .../O My/O lawyers/O are/O arranging/O to/O have/O it/O returned/O ,/O I/O am/O definitely/O not/O going/O to/O accept/O it/O ./O '/O 
+Man/O pays/O dealership/O $/O 19,000/O in/O fishy/O smelling/O coins/O for/O new/O car/O Staff/O at/O the/O car/O dealership/O were/O left/O to/O pack/O the/O money/O into/O ten/O bags/O ,/O but/O they/O still/O left/O a/O fishy/O smell/O in/O the/O showroom/O Staff/O at/O the/O car/O dealership/O were/O left/O to/O pack/O the/O money/O into/O ten/O bags/O ,/O but/O they/O still/O left/O a/O fishy/O smell/O in/O the/O showroom/O The/O owner/O of/O Exotic/ORGANIZATION Motor/ORGANIZATION ,/O Tang/PERSON Siu/PERSON Tong/PERSON ,/O said/O the/O shop/O still/O smelt/O awful/O despite/O showing/O his/O dealership/O in/O air/O fresheners/O for/O three/O days/O ./O 
+He/O believes/O he/O may/O even/O have/O to/O replace/O the/O carpet/O The/O owner/O of/O Exotic/ORGANIZATION Motor/ORGANIZATION ,/O Tang/PERSON Siu/PERSON Tong/PERSON ,/O said/O the/O shop/O still/O smelt/O awful/O despite/O showing/O his/O dealership/O in/O air/O fresheners/O for/O three/O days/O ./O 
+He/O believes/O he/O may/O even/O have/O to/O replace/O the/O carpet/O Dealership/O owner/O complains/O about/O fishy/O smell/O in/O showroom/O Media/ORGANIZATION Corp/ORGANIZATION reported/O that/O the/O shop/O still/O smelled/O awful/O after/O three/O days/O of/O using/O air/O fresheners/O ,/O and/O they/O are/O now/O considering/O replacing/O the/O carpet/O ,/O which/O will/O cost/O him/O $/O 4000/O ./O 
+Mr/O Tong/PERSON also/O claimed/O the/O coin/O dumping/O incident/O has/O seen/O him/O lose/O 80/O per/O cent/O of/O his/O customers/O ./O 
+Mr/O Lin/PERSON 's/O lawyer/O had/O allegedly/O told/O the/O shop/O his/O client/O would/O drop/O off/O the/O money/O that/O day/O ./O 
+The/O 34/O year/O old/O businessman/O says/O he/O does/O n't/O see/O anything/O wrong/O with/O his/O method/O of/O payment/O ./O 
+He/O told/O local/O tabloid/O The/O New/O Paper/O that/O he/O did/O it/O because/O he/O was/O upset/O with/O the/O shop/O ./O 
+`/O Was/O it/O too/O much/O ?/O 
+I/O was/O really/O unhappy/O with/O his/O business/O practice/O and/O I/O paid/O the/O amount/O in/O full/O ./O 
+So/O ,/O no/O ,/O '/O Mr/O Lin/PERSON said/O ./O 
+Under/O Singapore/LOCATION 's/O Currency/O Laws/O ,/O coins/O of/O a/O denomination/O smaller/O than/O 50/O cents/O can/O only/O be/O payed/O for/O an/O amount/O of/O up/O to/O $/O 2/O ,/O while/O only/O $/O 1/O dollar/O coins/O and/O larger/O can/O be/O used/O for/O a/O bigger/O sum/O ./O 
+Exotic/O Motor/O ,/O a/O luxury/O car/O dealership/O in/O Singapore/LOCATION that/O specialises/O in/O Ferrari/ORGANIZATION 's/O and/O Bentleys/O Exotic/O Motor/O ,/O a/O luxury/O car/O dealership/O in/O Singapore/LOCATION that/O specialises/O in/O Ferrari/ORGANIZATION 's/O and/O Bentleys/O The/O Aston/ORGANIZATION Martin/ORGANIZATION V8/ORGANIZATION Vantage/ORGANIZATION ./O 
+Mr/O Lin/PERSON was/O ordered/O by/O court/O to/O reimburse/O the/O shop/O for/O the/O car/O 's/O road/O tax/O and/O insurance/O ,/O as/O well/O as/O legal/O fees/O The/O Aston/ORGANIZATION Martin/ORGANIZATION V8/ORGANIZATION Vantage/ORGANIZATION ./O 
+Mr/O Lin/PERSON was/O ordered/O by/O court/O to/O reimburse/O the/O shop/O for/O the/O car/O 's/O road/O tax/O and/O insurance/O ,/O as/O well/O as/O legal/O fees/O unique_identifier/O Disgruntled/O customer/O settles/O entire/O $/O 19k/O legal/O stoush/O with/O coins/O A/O disgruntled/O customer/O has/O settled/O a/O legal/O stoush/O in/O Singapore/LOCATION by/O paying/O the/O $/O 19,000/O he/O owned/O ,/O in/O coins/O ./O 
+Businessman/O Ong/PERSON Boon/PERSON Lin/PERSON ,/O 34/O ,/O reportedly/O lost/O a/O lawsuit/O against/O Exotic/ORGANIZATION Motors/ORGANIZATION ,/O who/O stock/O luxury/O cars/O including/O Ferraris/O ,/O after/O it/O helped/O to/O pay/O for/O his/O Aston/ORGANIZATION Martin/ORGANIZATION 's/O road/O tax/O and/O insurance/O ./O 
+Mr/O Ong/PERSON was/O also/O ordered/O to/O pay/O another/O $/O 8,000/O in/O lawyer/O 's/O fees/O ./O 
+After/O losing/O the/O lawsuit/O Mr/O Ong/PERSON walked/O into/O the/O dealership/O and/O dumped/O around/O 100/O kilograms/O worth/O of/O coins/O ,/O which/O apparently/O smelled/O like/O fish/O ,/O reports/O the/O Straits/ORGANIZATION Times/ORGANIZATION ./O 
+``/O The/O coins/O were/O soaked/O in/O market/O juices/O ,/O and/O smelled/O of/O fish/O ./O 
+It/O stank/O up/O the/O whole/O place/O and/O I/O had/O to/O hire/O professionals/O to/O get/O rid/O of/O it/O ./O 
+But/O the/O smell/O is/O still/O there/O ,/O ''/O Exotic/O Motor/O 's/O owner/O Tang/PERSON Siu/PERSON Tong/PERSON said/O ,/O according/O to/O Fairfax/LOCATION ./O 
+``/O I/O am/O keeping/O the/O coins/O in/O 10/O separate/O bags/O ./O 
+My/O lawyers/O are/O arranging/O to/O have/O it/O returned/O ,/O I/O am/O definitely/O not/O going/O to/O accept/O it/O ./O ''/O 
+Mr/O Ong/PERSON ,/O 34/O ,/O reportedly/O said/O he/O paid/O in/O coins/O to/O express/O his/O disagreement/O with/O the/O court/O 's/O judgment/O and/O the/O car/O dealer/O 's/O actions/O ./O 
+Under/O Singapore/LOCATION 's/O Currency/O Act/O ,/O coins/O in/O denominations/O of/O less/O than/O 50/O cents/O can/O not/O be/O used/O for/O payments/O of/O more/O than/O $/O 2/O ./O 
+unique_identifier/O Disgruntled/O Man/O Pays/O Fine/O in/O Coins/O ,/O Bank/O Workers/O Spend/O All/O Day/O Counting/O Money/O Sometime/O last/O year/O ,/O a/O woman/O named/O Wu/PERSON was/O eating/O at/O a/O noodle/O shop/O when/O she/O and/O her/O husband/O got/O into/O an/O altercation/O with/O its/O owner/O ./O 
+The/O argument/O turned/O physical/O and/O Wu/PERSON suffered/O a/O brain/O contusion/O while/O her/O husband/O left/O with/O three/O broken/O ribs/O ./O 
+Justice/O was/O served/O ,/O and/O the/O court/O awarded/O Wu/PERSON damages/O ./O 
+The/O disgruntled/O shop/O owner/O paid/O Wu/PERSON the/O bulk/O of/O the/O 68,000/O yuan/O fine/O ,/O but/O gave/O a/O remaining/O 10,000/O yuan/O in/O the/O form/O of/O eight/O large/O bags/O of/O coins/O ./O 
+Wu/PERSON deposited/O half/O the/O change/O ,/O which/O took/O 18/O bank/O workers/O in/O Kunming/LOCATION all/O day/O to/O count/O ./O 
+unique_identifier/O Disgruntled/O with/O his/O bank/O ,/O California/LOCATION man/O decides/O to/O pay/O credit/O card/O bill/O with/O 650,000/O pennies/O Upset/O with/O his/O bank/O ,/O a/O man/O paid/O a/O $/O 6,500/O credit/O card/O bill/O with/O 650,000/O pennies/O ./O 
+How/O do/O you/O make/O a/O statement/O to/O your/O bank/O ?/O 
+Try/O paying/O in/O pennies/O ./O 
+Disgruntled/O over/O a/O rejected/O refinance/O and/O charges/O and/O fees/O on/O his/O credit/O card/O ,/O a/O California/LOCATION man/O decided/O he/O would/O pay/O his/O $/O 6,500/O credit/O card/O bill/O using/O 650,000/O pennies/O ./O 
+Thierry/PERSON Cahez/PERSON owns/O a/O business/O called/O Opera/O Desserts/O ./O 
+He/O loaded/O up/O his/O delivery/O van/O with/O the/O pennies/O and/O tried/O to/O deliver/O them/O to/O his/O bank/O ./O 
+``/O Today/O 's/O the/O 14th/O ,/O my/O credit/O card/O is/O due/O today/O and/O I/O have/O all/O my/O pennies/O in/O the/O truck/O ,/O ''/O said/O Cahez/PERSON ./O 
+Cahez/PERSON says/O he/O 's/O tried/O to/O make/O the/O payment/O for/O days/O ./O 
+``/O Different/O time/O ,/O different/O branches/O and/O they/O all/O send/O me/O away/O ./O 
+Very/O bad/O attitude/O ,/O ''/O said/O Cahez/PERSON ./O 
+Cahez/PERSON says/O he/O was/O told/O he/O needed/O to/O roll/O the/O coins/O ,/O but/O after/O rolling/O them/O and/O bringing/O them/O back/O ,/O they/O still/O would/O n't/O take/O them/O ./O 
+A/O bank/O spokesman/O says/O the/O bank/O refused/O the/O coins/O because/O of/O they/O did/O n't/O have/O a/O place/O to/O store/O them/O ./O 
+Thierry/PERSON was/O sent/O to/O another/O branch/O with/O a/O bigger/O vault/O ./O 
+unique_identifier/O Doctor/O Pays/O $/O 500,000/O Settlement/O In/O Quarters/O A/O 76/O year/O old/O doctor/O tragically/O lost/O his/O son/O in/O a/O car/O accident/O ./O 
+There/O were/O others/O in/O the/O car/O at/O the/O time/O who/O were/O seriously/O injured/O but/O survived/O ./O 
+Dr./O Roger/PERSON Herrin/PERSON believed/O that/O he/O was/O entitled/O to/O a/O vast/O majority/O of/O the/O insurance/O benefits/O from/O the/O accident/O ./O 
+An/O appellate/O court/O disagreed/O ./O 
+The/O court/O had/O ruled/O that/O Dr./O Herrin/PERSON over-collected/O the/O insurance/O ,/O and/O was/O ordered/O to/O pay/O $/O 500,000/O back/O to/O the/O survivors/O of/O the/O crash/O ./O 
+This/O did/O not/O sit/O well/O with/O the/O doctor/O to/O say/O the/O least/O ./O 
+But/O he/O had/O a/O plan/O ./O 
+An/O armored/O truck/O pulled/O up/O to/O a/O Marion/O ,/O IL/LOCATION bank/O and/O opened/O it/O 's/O doors/O ./O 
+Inside/O revealed/O 150/O bags/O of/O .../O loose/O quarters/O !/O 
+That/O 's/O right/O !/O 
+Quarters/O ./O 
+After/O loading/O the/O bag/O of/O quarters/O onto/O a/O flatbed/O truck/O ,/O the/O doctor/O delivered/O the/O bags/O to/O two/O law/O firms/O ./O 
+When/O all/O was/O said/O and/O done/O ,/O the/O bags/O lay/O waiting/O to/O be/O picked/O up/O in/O the/O lobby/O of/O both/O law/O firms/O ./O 
+According/O to/O the/O doctor/O ,/O this/O was/O his/O way/O of/O protesting/O the/O court/O ruling/O ./O 
+``/O They/O were/O not/O happy/O ./O 
+They/O did/O n't/O know/O what/O they/O were/O going/O to/O do/O with/O it/O ./O 
+And/O I/O was/O n't/O real/O congenial/O ,/O ''/O said/O Dr./O Herrin/PERSON ./O 
+Fun/O fact/O :/O the/O bags/O of/O quarters/O weighed/O close/O to/O 4/O tons/O !/O 
+The/O quarters/O amounted/O to/O $/O 150,000/O of/O the/O overall/O $/O 500,000/O ./O 
+The/O rest/O of/O the/O settlement/O was/O in/O checks/O ./O 
+But/O back/O to/O this/O bizarre/O settlement/O payment/O .../O Dr./O Herrin/PERSON had/O already/O won/O a/O wrongful/O death/O claim/O that/O awarded/O him/O $/O 1.65/O million/O ./O 
+That/O was/O surely/O not/O money/O the/O other/O passengers/O were/O entitled/O to/O have/O ./O 
+``/O Frankly/O ,/O I/O do/O n't/O need/O the/O money/O ,/O ''/O said/O the/O Dr./O Herrin/PERSON ./O 
+In/O regards/O to/O the/O settlement/O ,/O he/O thought/O it/O unfair/O to/O return/O the/O money/O when/O the/O only/O life/O lost/O was/O that/O of/O his/O son/O ./O 
+The/O under-insured/O motorist/O coverage/O on/O the/O other/O hand/O was/O set/O at/O $/O 800,000/O ./O 
+This/O was/O to/O be/O dispensed/O amongst/O the/O survivors/O ./O 
+However/O ,/O no/O matter/O how/O you/O look/O at/O it/O ,/O the/O doctor/O was/O indeed/O proud/O of/O his/O coin/O trick/O ./O 
+unique_identifier/O MTA/ORGANIZATION says/O just/O say/O no/O to/O pennies/O MTA/ORGANIZATION seeking/O to/O discourage/O use/O of/O halves/O ,/O pennies/O ./O 
+A/O penny/O for/O your/O thoughts/O but/O ,/O please/O ,/O not/O for/O your/O bus/O fare/O ./O 
+The/O Mass/ORGANIZATION Transit/ORGANIZATION Administration/ORGANIZATION is/O asking/O bus/O passengers/O not/O to/O insert/O pennies/O and/O half-dollars/O in/O the/O automatic/O fare/O counters/O beginning/O May/O 31/O ./O 
+Officials/O claim/O the/O move/O will/O make/O the/O sorting/O of/O coins/O more/O efficient/O ,/O keep/O costs/O down/O ,/O prevent/O delays/O in/O boarding/O ,/O and/O reduce/O their/O chances/O of/O making/O mistakes/O ./O 
+``/O It/O takes/O a/O lot/O of/O effort/O for/O a/O customer/O to/O use/O pennies/O ,/O which/O delays/O boarding/O for/O the/O other/O passengers/O ,/O ''/O said/O Dianna/PERSON Rosborough/PERSON ,/O an/O MTA/ORGANIZATION spokeswoman/O ./O 
+``/O Buses/O are/O the/O only/O mode/O of/O transportation/O that/O accepted/O pennies/O and/O we/O want/O to/O standardize/O things/O ./O ''/O 
+The/O problem/O with/O half-dollars/O was/O somewhat/O different/O ./O 
+A/O new/O student/O token/O --/O which/O will/O replace/O the/O MTA/ORGANIZATION 's/O student/O passes/O --/O is/O similar/O in/O size/O to/O a/O John/PERSON F./PERSON Kennedy/PERSON half-dollar/O and/O there/O was/O concern/O that/O change/O machines/O would/O mistake/O the/O two/O ./O 
+The/O MTA/ORGANIZATION 's/O request/O that/O passengers/O drop/O the/O use/O of/O pennies/O means/O riders/O would/O have/O to/O forgo/O a/O popular/O coin/O ,/O if/O not/O a/O profitable/O one/O ./O 
+MTA/ORGANIZATION buses/O average/O 81,512/O pennies/O a/O day/O ,/O which/O only/O amounts/O to/O about/O $/O 815/O ./O 
+By/O comparison/O ,/O the/O agency/O rakes/O in/O slightly/O less/O than/O $/O 73,000/O in/O $/O 1/O and/O $/O 5/O bills/O daily/O from/O all/O bus/O and/O subway/O users/O ./O 
+The/O half-dollar/O is/O a/O different/O story/O ./O 
+The/O MTA/ORGANIZATION only/O gets/O about/O 132/O of/O the/O 50-cent/O pieces/O a/O day/O from/O bus/O and/O rail/O travelers/O ./O 
+Counting/O coins/O is/O serious/O business/O for/O the/O state/O agency/O ./O 
+The/O MTA/ORGANIZATION takes/O in/O about/O $/O 132,710/O in/O cash/O each/O day/O from/O Metro/LOCATION and/O bus/O riders/O in/O the/O Baltimore/LOCATION area/O ,/O about/O 45/O percent/O of/O it/O in/O the/O form/O of/O coins/O ./O 
+One/O of/O the/O Metro/LOCATION system/O 's/O quirks/O is/O its/O reliance/O on/O Susan/PERSON B./PERSON Anthony/PERSON $/O 1/O coins/O ./O 
+Fare/O machines/O do/O not/O accept/O dollar/O bills/O so/O subway/O passengers/O must/O first/O convert/O bills/O into/O dollar/O coins/O and/O then/O purchase/O a/O ticket/O ./O 
+The/O ticketing/O machines/O on/O the/O new/O Central/ORGANIZATION Light/ORGANIZATION Rail/ORGANIZATION system/O have/O a/O similar/O taste/O for/O dollar/O coins/O ./O 
+If/O a/O rider/O pays/O for/O a/O $/O 1.10/O one-way/O ticket/O with/O a/O $/O 5/O bill/O ,/O he/O or/O she/O will/O receive/O three/O Susan/PERSON B/PERSON 's/O along/O with/O the/O other/O assorted/O change/O ./O 
+Neither/O the/O subway/O nor/O the/O light-rail/O system/O accepts/O pennies/O or/O half-dollars/O ./O 
+In/O addition/O to/O accepting/O nickels/O ,/O dimes/O and/O quarters/O ,/O MTA/ORGANIZATION buses/O also/O will/O continue/O to/O take/O in/O tokens/O and/O tickets/O and/O honor/O monthly/O passes/O ./O 
+Even/O pennies/O and/O half-dollars/O will/O not/O be/O refused/O ./O 
+MTA/ORGANIZATION officials/O insist/O they/O just/O want/O to/O discourage/O their/O use/O ./O 
+``/O No/O one/O will/O be/O inconvenienced/O ,/O ''/O said/O Ms./O Rosborough/PERSON ./O 
+``/O We/O just/O want/O to/O bring/O some/O uniformity/O into/O the/O system/O ,/O especially/O with/O light-rail/O coming/O on/O line/O ./O ''/O 
+unique_identifier/O Do/O n't/O Mess/O with/O New/LOCATION Jersey/LOCATION :/O Paying/O with/O Pennies/O Got/O Man/O Into/O Trouble/O Frank/PERSON Gilberti/PERSON thought/O that/O his/O traffic/O ticket/O was/O ``/O non-cents/O ./O ''/O 
+He/O noticed/O that/O the/O Bloomfield/LOCATION ,/O New/LOCATION Jersey/LOCATION ,/O municipal/O court/O accepts/O cash/O to/O pay/O the/O fine/O ,/O so/O he/O decided/O to/O pay/O with/O real/O cents/O :/O $/O 56/O in/O pennies/O !/O 
+That/O 's/O when/O he/O got/O into/O more/O trouble/O :/O //O ``/O I/O went/O to/O the/O bank/O and/O got/O $/O 56/O worth/O of/O rolled/O pennies/O and/O went/O down/O to/O the/O court/O house/O and/O they/O refused/O to/O take/O it/O ./O 
+They/O had/O told/O me/O to/O bring/O cash/O ./O 
+I/O was/O under/O the/O assumption/O this/O was/O cash/O ./O ''/O 
+//O //O Non-cents/O ?/O 
+Not/O really/O ./O 
+Pennies/O are/O legal/O tender/O ./O 
+In/O fact/O ,/O at/O the/O courthouse/O WCBS-TV/ORGANIZATION found/O a/O sign/O saying/O cash/O is/O accepted/O ./O 
+That/O 's/O why/O the/O Nutley/LOCATION resident/O said/O he/O fought/O back/O ,/O calling/O the/O court/O and/O convincing/O workers/O there/O to/O take/O his/O pennies/O ./O 
+//O //O But/O the/O 22-year-old/O said/O there/O was/O a/O condition/O --/O that/O he/O write/O his/O driver/O 's/O license/O number/O on/O each/O roll/O ./O 
+``/O I/O simply/O asked/O them/O if/O I/O would/O have/O to/O do/O just/O this/O if/O I/O were/O handing/O in/O $/O 56/O bill/O ./O 
+Would/O I/O have/O to/O write/O my/O driver/O 's/O license/O number/O on/O each/O bill/O ?/O 
+They/O had/O no/O response/O ,/O ''/O Gilberti/PERSON said/O ./O 
+//O //O And/O even/O more/O shocking/O he/O said/O :/O ``/O Then/O I/O found/O out/O there/O was/O a/O warrant/O out/O for/O my/O arrest/O ./O ''/O 
+//O unique_identifier/O Driver/O paid/O #/O 25/O fine/O with/O 2500/O pennies/O after/O wardens/O saw/O his/O ticket/O but/O it/O was/O n't/O on/O dashboard/O A/O driver/O paid/O a/O #/O 25/O parking/O fine/O with/O 2,500/O 1p/O coins/O after/O he/O showed/O officials/O his/O valid/O pay-and-display/O ticket/O but/O they/O would/O not/O let/O him/O off/O ./O 
+Kenneth/PERSON Lambourne/PERSON ,/O 64/O ,/O put/O the/O #/O 1.50/O payment/O receipt/O on/O his/O dashboard/O but/O it/O was/O blown/O into/O the/O footwell/O when/O he/O opened/O his/O door/O ./O 
+He/O withdrew/O 13lb/O of/O coins/O from/O the/O bank/O after/O council/O officials/O saw/O the/O ticket/O but/O upheld/O the/O fine/O ./O 
+Kenneth/PERSON ,/O of/O Chippenham/LOCATION ,/O Wilts/O ,/O said/O :/O ``/O I/O did/O it/O to/O make/O a/O point/O ./O ''/O 
+Wiltshire/ORGANIZATION Council/ORGANIZATION said/O it/O was/O a/O driver/O 's/O responsibility/O to/O display/O a/O ticket/O properly/O ./O 
+unique_identifier/O Earl/PERSON Warren/PERSON teacher/O 's/O efforts/O pay/O off/O with/O $/O 4,600/O for/O Pennies/O for/O Patients/O During/O the/O month/O of/O February/O ,/O Earl/ORGANIZATION Warren/ORGANIZATION Elementary/ORGANIZATION School/ORGANIZATION participated/O in/O the/O Pennies/O for/O Patients/O program/O ,/O which/O raises/O money/O for/O children/O with/O leukemia/O ,/O lymphoma/O and/O other/O blood/O cancers/O ./O 
+To/O jump-start/O the/O fundraising/O ,/O fourth-grade/O teacher/O Arlette/PERSON Garcia/PERSON organized/O fun/O events/O ./O 
+Students/O donated/O money/O and/O received/O water/O balloons/O to/O toss/O at/O teachers/O ,/O pieces/O of/O tape/O to/O stick/O Principal/O Carolyn/PERSON Olsen/PERSON to/O a/O chair/O and/O paper/O hearts/O to/O cover/O up/O the/O word/O ``/O leukemia/O ./O ''/O 
+Thanks/O to/O Garcia/PERSON 's/O efforts/O ,/O students/O raised/O $/O 4,621.94/O ./O 
+Congratulations/O !/O 
+unique_identifier/O Eighth/O graders/O get/O detentions/O for/O paying/O for/O lunch/O in/O pennies/O Twenty-nine/O eighth/O graders/O at/O a/O Hunterdon/LOCATION County/LOCATION school/O received/O two/O days/O detention/O after/O they/O paid/O for/O their/O $/O 2/O lunches/O with/O pennies/O ,/O officials/O said/O ./O 
+The/O 8th/O graders/O at/O Readington/ORGANIZATION Middle/ORGANIZATION School/ORGANIZATION were/O protesting/O having/O only/O 30/O minutes/O for/O lunch/O each/O day/O ./O 
+They/O received/O detentions/O for/O slowing/O the/O cafeteria/O line/O and/O disrespecting/O lunch/O aides/O ,/O who/O had/O to/O count/O the/O 5,800/O copper-plated/O coins/O ,/O said/O Superintendent/O Jorden/PERSON Schiff/PERSON ./O 
+There/O were/O approximately/O 200/O students/O in/O the/O cafeteria/O during/O Thursday/O 's/O lunch/O period/O ,/O Schiff/PERSON said/O ./O 
+The/O detentions/O called/O for/O spending/O an/O hour/O of/O silence/O in/O a/O classroom/O after/O school/O ./O 
+``/O Most/O reasonable/O people/O understand/O that/O the/O school/O needed/O to/O respond/O to/O this/O ,/O ''/O he/O said/O ./O 
+Schiff/PERSON said/O school/O officials/O would/O work/O to/O harness/O the/O organizational/O power/O and/O desire/O of/O the/O students/O and/O channel/O it/O towards/O something/O that/O could/O impact/O the/O greater/O good/O ./O 
+unique_identifier/O El/LOCATION Salvador/LOCATION 's/O Rudy/PERSON Valencia/PERSON pays/O $/O 1,200/O dollar/O fine/O in/O coins/O El/ORGANIZATION Salvador/ORGANIZATION midfielder/O Rudy/PERSON Valencia/PERSON was/O not/O impressed/O at/O being/O handed/O a/O $/O 1,200/O for/O leaving/O the/O national/O team/O 's/O without/O permission/O recently/O ./O 
+He/O got/O some/O sort/O of/O revenge/O this/O week/O when/O he/O arrived/O at/O the/O FA/LOCATION headquarters/O to/O pay/O his/O fine/O in/O small/O coins/O ./O 
+The/O full/O amount/O was/O paid/O in/O 1/O ,/O 5/O ,/O 10/O ,/O and/O 25/O cent/O pieces/O ./O 
+Officials/O warned/O that/O Valencia/ORGANIZATION could/O now/O face/O an/O additional/O fine/O for/O disrespect/O ./O 
+OTP/O can/O only/O hope/O he/O 'll/O pay/O that/O one/O with/O postage/O stamps/O ./O 
+unique_identifier/O Event/O promoter/O pays/O litter/O fine/O --/O in/O 1c/O and/O 2c/O coins/O MURDER/O might/O be/O on/O the/O menu/O for/O a/O city/O entertainment/O group/O but/O they/O wo/O n't/O be/O allowed/O to/O advertise/O their/O dark/O deeds/O on/O the/O city/O 's/O streets/O after/O being/O hit/O with/O a/O $/O 150/O litter/O fine/O ./O 
+However/O the/O entrepreneur/O behind/O the/O `/O Murder/O on/O the/O Menu/O '/O enterprise/O decided/O after/O a/O long/O battle/O to/O pay/O his/O fine/O last/O Friday/O at/O City/ORGANIZATION Hall/ORGANIZATION in/O pretty/O unconventional/O fashion/O .../O presenting/O his/O $/O 150/O `/O levy/O '/O in/O a/O large/O bag/O of/O one/O and/O two/O cent/O coins/O ./O 
+Bruce/PERSON Henry/PERSON ,/O who/O presents/O his/O murder/O mystery/O dramas/O to/O the/O likes/O of/O hen/O celebrations/O and/O private/O parties/O ,/O was/O `/O hit/O '/O with/O a/O $/O 150/O fine/O from/O a/O City/ORGANIZATION Council/ORGANIZATION warden/O after/O putting/O up/O a/O poster/O advertising/O his/O service/O five/O months/O ago/O ./O 
+``/O As/O a/O small/O business/O owner/O ,/O we/O 're/O just/O trying/O to/O make/O a/O living/O and/O it/O 's/O so/O frustrating/O when/O my/O one/O sign/O is/O taken/O down/O and/O destroyed/O and/O I/O 'm/O served/O with/O a/O $/O 150/O fine/O ./O 
+``/O This/O is/O done/O while/O at/O the/O same/O time/O politicians/O are/O granted/O nearly/O unrestricted/O access/O to/O blanket/O the/O entire/O city/O with/O election/O posters/O which/O are/O double/O the/O size/O of/O my/O poster/O ,/O ''/O said/O Bruce/PERSON Henry/PERSON ./O 
+Last/O Friday/O --/O in/O `/O an/O act/O of/O civil/O disobedience/O '/O --/O he/O went/O up/O to/O City/LOCATION Hall/LOCATION and/O paid/O his/O fine/O of/O $/O 150/O for/O `/O litter/O pollution/O '/O in/O one/O and/O two/O cent/O coins/O ./O 
+``/O This/O is/O to/O protest/O at/O the/O way/O in/O which/O the/O Council/ORGANIZATION have/O treated/O me/O ,/O ''/O said/O Mr./O Henry/PERSON ./O 
+A/O spokesman/O for/O the/O City/ORGANIZATION Council/ORGANIZATION told/O the/O Connacht/ORGANIZATION Sentinel/ORGANIZATION that/O the/O only/O postering/O allowed/O in/O the/O city/O under/O the/O law/O was/O for/O candidates/O during/O a/O designated/O period/O in/O the/O run-up/O to/O elections/O ./O 
+``/O This/O is/O nothing/O against/O any/O individual/O ./O 
+Many/O people/O have/O been/O fined/O for/O putting/O up/O posters/O --/O it/O is/O simply/O against/O the/O law/O and/O is/O not/O allowed/O ./O ''/O 
+unique_identifier/O Exclusive/O :/O Man/O Pays/O Thousands/O In/O Property/O Taxes/O With/O $/O 1/O Bills/O In/O Protest/O Robert/PERSON Fernandes/PERSON ,/O an/O IT/O manger/O from/O Forks/LOCATION Township/LOCATION ,/O PA/ORGANIZATION ,/O has/O three/O children/O ./O 
+None/O of/O which/O go/O to/O the/O local/O public/O school/O in/O their/O new/O town/O ./O 
+``/O We/O home/O school/O our/O children/O ./O 
+Doing/O so/O has/O many/O associated/O costs/O ,/O ''/O says/O Fernandes/PERSON ./O 
+Regardless/O of/O the/O fact/O that/O the/O Fernandes/PERSON family/O does/O n't/O use/O the/O public/O school/O system/O he/O got/O a/O tax/O bill/O for/O $/O 7,143/O ./O 
+According/O to/O Fernandes/PERSON ,/O ``/O The/O town/O 's/O tax/O system/O is/O broken/O up/O ./O 
+There/O are/O about/O 3/O different/O taxes/O assessed/O on/O property/O owners/O ./O 
+The/O school/O 's/O portion/O of/O the/O property/O tax/O bill/O comes/O in/O the/O mail/O right/O as/O children/O of/O the/O public/O school/O system/O head/O back/O into/O class/O after/O the/O Summer/O months/O ./O ''/O 
+In/O protest/O ,/O Fernandes/PERSON went/O to/O the/O bank/O and/O took/O out/O $/O 7,134/O in/O single/O USDs/O ./O 
+He/O loaded/O the/O thousands/O into/O a/O duffle/O bag/O ,/O stopped/O by/O the/O doughnut/O shop/O and/O headed/O to/O the/O local/O tax/O office/O in/O the/O Easton/ORGANIZATION Area/ORGANIZATION School/ORGANIZATION District/ORGANIZATION to/O pay/O his/O ``/O fair/O share/O ''/O ./O 
+``/O I/O brought/O the/O doughnuts/O just/O in/O case/O anyone/O felt/O I/O was/O trying/O to/O inconvenience/O them/O ./O 
+I/O wanted/O to/O be/O friendly/O and/O cordial/O ./O 
+I/O just/O wanted/O to/O prove/O my/O point/O ,/O ''/O says/O Fernandes/PERSON ./O 
+More/O than/O 10,000/O people/O lose/O their/O home/O in/O PA/LOCATION every/O year/O because/O of/O the/O burdensome/O property/O taxes/O ./O 
+Fernandes/PERSON makes/O clear/O in/O the/O video/O that/O this/O process/O in/O not/O voluntary/O ./O 
+He/O is/O only/O paying/O in/O fear/O that/O if/O he/O does/O not/O pay/O -/O someone/O will/O show/O up/O at/O his/O house/O to/O take/O his/O property/O away/O from/O him/O and/O his/O family/O ./O 
+``/O //O I/O 'm/O against/O taxation/O all/O together/O ./O 
+I/O believe/O that/O services/O could/O be/O provided/O more/O efficiently/O voluntarily/O ./O 
+I/O wanted/O to/O make/O a/O point/O ./O 
+It/O 's/O extremely/O tough/O on/O people/O to/O have/O to/O throw/O this/O money/O away/O when/O they/O receive/O no/O benefit/O from/O the/O system/O ./O 
+Also/O ,/O there/O is/O no/O sense/O of/O property/O ownership/O ./O 
+If/O someone/O can/O simply/O force/O you/O to/O give/O them/O your/O money/O and/O take/O your/O property/O away/O from/O you/O even/O if/O you/O have/O paid/O off/O your/O house/O -/O we/O 're/O not/O really/O property/O owners/O ./O 
+It/O 's/O immoral/O at/O best/O ./O 
+//O ''/O Fernandes/PERSON tells/O me/O that/O he/O believes/O there/O is/O a/O better/O way/O to/O fund/O education/O .../O ``/O //O Many/O people/O believe/O there/O is/O no/O way/O to/O fund/O school/O unless/O it/O 's/O done/O in/O this/O manner/O ./O 
+I/O 'd/O like/O to/O see/O the/O government/O get/O out/O of/O education/O all/O together/O ./O 
+If/O schools/O could/O be/O allowed/O to/O compete/O with/O each/O other/O then/O they/O would/O be/O fighting/O for/O student/O enrollment/O ./O 
+People/O will/O send/O their/O money/O to/O the/O schools/O ,/O which/O are/O performing/O best/O ./O 
+The/O two/O variables/O that/O parents/O would/O assess/O would/O be/O cost/O and/O performance/O ./O 
+In/O the/O system/O we/O have/O now/O there/O is/O no/O accountability/O ./O 
+They/O know/O they/O 're/O going/O to/O get/O your/O money/O no/O matter/O what/O ./O 
+It/O provides/O for/O a/O very/O inefficient/O system/O ./O 
+//O ``/O The/O tax/O collector/O would/O not/O count/O the/O money/O ./O 
+``/O I/O 'll/O give/O you/O a/O receipt/O saying/O that/O we/O received/O the/O money/O ,/O but/O not/O that/O it/O was/O accounted/O ,/O ''/O she/O says/O ./O 
+She/O says/O that/O they/O must/O take/O it/O to/O the/O bank/O so/O that/O they/O can/O count/O it/O first/O ./O 
+Fernandes/PERSON ,/O uneasy/O about/O leaving/O the/O cash/O with/O someone/O without/O receiving/O a/O full/O receipt/O ,/O asks/O her/O to/O count/O the/O money/O in/O front/O of/O him/O ./O 
+``/O I/O do/O n't/O want/O to/O leave/O here/O and/O leave/O this/O money/O in/O someone/O else/O 's/O hands/O ./O 
+I/O just/O want/O to/O make/O sure/O ./O 
+I/O mean/O ,/O I/O counted/O this/O money/O ./O 
+They/O take/O money/O from/O people/O and/O they/O ca/O n't/O even/O count/O it/O ,/O ''/O says/O Fernandes/PERSON ./O 
+The/O two/O went/O to/O the/O bank/O together/O where/O the/O money/O was/O finally/O counted/O and/O accepted/O ./O 
+``/O The/O state/O is/O n't/O even/O efficient/O at/O counting/O money/O ./O 
+They/O forcefully/O take/O money/O ,/O ca/O n't/O count/O it/O ,/O and/O then/O we/O have/O to/O go/O to/O a/O private/O business/O so/O it/O can/O be/O counted/O ,/O ''/O he/O says/O ./O 
+According/O to/O Fernandes/PERSON ,/O some/O people/O did/O n't/O get/O the/O point/O of/O the/O video/O ./O 
+``/O //O It/O seems/O like/O there/O were/O many/O people/O who/O did/O n't/O get/O the/O point/O of/O the/O video/O ./O 
+Many/O have/O commented/O that/O I/O am/O greedy/O and/O do/O n't/O want/O to/O pay/O my/O fair/O share/O ./O 
+It/O should/O be/O noted/O that/O people/O should/O n't/O have/O to/O pay/O for/O a/O service/O they/O do/O n't/O want/O or/O even/O use/O ./O 
+I/O think/O it/O 's/O really/O important/O that/O people/O understand/O that/O there/O are/O better/O ways/O to/O provide/O an/O education/O than/O by/O kicking/O people/O out/O of/O their/O homes/O for/O not/O being/O able/O to/O pay/O a/O bill/O on/O property/O that/O they/O supposedly/O own/O ./O 
+There/O are/O more/O creative/O ways/O to/O do/O it/O than/O through/O force/O ./O 
+//O ''/O unique_identifier/O Furious/O father/O pays/O back/O $/O 500,000/O insurance/O claim/O over/O car/O crash/O that/O killed/O his/O son/O in/O 4/O TONS/O of/O quarters/O */O */O Survivors/O of/O car/O crash/O that/O killed/O 15-year-old/O appeal/O against/O father/O 's/O payout/O */O */O */O Illinois/LOCATION man/O forced/O to/O return/O part/O of/O claim/O paid/O after/O teenager/O 's/O death/O A/O father/O who/O was/O forced/O to/O pay/O back/O part/O of/O the/O insurance/O money/O he/O was/O awarded/O when/O his/O 15-year-old/O son/O was/O killed/O in/O a/O car/O crash/O has/O made/O the/O payment/O in/O quarters/O to/O protest/O at/O the/O ruling/O ./O 
+An/O armored/O car/O was/O used/O to/O deliver/O a/O third/O of/O the/O $/O 500,000/O to/O two/O Illinois/LOCATION law/O firms/O that/O Roger/PERSON Herrin/PERSON was/O ordered/O to/O repay/O ./O 
+Mr/O Herrin/PERSON ,/O of/O Harrisburg/LOCATION ,/O was/O forced/O to/O pay/O back/O the/O funds/O after/O the/O survivors/O of/O the/O crash/O that/O killed/O his/O son/O appealed/O a/O decision/O that/O awarded/O him/O the/O larger/O share/O of/O the/O insurance/O money/O ./O 
+Delivery/O :/O Roger/PERSON Herrin/PERSON ,/O whose/O son/O was/O killed/O in/O a/O crash/O ,/O decided/O to/O pay/O part/O of/O an/O insurance/O claim/O refund/O in/O quarters/O to/O protest/O at/O the/O decision/O Delivery/O :/O Roger/PERSON Herrin/PERSON ,/O whose/O son/O was/O killed/O in/O a/O crash/O ,/O decided/O to/O pay/O part/O of/O an/O insurance/O claim/O refund/O in/O quarters/O to/O protest/O at/O the/O decision/O His/O son/O ,/O Michael/PERSON ,/O was/O in/O a/O car/O with/O three/O other/O people/O when/O it/O was/O hit/O by/O a/O truck/O that/O failed/O to/O stop/O at/O a/O junction/O in/O June/O 2001/O ./O 
+They/O had/O been/O returning/O from/O playing/O golf/O when/O the/O truck/O hit/O the/O Jeep/O the/O group/O was/O in/O ,/O killing/O Michael/PERSON and/O injuring/O the/O other/O passengers/O ,/O according/O to/O */O WSIL3/O */O ./O 
+Mr/O Herrin/PERSON said/O he/O made/O the/O repayment/O on/O Wednesday/O ,/O using/O quarters/O he/O had/O ordered/O from/O the/O St/ORGANIZATION Louis/ORGANIZATION Federal/ORGANIZATION Reserve/ORGANIZATION ,/O as/O a/O protest/O at/O the/O appeal/O ruling/O ./O 
+`/O There/O was/O no/O satisfaction/O from/O doing/O that/O ./O 
+The/O loss/O of/O a/O child/O is/O the/O loss/O of/O a/O child/O ,/O and/O all/O the/O money/O does/O n't/O replace/O that/O ,/O '/O he/O said/O ./O 
+The/O 76-year-old/O added/O :/O '/O I/O just/O wanted/O to/O draw/O attention/O to/O what/O went/O on/O here/O ./O 
+I/O really/O wanted/O to/O do/O it/O in/O pennies/O ./O '/O 
+Mr/O Herrin/PERSON ,/O a/O retired/O foot/O surgeon/O ,/O arranged/O for/O a/O truck/O carrying/O 150/O bags/O -/O each/O filled/O with/O $/O 1,000/O dollars/O of/O quarters/O and/O weighing/O 50lb/O -/O to/O deliver/O the/O funds/O to/O the/O two/O law/O firms/O ./O 
+`/O They/O can/O have/O all/O the/O money/O in/O the/O world/O and/O I/O 'd/O take/O my/O son/O back/O ,/O '/O Mr/O Herrin/PERSON said/O ./O 
+`/O It/O leaves/O a/O hole/O in/O your/O heart/O that/O is/O never/O repairable/O ./O '/O 
+Protest/O :/O Roger/PERSON Herrin/PERSON watches/O as/O 150/O bags/O ,/O each/O containing/O $/O 1,000/O of/O quarters/O ,/O are/O unloaded/O at/O an/O Illinois/LOCATION law/O firm/O Weight/O of/O grief/O :/O A/O decision/O to/O award/O the/O Herrins/O with/O $/O 600,000/O after/O Michael/PERSON 's/O death/O was/O appealed/O by/O the/O three/O survivors/O of/O the/O crash/O Hefty/O :/O Workers/O carry/O the/O coin/O bags/O that/O weigh/O 50lb/O each/O into/O a/O law/O firm/O The/O legal/O battle/O over/O the/O insurance/O money/O has/O been/O continuing/O since/O the/O crash/O ,/O and/O centers/O on/O the/O distribution/O of/O underinsured/O motorist/O insurance/O ./O 
+The/O Jeep/PERSON Michael/PERSON was/O a/O passenger/O in/O was/O covered/O for/O $/O 800,000/O ./O 
+At/O the/O time/O ,/O a/O judge/O ruled/O that/O because/O his/O son/O had/O died/O ,/O Mr/O Herrin/PERSON should/O be/O awarded/O $/O 600,000/O ./O 
+Through/O other/O lines/O of/O insurance/O ,/O Mr/O Herrin/PERSON and/O his/O ex-wife/O also/O received/O $/O 1.65/O million/O in/O payouts/O ,/O so/O an/O appellate/O court/O ordered/O a/O refund/O of/O part/O of/O his/O share/O ,/O and/O increased/O the/O portion/O awarded/O to/O the/O other/O people/O involved/O in/O the/O crash/O ./O 
+Attorneys/O for/O the/O other/O victims/O have/O not/O commented/O on/O the/O case/O because/O of/O confidentiality/O agreements/O ./O 
+However/O ,/O staff/O at/O the/O law/O firms/O that/O took/O delivery/O of/O the/O quarters/O said/O they/O would/O have/O liked/O notice/O of/O the/O payment/O and/O said/O that/O it/O could/O create/O a/O security/O risk/O for/O them/O ./O 
+Fatal/O :/O Michael/PERSON Herrin/PERSON was/O killed/O when/O a/O truck/O hit/O this/O Jeep/O in/O 2001/O Michael/PERSON Herrin/PERSON crash/O Mark/PERSON Prince/PERSON ,/O who/O represents/O the/O driver/O of/O the/O Jeep/O and/O her/O son/O ,/O told/O the/O */O Bellingham/ORGANIZATION Herald/ORGANIZATION */O :/O `/O We/O 've/O been/O on/O pins/O and/O needles/O because/O we/O had/O a/O lot/O of/O cash/O suddenly/O laying/O around/O ./O '/O 
+He/O added/O :/O `/O We/O do/O n't/O have/O safes/O or/O vaults/O .../O advance/O notice/O would/O have/O been/O nice/O ,/O because/O we/O could/O have/O made/O arrangements/O to/O have/O it/O delivered/O to/O the/O bank/O ./O '/O 
+Douglas/PERSON Dorris/PERSON ,/O an/O attorney/O for/O the/O other/O surviving/O occupant/O of/O the/O Jeep/O ,/O added/O :/O '/O I/O am/O not/O going/O to/O criticize/O a/O man/O who/O lost/O his/O son/O ,/O who/O is/O obviously/O upset/O with/O the/O decisions/O of/O the/O court/O ./O 
+But/O I/O believe/O the/O decisions/O of/O the/O appellate/O court/O follow/O the/O law/O correctly/O ./O '/O 
+unique_identifier/O Fined/O Dundee/ORGANIZATION driver/O tells/O court/O he/O 'll/O pay/O in/O coppers/O A/O Dundee/ORGANIZATION motorcycle/O champion/O convicted/O of/O running/O a/O red/O light/O attempted/O to/O pay/O his/O #/O 120/O fine/O in/O 1p/O and/O 2p/O coins/O ./O 
+John/PERSON Leech/PERSON ,/O who/O disputed/O police/O evidence/O at/O his/O trial/O in/O April/O ,/O had/O paid/O nothing/O towards/O his/O fine/O from/O the/O Justice/O of/O the/O Peace/O court/O in/O Dundee/LOCATION since/O he/O was/O caught/O ./O 
+Mr/O Leech/PERSON ,/O 36/O ,/O of/O Broughty/O Ferry/O ,/O is/O a/O previous/O Scottish/O 125cc/O motorcycle/O champion/O who/O most/O recently/O competed/O in/O the/O Irish/O 350cc/O championships/O ,/O but/O was/O driving/O a/O car/O at/O the/O time/O of/O the/O offence/O ./O 
+He/O argued/O he/O passed/O the/O first/O set/O of/O lights/O at/O the/O junction/O with/O Polepark/LOCATION Road/LOCATION ,/O which/O was/O amber/O at/O the/O time/O ,/O but/O by/O the/O time/O he/O crossed/O over/O the/O other/O side/O of/O the/O junction/O they/O had/O turned/O to/O red/O ./O 
+He/O said/O :/O ``/O The/O police/O were/O at/O Peco/ORGANIZATION Electrics/ORGANIZATION off/O Polepark/LOCATION Road/LOCATION and/O they/O did/O n't/O have/O a/O clear/O view/O of/O me/O ,/O they/O only/O saw/O the/O red/O light/O ./O 
+``/O I/O should/O n't/O have/O been/O prosecuted/O ,/O never/O mind/O convicted/O ./O ''/O 
+Mr/O Leech/PERSON was/O determined/O that/O ,/O if/O he/O had/O to/O pay/O the/O fine/O ,/O he/O would/O make/O sure/O it/O was/O on/O his/O terms/O ./O 
+That/O meant/O paying/O in/O the/O smallest/O denomination/O coins/O he/O could/O --/O 1p/O and/O 2p/O coins/O ,/O which/O he/O gathered/O in/O from/O friends/O and/O family/O through/O a/O Facebook/ORGANIZATION appeal/O ./O 
+He/O turned/O up/O at/O the/O JP/O court/O with/O the/O coins/O in/O a/O big/O carrier/O bag/O and/O offered/O to/O pay/O the/O full/O amount/O immediately/O ./O 
+Before/O going/O into/O court/O he/O told/O The/O Courier/O :/O ``/O I/O 'm/O not/O counting/O it/O ,/O they/O can/O count/O it/O on/O their/O own/O ./O 
+I/O 'm/O not/O bothered/O about/O the/O change/O ,/O if/O it/O 's/O over/O they/O can/O put/O the/O amount/O in/O their/O charity/O box/O or/O take/O it/O to/O the/O Salvation/ORGANIZATION Army/ORGANIZATION ./O 
+``/O They/O are/O stealing/O this/O money/O from/O me/O for/O something/O I/O have/O n't/O done/O ./O 
+What/O about/O the/O poor/O other/O drivers/O who/O do/O n't/O have/O ways/O and/O means/O to/O pay/O for/O it/O ?/O 
+``/O I/O 'm/O not/O refusing/O to/O pay/O --/O it/O 's/O up/O to/O them/O if/O they/O refuse/O to/O take/O my/O payment/O ./O ''/O 
+Once/O inside/O the/O court/O ,/O Mr/O Leech/PERSON was/O called/O into/O the/O dock/O before/O Justice/O of/O the/O Peace/O Christine/PERSON McLeod/PERSON and/O was/O asked/O why/O he/O had/O n't/O paid/O anything/O towards/O the/O #/O 120/O ./O 
+He/O replied/O :/O ``/O I/O 'm/O here/O to/O pay/O it/O today/O ./O ''/O 
+The/O sheriff/O clerk/O then/O asked/O if/O he/O was/O paying/O in/O cash/O ,/O to/O which/O Mr/O Leech/PERSON replied/O :/O ``/O Coins/O ./O ''/O 
+The/O clerk/O asked/O how/O much/O in/O coins/O and/O he/O replied/O :/O ``/O #/O 120/O ./O ''/O 
+The/O clerk/O said/O :/O ``/O We/O do/O n't/O accept/O coins/O ,/O we/O can/O accept/O up/O to/O #/O 20/O in/O coins/O and/O the/O rest/O in/O notes/O ./O ''/O 
+Mr/O Leech/PERSON then/O dumped/O the/O bag/O of/O coins/O over/O the/O top/O of/O the/O dock/O he/O was/O standing/O in/O and/O they/O landed/O with/O a/O thump/O on/O the/O wooden/O floor/O of/O the/O court/O ./O 
+He/O said/O :/O ``/O Are/O you/O refusing/O my/O payment/O ?/O ''/O 
+The/O clerk/O replied/O :/O ``/O We/O are/O not/O refusing/O your/O payment/O ./O 
+If/O you/O want/O to/O pay/O #/O 20/O in/O coins/O that/O 's/O fine/O ,/O then/O #/O 100/O will/O be/O outstanding/O ./O ''/O 
+After/O discussions/O between/O the/O justice/O and/O the/O clerk/O over/O the/O methods/O of/O counting/O and/O paying/O for/O the/O fine/O ,/O the/O JP/ORGANIZATION said/O :/O ``/O Mr/O Leech/PERSON ,/O I/O 'm/O going/O to/O impose/O a/O fine/O enforcement/O order/O of/O #/O 20/O a/O week/O until/O the/O fine/O is/O paid/O ./O 
+``/O You/O can/O pay/O that/O in/O any/O denomination/O you/O choose/O ./O ''/O 
+He/O was/O given/O further/O time/O to/O pay/O ,/O starting/O from/O next/O week/O ./O 
+Afterwards/O Mr/O Leech/PERSON said/O :/O ``/O They/O can/O come/O to/O my/O home/O ./O 
+I/O 'm/O not/O going/O to/O come/O down/O here/O every/O week/O with/O my/O bag/O of/O money/O ./O ''/O 
+unique_identifier/O Florida/LOCATION car/O dealer/O pays/O refund/O in/O pennies/O and/O dollar/O bills/O A/O car/O dealer/O in/O Jacksonville/LOCATION ,/O Florida/LOCATION ,/O had/O to/O give/O a/O customer/O a/O refund/O ./O 
+But/O the/O customer/O says/O the/O dealer/O tried/O to/O get/O the/O last/O laugh/O by/O paying/O $/O 85/O of/O the/O refund/O in/O pennies/O ./O 
+When/O Irena/PERSON Mujakovic/PERSON purchased/O this/O 2003/O Saab/ORGANIZATION she/O did/O n't/O expect/O the/O problems/O she/O encountered/O from/O the/O dealer/O ,/O and/O she/O did/O n't/O expect/O what/O the/O dealer/O would/O do/O when/O he/O was/O ordered/O to/O give/O her/O a/O refund/O ./O 
+Mujakovic/PERSON bought/O the/O car/O in/O January/O from/O Holiday/ORGANIZATION Motors/ORGANIZATION and/O it/O developed/O transmission/O problems/O ./O 
+``/O The/O message/O popped/O up/O saying/O gearbox/O malfunction/O ,/O ''/O Mujakovic/PERSON said/O ./O 
+They/O fixed/O it/O and/O sold/O her/O a/O warranty/O ,/O but/O then/O it/O happened/O again/O ./O 
+``/O First/O time/O ,/O I/O paid/O $/O 300/O ./O 
+Second/O time/O ,/O they/O asked/O me/O $/O 400/O ,/O ''/O Mujakovic/PERSON said/O ./O 
+The/O International/ORGANIZATION College/ORGANIZATION student/O filed/O a/O complaint/O with/O the/O DMV/ORGANIZATION ./O 
+The/O state/O agency/O investigated/O and/O told/O the/O dealer/O to/O give/O her/O a/O refund/O ./O 
+``/O That/O 's/O actually/O money/O that/O I/O borrowed/O ,/O ''/O Mujakovic/PERSON said/O ./O 
+Mujakovic/PERSON says/O this/O week/O she/O went/O to/O get/O her/O refund/O and/O was/O given/O two/O bags/O of/O pennies/O and/O some/O dollar/O bills/O ./O 
+``/O There/O were/O some/O one-dollar/O bills/O ,/O but/O mostly/O pennies/O --/O like/O two/O full/O bags/O ,/O ''/O Mujakovic/PERSON said/O ./O 
+She/O left/O the/O bags/O ./O 
+She/O says/O she/O did/O n't/O know/O if/O it/O is/O the/O correct/O amount/O ,/O $/O 400/O ,/O and/O did/O n't/O have/O time/O to/O count/O it/O ./O 
+``/O I/O 'm/O so/O mad/O with/O them/O ,/O ''/O Mujakovic/PERSON said/O ./O 
+The/O owner/O of/O the/O dealership/O ,/O Ed/PERSON Di/PERSON Miranda/PERSON ,/O declined/O an/O on/O camera/O interview/O ./O 
+Di/PERSON Miranda/PERSON said/O the/O warranty/O did/O not/O cover/O labor/O and/O he/O failed/O to/O write/O that/O in/O ,/O and/O that/O was/O her/O loophole/O ./O 
+He/O said/O ,/O ``/O I/O am/O doing/O what/O DMV/ORGANIZATION asked/O me/O to/O do/O ./O 
+It/O is/O legal/O tender/O ./O ''/O 
+The/O dealer/O said/O it/O 's/O about/O $/O 85/O in/O coins/O and/O the/O rest/O of/O the/O refund/O is/O in/O dollar/O bills/O ./O 
+So/O why/O coins/O ?/O 
+Di/PERSON Miranda/PERSON said/O when/O he/O emptied/O his/O coin/O containers/O ,/O that/O 's/O all/O he/O had/O ./O 
+He/O said/O the/O DMV/ORGANIZATION instructed/O him/O to/O give/O her/O a/O refund/O ,/O but/O did/O n't/O tell/O him/O how/O the/O refund/O should/O be/O made/O ./O 
+As/O far/O as/O he/O 's/O concerned/O ,/O he/O has/O complied/O ./O 
+The/O money/O is/O still/O waiting/O at/O the/O dealership/O for/O her/O to/O pick/O it/O up/O ./O 
+unique_identifier/O Florida/LOCATION car/O dealership/O pays/O back/O woman/O in/O pennies/O ,/O dollar/O bills/O A/O car/O dealership/O in/O Florida/LOCATION was/O ordered/O to/O pay/O a/O refund/O to/O a/O woman/O who/O had/O repeated/O problems/O with/O her/O transmission/O ./O 
+But/O how/O they/O paid/O her/O has/O that/O woman/O fuming/O ./O 
+Irena/PERSON Mujakovic/PERSON bought/O the/O 2003/O Saab/ORGANIZATION in/O January/O from/O Holiday/ORGANIZATION Motors/ORGANIZATION in/O Jacksonville/LOCATION ./O 
+She/O said/O the/O vehicle/O developed/O transmission/O problems/O ./O 
+``/O The/O message/O popped/O up/O ,/O saying/O gearbox/O malfunction/O ,/O ''/O she/O said/O ./O 
+So/O she/O took/O it/O to/O the/O dealership/O ,/O where/O they/O fixed/O it/O and/O sold/O her/O a/O warranty/O ./O 
+But/O then/O it/O happened/O again/O ./O 
+She/O paid/O $/O 300/O the/O first/O time/O ./O 
+The/O second/O time/O ,/O she/O says/O they/O asked/O her/O to/O pay/O $/O 400/O ./O 
+So/O Mujakovic/PERSON filed/O a/O complaint/O with/O the/O Department/ORGANIZATION of/ORGANIZATION Motor/ORGANIZATION Vehicles/ORGANIZATION ,/O and/O after/O an/O investigation/O ,/O the/O dealer/O was/O told/O to/O give/O her/O a/O refund/O ./O 
+But/O when/O Mujakovic/PERSON says/O she/O went/O to/O get/O her/O refund/O ,/O she/O was/O given/O two/O bags/O of/O pennies/O and/O some/O dollar/O bills/O ./O 
+``/O There/O were/O some/O one-dollar/O bills/O ,/O but/O mostly/O pennies/O --/O like/O two/O full/O bags/O ,/O ''/O she/O said/O ./O 
+The/O dealer/O said/O the/O warranty/O did/O n't/O cover/O labor/O and/O he/O failed/O to/O write/O that/O in/O ,/O and/O that/O was/O her/O loophole/O ./O 
+So/O he/O said/O he/O was/O just/O paying/O her/O the/O money/O he/O was/O ordered/O to/O ./O 
+``/O I/O am/O doing/O what/O the/O DMV/ORGANIZATION asked/O me/O to/O do/O ,/O ''/O said/O owner/O Ed/PERSON Di/PERSON Miranda/PERSON ./O 
+``/O It/O is/O legal/O tender/O ./O ''/O 
+Di/PERSON Miranda/PERSON says/O it/O 's/O about/O $/O 85/O in/O coins/O and/O the/O rest/O of/O the/O refund/O in/O dollar/O bills/O ./O 
+unique_identifier/O Forks/ORGANIZATION Township/ORGANIZATION man/O pays/O $/O 7,143/O school/O tax/O bill/O in/O $/O 1/O bills/O Fed/ORGANIZATION up/O with/O having/O to/O pay/O $/O 7,143/O in/O school/O taxes/O for/O a/O district/O his/O children/O do/O n't/O attend/O ,/O a/O Forks/O Township/O man/O paid/O that/O portion/O of/O his/O tax/O bill/O last/O week/O in/O single/O dollar/O bills/O ./O 
+And/O it/O 's/O all/O on/O YouTube/ORGANIZATION ./O 
+Robert/PERSON Fernandes/PERSON ,/O a/O father/O of/O three/O ,/O moved/O to/O Forks/LOCATION Township/LOCATION a/O year/O ago/O from/O Warren/LOCATION County/LOCATION ,/O seeking/O lower/O property/O taxes/O for/O a/O larger/O home/O that/O could/O also/O house/O his/O elderly/O parents/O ./O 
+Fernandes/PERSON commutes/O to/O work/O as/O an/O IT/O manager/O for/O a/O company/O in/O Bedminster/LOCATION Township/LOCATION ,/O N.J./LOCATION ,/O while/O his/O wife/O home-schools/O the/O children/O ,/O ages/O 7/O ,/O 4/O and/O 1/O ./O 
+Fernandes/PERSON says/O he/O got/O a/O great/O deal/O on/O a/O short/O sale/O when/O he/O bought/O his/O home/O ,/O but/O his/O annual/O property/O taxes/O total/O nearly/O $/O 10,000/O ./O 
+Reached/O by/O phone/O Tuesday/O ,/O Fernandes/PERSON said/O he/O does/O n't/O want/O to/O pay/O $/O 7,143/O in/O school/O taxes/O ./O 
+``/O We/O do/O n't/O even/O use/O the/O public/O system/O ,/O yet/O I/O am/O being/O forced/O to/O pay/O all/O this/O money/O into/O a/O public/O school/O system/O ,/O ''/O he/O said/O ./O 
+``/O I/O do/O n't/O think/O that/O 's/O really/O either/O fair/O or/O just/O or/O even/O ethical/O ./O 
+``/O It/O would/O be/O the/O equivalent/O if/O McDonald/ORGANIZATION 's/O were/O to/O force/O vegetarians/O to/O pay/O for/O their/O cheeseburgers/O ./O ''/O 
+Easton/ORGANIZATION Area/ORGANIZATION School/ORGANIZATION District/ORGANIZATION interim/O Superintendent/O John/PERSON Reinhart/PERSON did/O not/O immediately/O return/O a/O phone/O call/O and/O email/O seeking/O comment/O ./O 
+In/O a/O visual/O aid/O displaying/O how/O much/O he/O spends/O on/O the/O school/O district/O ,/O Fernandes/PERSON turned/O up/O Aug./O 27/O at/O the/O Forks/LOCATION Township/LOCATION tax/O office/O with/O stacks/O of/O hundreds/O of/O singles/O ./O 
+He/O says/O on/O the/O YouTube/ORGANIZATION video/O captured/O by/O friends/O that/O most/O taxpayers/O lump/O their/O annual/O taxes/O into/O their/O monthly/O mortgage/O payment/O and/O never/O get/O to/O see/O in/O dollars/O how/O much/O they/O pay/O ./O 
+*/O '/O I/O wanted/O .../O a/O visual/O '/O */O ``/O I/O wanted/O to/O create/O a/O visual/O ;/O they/O do/O n't/O get/O to/O actually/O .../O see/O exactly/O how/O much/O taxes/O is/O being/O stolen/O from/O them/O ,/O ''/O Fernandes/PERSON ,/O who/O visited/O the/O tax/O office/O with/O his/O family/O and/O three/O friends/O ,/O says/O on/O the/O Internet/O video/O ./O 
+``/O And/O I/O am/O using/O the/O word/O stolen/O because/O I/O 'm/O not/O here/O voluntarily/O paying/O this/O money/O to/O anybody/O ./O 
+I/O 'm/O here/O because/O I/O fear/O for/O the/O threat/O somebody/O will/O come/O and/O take/O my/O house/O away/O from/O me/O if/O I/O do/O n't/O pay/O this/O ./O ''/O 
+The/O Forks/O tax/O collector/O ,/O Anne/PERSON Bennett-Morse/PERSON ,/O reminded/O Fernandes/PERSON the/O school/O board/O votes/O on/O the/O school/O budget/O ,/O not/O the/O municipality/O ./O 
+Fernandes/PERSON told/O Bennett-Morse/PERSON he/O did/O n't/O mean/O to/O be/O difficult/O and/O provided/O municipal/O employees/O with/O two/O dozen/O doughnuts/O for/O any/O inconvenience/O ./O 
+``/O It/O needs/O to/O be/O seen/O --/O this/O is/O $/O 7,143.54/O of/O my/O hard-earned/O money/O ,/O ''/O Fernandes/PERSON goes/O on/O to/O say/O ./O 
+``/O It/O 's/O pretty/O tough/O to/O me/O to/O part/O with/O this/O ./O 
+I/O can/O think/O of/O better/O uses/O for/O this/O money/O than/O to/O give/O it/O to/O some/O service/O I/O do/O n't/O use/O ./O ''/O 
+Fernandes/PERSON said/O if/O he/O retires/O by/O age/O 50/O ,/O it/O would/O cost/O him/O an/O estimated/O $/O 400,000/O in/O property/O taxes/O if/O he/O stayed/O in/O his/O home/O until/O age/O 90/O ./O 
+As/O an/O alternative/O ,/O he/O favors/O a/O free/O marketplace/O for/O education/O ./O 
+When/O Bennett-Morse/PERSON asked/O if/O they/O could/O go/O to/O a/O nearby/O bank/O to/O have/O the/O money/O counted/O ,/O Fernandes/PERSON states/O on/O the/O video/O ,/O ``/O I/O think/O it/O says/O a/O lot/O that/O they/O ca/O n't/O even/O count/O this/O large/O amount/O of/O money/O here/O ./O 
+They/O expect/O me/O to/O work/O hard/O for/O it/O and/O other/O people/O to/O work/O hard/O for/O their/O money/O ,/O but/O they/O ca/O n't/O even/O count/O it/O in/O the/O place/O that/O they/O collect/O it/O ./O ''/O 
+*/O Township/O responds/O */O Bennett-Morse/PERSON said/O Tuesday/O she/O had/O no/O issue/O counting/O the/O money/O at/O the/O tax/O office/O but/O did/O n't/O want/O to/O inconvenience/O the/O family/O and/O a/O growing/O line/O of/O taxpayers/O behind/O Fernandes/PERSON waiting/O to/O pay/O their/O bills/O --/O via/O check/O ./O 
+She/O said/O this/O is/O the/O first/O time/O in/O her/O tenure/O anyone/O paid/O their/O bill/O in/O single/O dollars/O or/O change/O ./O 
+Forks/ORGANIZATION Supervisors/ORGANIZATION Chairman/O Erik/PERSON Chuss/PERSON said/O residents/O with/O concerns/O should/O bring/O them/O to/O elected/O officials/O ,/O attend/O public/O meetings/O or/O run/O for/O office/O themselves/O ./O 
+``/O This/O is/O n't/O about/O politics/O ./O 
+This/O is/O about/O morality/O ./O 
+This/O is/O about/O ethics/O ,/O ''/O Fernandes/PERSON said/O ,/O adding/O he/O hopes/O the/O YouTube/ORGANIZATION footage/O hits/O home/O with/O viewers/O ./O 
+``/O I/O 'm/O hoping/O people/O see/O this/O video/O and/O do/O the/O same/O thing/O :/O stop/O paying/O in/O their/O escrow/O and/O mortgage/O and/O start/O paying/O taxes/O the/O way/O I/O did/O ./O ''/O 
+He/O said/O he/O is/O passionate/O about/O various/O issues/O ./O 
+In/O 2011/O ,/O he/O launched/O Lemonade/O Freedom/O ,/O which/O supports/O children/O operating/O lemonade/O stands/O ./O 
+Last/O year/O ,/O he/O helped/O gather/O donations/O for/O Christmas/O presents/O for/O a/O homeless/O shelter/O in/O Philadelphia/LOCATION ./O 
+unique_identifier/O Fort/ORGANIZATION Collins/ORGANIZATION rejects/O coins/O as/O payment/O for/O ticket/O In/O Fort/LOCATION Collins/LOCATION ,/O whether/O you/O can/O pay/O a/O municipal/O fine/O with/O coins/O depends/O on/O which/O side/O of/O the/O lobby/O you/O 're/O standing/O in/O ./O 
+College/O student/O Ted/PERSON Nischan/PERSON found/O that/O out/O this/O week/O when/O he/O tried/O to/O pay/O a/O $/O 160/O speeding/O ticket/O with/O the/O contents/O of/O his/O change/O bucket/O ./O 
+Nischan/PERSON ,/O 25/O ,/O tried/O to/O use/O his/O coins/O --/O which/O a/O bank/O counted/O for/O him/O --/O to/O pay/O the/O speeding/O ticket/O ./O 
+But/O municipal/O court/O workers/O refused/O to/O take/O the/O coins/O ./O 
+They/O said/O it/O would/O take/O them/O too/O long/O to/O count/O them/O and/O said/O he/O needed/O to/O figure/O out/O a/O different/O way/O to/O pay/O ./O 
+Now/O ,/O Nischan/PERSON is/O worried/O he/O might/O lose/O his/O license/O at/O a/O court/O hearing/O today/O ./O 
+He/O said/O he/O does/O n't/O have/O much/O money/O after/O paying/O his/O rent/O ,/O and/O that/O 's/O why/O he/O turned/O to/O his/O coin/O bucket/O to/O scrape/O up/O his/O fine/O ./O 
+``/O This/O is/O what/O I/O 've/O got/O ,/O ''/O Nischan/PERSON said/O on/O Tuesday/O afternoon/O ,/O hefting/O his/O blue/O coin-filled/O bucket/O ./O 
+``/O Please/O take/O it/O ./O 
+It/O 's/O real/O money/O ./O ''/O 
+Nischan/PERSON is/O frustrated/O because/O he/O considers/O coins/O perfectly/O legal/O tender/O ./O 
+He/O said/O he/O 's/O not/O trying/O to/O make/O any/O sort/O of/O political/O statement/O or/O protest/O ./O 
+``/O I/O had/O the/O bank/O count/O it/O ,/O but/O they/O wanted/O to/O charge/O me/O to/O turn/O it/O into/O bills/O ./O 
+And/O I/O do/O n't/O have/O the/O money/O for/O that/O ,/O ''/O he/O said/O ./O 
+His/O own/O bank/O ,/O Chase/PERSON ,/O said/O it/O would/O take/O up/O to/O a/O week/O to/O count/O the/O coins/O and/O then/O credit/O his/O account/O ./O 
+He/O said/O he/O acknowledges/O that/O he/O could/O have/O gotten/O started/O earlier/O but/O wonders/O aloud/O why/O he/O ca/O n't/O just/O use/O the/O coins/O ./O 
+``/O If/O they/O do/O n't/O accept/O my/O payment/O ,/O they/O might/O suspend/O my/O license/O ,/O which/O is/O going/O to/O cause/O a/O whole/O bunch/O of/O other/O problems/O ,/O ''/O he/O said/O ./O 
+There/O is/O a/O solution/O to/O Nischan/PERSON 's/O frustrations/O :/O a/O municipal/O coin-counting/O machine/O ./O 
+It/O sits/O about/O 20/O feet/O away/O ,/O across/O the/O lobby/O of/O the/O city/O government/O building/O at/O 215/O N./PERSON Mason/PERSON St./O Like/O the/O courts/O ,/O the/O coin/O machine/O is/O run/O by/O city/O workers/O who/O use/O it/O every/O day/O to/O count/O the/O money/O people/O pay/O to/O park/O in/O city-owned/O garages/O ./O 
+The/O machine/O is/O also/O occasionally/O used/O to/O count/O the/O coins/O people/O bring/O in/O when/O they/O pay/O parking/O tickets/O ./O 
+``/O We/O actually/O have/O a/O coin/O counter/O on/O premises/O ,/O in/O our/O offices/O ,/O ''/O said/O Randy/PERSON Hensley/PERSON ,/O the/O city/O 's/O parking/O services/O manager/O ./O 
+``/O We/O 're/O across/O the/O lobby/O ./O ''/O 
+Even/O though/O both/O the/O court/O and/O parking/O offices/O are/O in/O the/O same/O building/O ,/O and/O even/O though/O the/O people/O who/O work/O there/O are/O all/O city/O employees/O ,/O the/O two/O departments/O are/O totally/O separate/O ./O 
+They/O use/O different/O computer/O systems/O and/O different/O accounting/O systems/O ./O 
+That/O means/O Nischan/PERSON would/O n't/O be/O allowed/O to/O turn/O the/O money/O into/O the/O parking/O department/O and/O have/O them/O simply/O enter/O the/O payment/O into/O the/O court/O 's/O payment/O and/O accounting/O system/O ./O 
+Hensley/PERSON said/O that/O ,/O while/O court/O workers/O have/O never/O asked/O to/O use/O his/O coin/O counter/O ,/O it/O likely/O would/O n't/O be/O a/O problem/O to/O let/O them/O use/O it/O sometimes/O ./O 
+``/O They/O have/O their/O own/O rules/O and/O procedures/O over/O there/O ,/O ''/O Hensley/PERSON said/O of/O his/O fellow/O city/O workers/O ./O 
+``/O If/O municipal/O court/O wanted/O to/O borrow/O our/O coin-counting/O machine/O ,/O I/O 'd/O be/O willing/O to/O discuss/O that/O with/O them/O ./O ''/O 
+Municipal/O court/O supervisor/O Fran/PERSON Seaworth/PERSON said/O her/O clerks/O will/O take/O a/O few/O dollars/O worth/O of/O coins/O in/O payment/O ./O 
+She/O said/O having/O them/O count/O out/O Nischan/PERSON 's/O $/O 160/O is/O just/O not/O a/O good/O use/O of/O their/O time/O ./O 
+``/O It/O 's/O not/O prudent/O use/O of/O taxpayer/O funds/O to/O have/O one/O of/O the/O clerks/O sit/O there/O counting/O quarters/O ,/O nickels/O and/O pennies/O ,/O ''/O Seaworth/PERSON said/O ./O 
+``/O We/O do/O n't/O have/O the/O staffing/O to/O hand-count/O coins/O ./O 
+I/O think/O the/O taxpayers/O would/O not/O be/O happy/O if/O we/O were/O spending/O hours/O counting/O a/O large/O amount/O of/O coin/O ./O ''/O 
+Seaworth/PERSON said/O ,/O until/O Tuesday/O ,/O she/O was/O unaware/O that/O Hensley/PERSON and/O his/O staff/O had/O a/O coin-counting/O machine/O a/O few/O feet/O away/O ./O 
+Seaworth/PERSON said/O it/O might/O be/O possible/O in/O the/O future/O for/O people/O to/O pay/O municipal/O court/O fines/O with/O coins/O ,/O but/O that/O could/O work/O only/O if/O the/O parking/O services/O staff/O would/O count/O their/O coins/O and/O then/O give/O them/O dollar/O bills/O they/O could/O physically/O walk/O across/O the/O lobby/O ./O 
+``/O We/O do/O work/O for/O the/O same/O government/O ,/O ''/O she/O said/O ./O 
+``/O We/O 're/O totally/O separate/O ./O ''/O 
+unique_identifier/O French/O woman/O pays/O taxes/O with/O 66/O pounds/O of/O coins/O The/O French/O woman/O who/O brought/O 66/O pounds/O of/O coins/O to/O a/O tax/O office/O to/O pay/O her/O $/O 268/O bill/O said/O :/O ``/O I/O am/O French/O and/O I/O love/O to/O complain/O !/O ''/O 
+A/O French/O woman/O who/O used/O 66/O pounds/O of/O coins/O to/O pay/O her/O $/O 268/O tax/O bill/O said/O she/O was/O angry/O about/O having/O to/O sell/O her/O car/O to/O raise/O the/O sum/O ./O 
+The/O woman/O ,/O who/O gave/O her/O name/O as/O Audrey/PERSON D./PERSON ,/O 28/O ,/O visited/O the/O tax/O authority/O 's/O office/O in/O Sallanches/LOCATION to/O make/O her/O final/O payment/O on/O a/O bill/O that/O originally/O totaled/O $/O 1,434/O and/O she/O handed/O over/O $/O 268/O in/O coins/O ./O 
+``/O To/O pay/O my/O taxes/O on/O time/O ,/O I/O had/O to/O sell/O my/O car/O ,/O ''/O said/O Audrey/PERSON ,/O who/O is/O unemployed/O but/O owed/O the/O taxes/O on/O her/O income/O from/O 2013/O ./O 
+Audrey/PERSON said/O office/O workers/O initially/O seemed/O annoyed/O by/O her/O stunt/O ,/O but/O they/O were/O able/O to/O see/O the/O humorous/O side/O of/O things/O while/O counting/O the/O coins/O --/O a/O task/O that/O took/O more/O than/O two/O hours/O ./O 
+``/O I/O 'm/O not/O against/O paying/O taxes/O ./O 
+But/O I/O do/O n't/O think/O we/O should/O have/O to/O pay/O so/O much/O ,/O ''/O the/O woman/O said/O ,/O adding/O :/O ``/O I/O am/O French/O and/O I/O love/O to/O complain/O !/O ''/O 
+unique_identifier/O Furious/O grandmother/O pays/O parking/O fine/O in/O pennies/O after/O losing/O appeal/O A/O grandmother/O was/O so/O furious/O after/O losing/O an/O appeal/O against/O her/O parking/O ticket/O she/O settled/O the/O debt/O -/O with/O 3,500/O 1p/O coins/O ./O 
+Susan/PERSON Catcheside/PERSON ,/O 74/O ,/O challenged/O the/O #/O 700/O fine/O because/O she/O claimed/O the/O `/O permit/O holders/O only/O '/O space/O she/O parked/O in/O was/O not/O clearly/O marked/O ./O 
+Gloucester/ORGANIZATION City/ORGANIZATION Council/ORGANIZATION refused/O to/O overturn/O the/O ticket/O but/O agreed/O to/O halve/O the/O fine/O if/O she/O paid/O within/O two/O weeks/O ./O 
+In/O order/O to/O pay/O the/O fine/O ,/O Mrs/PERSON Catcheside/PERSON raided/O her/O penny/O jar/O ,/O and/O took/O #/O 350/O worth/O of/O 1p/O coins/O to/O the/O Town/LOCATION Hall/LOCATION ,/O where/O stunned/O Gloucester/ORGANIZATION City/ORGANIZATION Council/ORGANIZATION staff/O painstakingly/O counted/O the/O money/O ./O '/O 
+I/O thought/O that/O if/O I/O 've/O got/O to/O pay/O I/O will/O jolly/O well/O make/O them/O work/O for/O it/O '/O said/O Mrs/O Catcheside/O ,/O from/O Longney/LOCATION ,/O Gloucester/LOCATION ./O 
+`/O It/O 's/O absolutely/O disgraceful/O ./O 
+With/O the/O best/O will/O in/O the/O world/O this/O was/O an/O innocent/O mistake/O ./O 
+I/O said/O I/O wo/O n't/O ever/O do/O it/O again/O ./O 
+`/O They/O should/O have/O a/O bit/O of/O humanity/O ./O 
+They/O should/O have/O got/O permit/O holders/O only/O written/O on/O the/O road/O ./O 
+It/O 's/O hard/O for/O some/O people/O to/O see/O the/O signs/O ./O '/O 
+The/O retired/O secretary/O was/O visiting/O a/O friend/O at/O the/O Gloucestershire/ORGANIZATION Royal/ORGANIZATION Hospital/ORGANIZATION when/O she/O unknowingly/O parked/O in/O a/O permit/O only/O spot/O ./O 
+She/O returned/O an/O hour/O later/O to/O find/O a/O parking/O ticket/O on/O her/O windscreen/O and/O phoned/O the/O council/O to/O launch/O a/O challenge/O on/O the/O basis/O she/O had/O made/O `/O an/O innocent/O mistake/O '/O ./O 
+She/O added/O :/O ''/O I/O challenged/O it/O on/O the/O basis/O I/O was/O not/O there/O for/O more/O than/O an/O hour/O and/O I/O did/O n't/O know/O it/O was/O permit/O holders/O only/O ./O 
+`/O Had/O I/O known/O I/O would/O not/O have/O parked/O there/O ./O '/O 
+A/O spokesman/O for/O Gloucester/ORGANIZATION City/ORGANIZATION Council/ORGANIZATION said/O :/O `/O If/O someone/O has/O parked/O illegally/O then/O we/O have/O to/O give/O them/O a/O ticket/O ./O 
+There/O is/O an/O appeals/O process/O ./O 
+`/O This/O lady/O has/O gone/O through/O that/O and/O the/O appeal/O has/O n't/O been/O allowed/O ./O 
+If/O she/O wants/O to/O pay/O in/O pennies/O that/O 's/O fine/O ./O 
+Cash/O payments/O are/O accepted/O ./O '/O 
+unique_identifier/O Got/O some/O change/O ?/O 
+In/O protest/O of/O an/O appellate/O court/O order/O to/O repay/O roughly/O $/O 500,000/O in/O insurance/O money/O ,/O Roger/PERSON Herrin/PERSON complied/O Wednesday/O but/O paid/O $/O 150,000/O of/O the/O amount/O in/O quarters/O ./O 
+The/O repayment/O stems/O from/O a/O series/O of/O lawsuits/O that/O have/O bounced/O back/O and/O forth/O between/O courts/O for/O about/O 12/O years/O after/O a/O Saline/O County/O vehicle/O wreck/O killed/O his/O 15-year-old/O son/O Michael/PERSON and/O injured/O others/O ./O 
+An/O armored/O vehicle/O from/O St./LOCATION Louis/LOCATION delivered/O the/O coins/O to/O a/O Marion/O bank/O to/O begin/O the/O payment/O process/O ./O 
+Workers/O unloaded/O 150/O bags/O of/O quarters/O containing/O $/O 1,000/O each/O from/O the/O truck/O ./O 
+Altogether/O ,/O the/O load/O weighed/O four/O tons/O ./O 
+The/O money/O was/O then/O delivered/O to/O the/O unsuspecting/O recipients/O ,/O bringing/O an/O end/O to/O all/O litigation/O in/O the/O case/O and/O making/O the/O day/O a/O bittersweet/O one/O for/O Herrin/PERSON ./O 
+``/O It/O 's/O vehemently/O wrong/O in/O my/O view/O and/O nearly/O everybody/O else/O in/O the/O world/O ,/O ''/O he/O said/O of/O the/O payment/O ,/O adding/O later/O ,/O ``/O If/O and/O when/O someone/O loses/O a/O child/O it/O leaves/O a/O hole/O in/O your/O heart/O that/O is/O never/O repairable/O ./O ''/O 
+Herrin/PERSON ,/O a/O businessman/O including/O formerly/O owning/O banks/O ,/O said/O he/O is/O upset/O with/O a/O 5th/ORGANIZATION District/ORGANIZATION Appellate/ORGANIZATION Court/ORGANIZATION ruling/O that/O his/O son/O 's/O estate/O should/O not/O have/O received/O any/O insurance/O money/O slated/O for/O victims/O in/O the/O wreck/O ./O 
+Herrin/PERSON ,/O a/O member/O of/O the/O SIU/ORGANIZATION Board/ORGANIZATION of/ORGANIZATION Trustees/ORGANIZATION ,/O is/O also/O upset/O the/O family/O of/O another/O teenager/O involved/O in/O the/O wreck/O ,/O but/O who/O only/O sustained/O an/O injury/O ,/O will/O now/O receive/O nearly/O as/O much/O in/O insurance/O money/O as/O the/O Herrin/ORGANIZATION Estate/ORGANIZATION initially/O did/O ./O 
+According/O to/O court/O records/O ,/O the/O fatal/O wreck/O occurred/O June/O 2001/O when/O a/O farm/O truck/O driven/O by/O Brian/PERSON Bramlet/PERSON disobeyed/O a/O stop/O sign/O and/O broadsided/O a/O Jeep/O Cherokee/O at/O an/O intersection/O on/O Illinois/LOCATION 34/O near/O Raleigh/LOCATION ./O 
+Bramlet/PERSON was/O found/O to/O be/O at/O fault/O ./O 
+Three/O teenage/O boys/O ,/O including/O Herrin/PERSON 's/O son/O ,/O were/O passengers/O in/O the/O Jeep/O driven/O by/O one/O of/O the/O other/O boy/O 's/O mother/O ,/O Katherine/PERSON Duncan/PERSON ./O 
+Michael/PERSON and/O teenager/O Jared/PERSON Head/PERSON were/O ejected/O ,/O killing/O Michael/PERSON and/O badly/O injuring/O Head/O ./O 
+Duncan/PERSON and/O her/O son/O ,/O Ross/PERSON ,/O were/O also/O injured/O ./O 
+The/O controversy/O over/O the/O insurance/O money/O stems/O in/O part/O from/O then-Saline/LOCATION County/LOCATION Judge/O Ron/PERSON Eckiss/PERSON '/O order/O that/O Herrin/PERSON ,/O as/O administrator/O ,/O distribute/O $/O 900,000/O among/O the/O victims/O based/O on/O percentages/O determined/O by/O damages/O suffered/O by/O each/O victim/O ./O 
+All/O but/O $/O 100,000/O of/O the/O amount/O came/O from/O Duncan/PERSON 's/O underinsured/O motorist/O policy/O ;/O the/O rest/O came/O from/O Bramlet/PERSON 's/O insurance/O ./O 
+Distribution/O was/O based/O on/O case/O law/O known/O in/O short/O as/O Janes/PERSON ,/O which/O involved/O claims/O for/O damages/O in/O the/O 1993/O wrongful/O death/O of/O three/O Southern/LOCATION Illinois/LOCATION teachers/O and/O two/O others/O in/O Carterville/LOCATION ./O 
+A/O sixth/O person/O survived/O ./O 
+In/O appeal/O ,/O however/O ,/O the/O other/O families/O argued/O that/O Janes/PERSON did/O not/O allow/O the/O Herrin/PERSON estate/O access/O to/O the/O money/O because/O Herrin/PERSON had/O separate/O insurance/O on/O businesses/O and/O vehicles/O that/O included/O his/O family/O and/O received/O $/O 1.65/O million/O of/O a/O possible/O $/O 5.5/O million/O from/O that/O insurance/O ./O 
+The/O appellate/O court/O agreed/O ./O 
+``/O The/O -LRB-/O Jeep/O Cherokee/O 's/O -RRB-/O common/O pool/O of/O underinsured-motorist/O coverage/O initially/O must/O be/O distributed/O to/O the/O injured/O occupants/O with/O no/O outside/O source/O of/O underinsured-motorist/O coverage/O ,/O effectively/O eliminating/O any/O recovery/O for/O the/O Herrin/ORGANIZATION Estate/ORGANIZATION ,/O ''/O appellate/O judges/O wrote/O ./O 
+Herrin/PERSON disagrees/O ,/O saying/O his/O insurance/O had/O nothing/O to/O do/O with/O the/O Cherokee/O vehicle/O and/O should/O not/O have/O been/O counted/O against/O him/O ./O 
+Attorneys/O for/O the/O other/O families/O ,/O Douglas/PERSON N./PERSON Dorris/PERSON and/O Mark/PERSON D./PERSON Prince/PERSON ,/O would/O not/O comment/O on/O the/O case/O ./O 
+They/O cited/O a/O confidentiality/O agreement/O signed/O by/O them/O ,/O Herrin/PERSON and/O others/O ./O 
+``/O I/O 'm/O not/O going/O to/O comment/O about/O his/O motives/O ,/O ''/O Dorris/PERSON said/O of/O Herrin/PERSON 's/O protest/O ./O 
+``/O He/O 's/O a/O man/O who/O has/O lost/O a/O son/O ./O ''/O 
+unique_identifier/O Grad/O Students/O Use/O Change/O to/O Call/O for/O Change/O at/O Stony/ORGANIZATION Brook/ORGANIZATION Dan/ORGANIZATION Elton/ORGANIZATION ,/O a/O fifth/O year/O graduate/O student/O who/O works/O full/O time/O in/O the/O physics/O department/O ,/O entered/O that/O Stony/ORGANIZATION Brook/ORGANIZATION University/ORGANIZATION administration/O building/O with/O two/O small/O boxes/O full/O of/O coin/O rolls/O ./O 
+A/O few/O more/O rolls/O spilled/O over/O into/O a/O third/O ./O 
+Elton/PERSON said/O was/O frustrated/O with/O the/O steady/O increase/O in/O fees/O and/O tuition/O at/O Stony/ORGANIZATION Brook/ORGANIZATION University/ORGANIZATION ./O 
+In/O an/O attempt/O to/O protest/O the/O increase/O in/O cost/O ,/O Elton/PERSON and/O several/O other/O graduate/O students/O used/O their/O spare/O change/O to/O make/O a/O point/O at/O the/O Graduate/ORGANIZATION Student/ORGANIZATION Employees/ORGANIZATION Union/ORGANIZATION protest/O called/O ``/O Change/O The/O Fees/O ./O ''/O 
+``/O We/O feel/O that/O fee/O increases/O ignore/O the/O financial/O reality/O of/O graduate/O student/O workers/O ,/O ''/O read/O an/O open/O letter/O the/O Graduate/ORGANIZATION Student/ORGANIZATION Employees/ORGANIZATION Union/ORGANIZATION protest/O prepared/O ./O 
+Elton/PERSON took/O 10/O minutes/O to/O pay/O the/O bursar/O with/O rolls/O of/O coins/O ,/O not/O counting/O the/O time/O it/O took/O him/O to/O write/O his/O student/O ID/O number/O on/O each/O roll/O ./O 
+He/O echoed/O the/O sentiment/O of/O the/O letter/O ./O 
+``/O It/O 's/O not/O right/O that/O employee/O grad/O students/O should/O pay/O the/O fees/O for/O services/O they/O will/O not/O use/O ,/O ''/O said/O Elton/PERSON ,/O who/O described/O the/O fees/O as/O ``/O a/O severe/O financial/O burden/O ./O ''/O 
+For/O graduate/O students/O like/O Joshua/PERSON Comden/PERSON ,/O a/O second/O year/O graduate/O student/O ,/O fees/O represent/O too/O significant/O a/O portion/O of/O their/O expenses/O to/O be/O ignored/O ./O 
+Comdem/O makes/O $/O 8,500/O a/O semester/O before/O taxes/O but/O had/O to/O pay/O $/O 579/O in/O fees/O on/O Wednesday/O ./O 
+Jessica/PERSON Rybak/PERSON ,/O a/O worker/O for/O the/O Graduate/ORGANIZATION Student/ORGANIZATION Employees/ORGANIZATION Union/ORGANIZATION who/O organized/O the/O event/O ,/O Elton/LOCATION ,/O Comden/PERSON ,/O and/O the/O five/O other/O protesters/O paid/O a/O total/O of/O more/O than/O $/O 2,200/O worth/O of/O fees/O in/O coins/O and/O small/O bills/O ./O 
+The/O group/O also/O gathered/O over/O 200/O signatures/O on/O a/O petition/O to/O change/O the/O fees/O ./O 
+Mara/PERSON Green/PERSON ,/O the/O director/O of/O student/O accounts/O at/O the/O bursar/O office/O ,/O worked/O a/O register/O set/O aside/O for/O students/O partaking/O in/O the/O protest/O ./O 
+She/O said/O that/O the/O office/O was/O notified/O of/O the/O protest/O the/O day/O before/O and/O only/O requested/O that/O the/O coins/O be/O put/O in/O rolls/O ./O 
+Most/O of/O the/O students/O obliged/O ,/O but/O some/O handed/O her/O individual/O coins/O and/O dollar/O bills/O ./O 
+``/O I/O prefer/O that/O they/O did/O n't/O do/O this/O ,/O but/O legal/O tender/O is/O legal/O tender/O ,/O ''/O said/O Green/O ./O 
+She/O offered/O no/O comment/O on/O the/O effectiveness/O of/O the/O action/O ./O 
+University/O Spokesperson/O Lauren/PERSON Sheprow/PERSON responded/O by/O saying/O Stony/LOCATION Brook/LOCATION is/O not/O run/O for/O profit/O and/O the/O price/O of/O fees/O are/O directly/O related/O to/O the/O cost/O of/O what/O they/O pay/O for/O ./O 
+As/O a/O result/O of/O the/O protest/O ,/O other/O students/O had/O to/O wait/O on/O a/O line/O for/O fewer/O registers/O ./O 
+Emily/PERSON Felton/PERSON ,/O a/O graduate/O student/O ,/O described/O the/O action/O as/O ridiculous/O ./O 
+``/O Stony/ORGANIZATION Brook/ORGANIZATION has/O the/O lowest/O tuition/O and/O fees/O compared/O to/O any/O other/O school/O of/O its/O kind/O ,/O ''/O said/O Felton/PERSON ./O 
+``/O This/O is/O a/O waste/O of/O time/O and/O resources/O ;/O they/O should/O just/O pay/O the/O bill/O like/O everyone/O else/O ./O ''/O 
+unique_identifier/O Heavy/O protest/O :/O Calgary/LOCATION university/O charges/O credit/O card/O fee/O ,/O dude/O pays/O $/O 3000/O tuition/O in/O nickels/O It/O 's/O one/O of/O the/O quirks/O of/O human/O nature/O that/O we/O have/O a/O severe/O aversion/O to/O ``/O fees/O ''/O that/O we/O view/O as/O unfair/O ./O 
+If/O something/O costs/O $/O 50/O we/O 'll/O be/O okay/O ,/O but/O do/O n't/O charge/O us/O $/O 47/O and/O then/O hit/O us/O with/O a/O $/O 2.50/O fee/O as/O we/O 're/O paying/O ./O 
+Fees/O are/O viewed/O as/O lacking/O transparency/O and/O a/O way/O to/O wring/O customers/O of/O their/O last/O nickle/O and/O dime/O ./O 
+Perhaps/O it/O was/O this/O annoyance/O that/O drove/O a/O Mount/ORGANIZATION Royal/ORGANIZATION University/ORGANIZATION student/O to/O pay/O his/O tuition/O with/O 230/O pounds/O of/O coins/O to/O protest/O a/O 1.89/O %/O fee/O the/O university/O began/O charging/O students/O who/O paid/O tuition/O with/O a/O credit/O card/O ./O 
+From/O CTV/ORGANIZATION Calgary/ORGANIZATION :/O Devin/PERSON DeFraine/PERSON is/O upset/O with/O recent/O changes/O to/O the/O post/O secondary/O institution/O 's/O fee/O payment/O options/O ./O 
+The/O University/O has/O implemented/O an/O additional/O fee/O of/O up/O to/O 1.89/O %/O of/O the/O cost/O of/O tuition/O for/O students/O paying/O with/O Mastercard/ORGANIZATION or/O Visa/O ./O 
+To/O protest/O the/O new/O charge/O ,/O DeFraine/PERSON paid/O his/O tuition/O in/O full/O at/O the/O Registrar/ORGANIZATION 's/ORGANIZATION Office/ORGANIZATION on/O Wednesday/O using/O approximately/O 105/O kg/O -LRB-/O 230/O lbs/O -RRB-/O of/O coins/O instead/O of/O his/O credit/O card/O ./O 
+The/O second/O year/O Geology/O Major/O student/O hopes/O his/O peaceful/O stance/O will/O catch/O MRU/ORGANIZATION 's/O attention/O ./O 
+``/O I/O 'd/O like/O them/O to/O reverse/O the/O decision/O ,/O ''/O says/O DeFraine/PERSON ./O 
+``/O I/O know/O the/O U/O of/O C/O 's/O done/O it/O in/O the/O past/O and/O they/O experienced/O something/O similar/O to/O this/O ./O 
+Hopefully/O they/O 'll/O learn/O from/O a/O little/O coin/O ./O ''/O 
+``/O If/O they/O 're/O gon/O na/O nickel/O and/O dime/O us/O ,/O I/O 'm/O gon/O na/O nickel/O and/O dime/O them/O ./O ''/O 
+The/O fee/O adds/O up/O to/O around/O $/O 60/O per/O semester/O ./O 
+Now/O to/O increase/O tuition/O by/O a/O bit/O over/O $/O 100/O a/O year/O might/O not/O provoke/O such/O a/O protest/O ,/O but/O knowing/O that/O credit/O cards/O are/O the/O primary/O way/O of/O paying/O tuition/O ,/O tacking/O on/O a/O ``/O fee/O ''/O to/O that/O payment/O method/O just/O seems/O disingenuous/O and/O the/O student/O 's/O outrage/O is/O understandable/O ./O 
+Then/O again/O ,/O whenever/O one/O seeks/O to/O subvert/O fees/O or/O expenses/O ,/O the/O consideration/O of/O how/O much/O one/O 's/O time/O is/O worth/O comes/O into/O consideration/O ./O 
+To/O procure/O thousands/O of/O dollars/O worth/O of/O coins/O and/O schlep/O them/O to/O the/O registrar/O 's/O office/O might/O end/O up/O being/O more/O of/O an/O inconvenience/O than/O just/O paying/O the/O fee/O ./O 
+But/O is/O ,/O I/O suppose/O ,/O a/O matter/O of/O principle/O ./O 
+Recently/O a/O rumor/O circulated/O following/O a/O United/LOCATION States/LOCATION court/O 's/O decision/O forcing/O Samsung/ORGANIZATION to/O pay/O Apply/O one/O billion/O dollar/O for/O patent/O violations/O ,/O that/O Samsung/ORGANIZATION would/O be/O paying/O Apple/ORGANIZATION in/O pennies/O ./O 
+No/O matter/O that/O as/O many/O pennies/O as/O would/O be/O needed/O to/O pay/O this/O are/O not/O thought/O to/O be/O available/O in/O the/O entire/O country/O ,/O that/O Samsung/ORGANIZATION was/O appealing/O the/O decision/O and/O that/O that/O the/O rumor/O was/O on/O its/O face/O absurd/O ,/O the/O speed/O at/O which/O it/O spread/O shows/O the/O viral/O power/O which/O protesting/O big/O fees/O by/O using/O small/O demonstrations/O of/O currency/O has/O among/O people/O ./O 
+unique_identifier/O Hope/O No/O One/O Minds/O If/O I/O Just/O Plunk/O Down/O 62,000/O Pennies/O To/O Pay/O Off/O This/O Mortgage/O Money/O is/O money/O ,/O which/O is/O why/O one/O man/O figured/O the/O bank/O would/O n't/O mind/O all/O that/O much/O if/O he/O finally/O paid/O off/O his/O mortgage/O with/O around/O 62,000/O pennies/O he/O 'd/O saved/O over/O the/O last/O 35/O years/O ./O 
+He/O said/O he/O just/O wanted/O his/O last/O payment/O on/O the/O house/O he/O bought/O in/O 1977/O with/O his/O wife/O to/O be/O ``/O memorable/O ./O ''/O 
+At/O two/O 400-pound/O boxes/O ,/O we/O 'd/O say/O that/O penny/O payment/O is/O n't/O going/O to/O be/O forgotten/O soon/O ./O 
+Thomas/PERSON made/O it/O his/O mission/O from/O the/O outset/O of/O his/O mortgage/O to/O make/O the/O final/O payment/O in/O pennies/O ./O 
+``/O It/O was/O something/O I/O wanted/O to/O do/O ,/O ''/O he/O told/O the/O //O Milford/ORGANIZATION Daily/ORGANIZATION News/ORGANIZATION //O ./O 
+``/O I/O always/O follow/O through/O ./O 
+I/O was/O just/O praying/O I/O did/O n't/O die/O first/O ./O ''/O 
+On/O average/O ,/O his/O penny/O pile/O grew/O at/O 2.5/O pennies/O per/O day/O ./O 
+It/O started/O out/O in/O a/O grape/O crate/O ,/O which/O began/O to/O break/O over/O the/O years/O as/O the/O pennies/O added/O up/O ./O 
+He/O then/O bought/O a/O pair/O of/O steel/O military/O rocket/O launcher/O ammo/O boxes/O to/O hold/O the/O pennies/O ./O 
+Thomas/PERSON did/O n't/O want/O to/O elaborate/O on/O the/O exact/O amount/O of/O pennies/O ,/O but/O did/O reveal/O that/O each/O box/O probably/O weighed/O around/O 400/O pounds/O ./O 
+He/O kept/O them/O in/O his/O basement/O ,/O and/O his/O wife/O would/O laugh/O when/O he/O went/O to/O pick/O up/O a/O penny/O and/O say/O it/O was/O going/O toward/O the/O mortgage/O ./O 
+The/O last/O mortgage/O payment/O arrived/O on/O his/O 35th/O anniversary/O ,/O which/O was/O quite/O a/O coincidence/O ./O 
+He/O gave/O the/O bank/O a/O heads/O up/O that/O he/O 'd/O be/O arriving/O with/O his/O load/O of/O pennies/O ,/O and/O they/O said/O ``/O they/O were/O 100/O percent/O for/O it/O ./O ''/O 
+Now/O that/O he/O 's/O no/O longer/O a/O penny/O man/O ,/O he/O works/O in/O the/O garden/O in/O his/O backyard/O ./O 
+And/O besides/O ,/O ``/O I/O 'm/O too/O old/O to/O pick/O up/O those/O boxes/O of/O pennies/O ,/O ''/O he/O said/O ./O 
+unique_identifier/O How/O Should/O You/O Pay/O a/O Higher/O Toll/O ?/O 
+How/O About/O Coin/O by/O Coin/O by/O Coin/O ?/O 
+It/O is/O raining/O pennies/O up/O here/O along/O the/O Canadian/O border/O ./O 
+Earlier/O this/O month/O ,/O the/O New/ORGANIZATION York/ORGANIZATION State/ORGANIZATION Thruway/ORGANIZATION Authority/ORGANIZATION raised/O the/O price/O of/O passage/O at/O four/O Buffalo-area/O barriers/O by/O a/O quarter/O ./O 
+In/O Buffalo/LOCATION ,/O anger/O over/O a/O toll/O increase/O at/O four/O area/O barriers/O has/O stirred/O a/O Penny/O Protest/O ./O 
+In/O addition/O to/O pickets/O ,/O some/O drivers/O are/O showing/O their/O displeasure/O with/O the/O increase/O by/O paying/O their/O tolls/O one/O cent/O at/O a/O time/O ./O 
+Drivers/O are/O angry/O and/O fed/O up/O with/O the/O high/O cost/O of/O getting/O around/O Buffalo/LOCATION ./O 
+And/O so/O they/O have/O been/O happy/O to/O go/O along/O with/O a/O gimmick/O conceived/O by/O a/O local/O radio/O station/O and/O backed/O by/O several/O local/O and/O state/O elected/O officials/O ,/O by/O rebelling/O against/O the/O increase/O with/O a/O ``/O Penny/O Protest/O ./O ''/O 
+Paying/O for/O their/O tolls/O one/O penny/O at/O a/O time/O lengthened/O lines/O at/O the/O tollbooth/O where/O Interstate/O 190/O ,/O a/O branch/O off/O the/O mainline/O Thruway/ORGANIZATION ,/O connects/O Buffalo/LOCATION and/O Niagara/LOCATION Falls/LOCATION ./O 
+The/O toll/O at/O that/O barrier/O ,/O as/O well/O as/O three/O others/O along/O the/O route/O ,/O increased/O to/O 75/O cents/O from/O 50/O cents/O on/O May/O 15/O ./O 
+``/O We/O wanted/O to/O give/O people/O an/O outlet/O to/O scream/O and/O yell/O about/O these/O tolls/O ,/O ''/O said/O Tom/PERSON Ragan/PERSON ,/O co-host/O of/O the/O morning/O show/O on/O WEDG-FM/O ,/O which/O spent/O all/O week/O broadcasting/O from/O a/O spot/O a/O few/O hundred/O yards/O from/O the/O southernmost/O collection/O point/O ,/O the/O South/LOCATION Ogden/LOCATION Street/LOCATION barrier/O ./O 
+With/O the/O increase/O ,/O a/O driver/O traveling/O from/O the/O southern/O part/O of/O Buffalo/LOCATION or/O the/O surrounding/O suburbs/O ,/O to/O Niagara/ORGANIZATION Falls/ORGANIZATION ,/O a/O distance/O of/O about/O 25/O miles/O ,/O pays/O $/O 3/O for/O each/O round/O trip/O ./O 
+Those/O with/O an/O E-ZPass/O get/O a/O 10/O percent/O discount/O ./O 
+In/O addition/O to/O the/O booths/O on/O I-190/O ,/O motorists/O traveling/O the/O mainline/O Thruway/ORGANIZATION ,/O I-90/O ,/O encounter/O toll/O barriers/O to/O the/O east/O and/O southwest/O of/O Buffalo/LOCATION ,/O though/O the/O portion/O in/O between/O is/O toll-free/O ./O 
+``/O We/O 're/O getting/O taxed/O to/O death/O around/O here/O ,/O and/O this/O is/O just/O another/O tax/O ,/O ''/O said/O Dan/PERSON DeWitt/PERSON ,/O a/O home-improvement/O contractor/O who/O said/O his/O company/O paid/O $/O 60,000/O in/O tolls/O last/O year/O for/O 15/O trucks/O that/O roam/O the/O region/O daily/O ./O 
+``/O If/O I/O go/O anywhere/O ,/O I/O 've/O got/O to/O go/O through/O a/O tollbooth/O ./O ''/O 
+Friday/O morning/O ,/O station/O employees/O made/O change/O for/O motorists/O and/O handed/O out/O stickers/O with/O a/O likeness/O of/O Abraham/PERSON Lincoln/PERSON making/O an/O impolite/O gesture/O ./O 
+Elected/O officials/O expressed/O opposition/O to/O the/O increase/O in/O more/O measured/O tones/O ./O 
+``/O The/O issue/O is/O that/O commuters/O in/O Buffalo/LOCATION and/O the/O Western/LOCATION New/LOCATION York/LOCATION area/O are/O treated/O unfairly/O ,/O differently/O than/O commuters/O in/O other/O upstate/O cities/O ,/O ''/O said/O the/O Erie/LOCATION County/LOCATION clerk/O ,/O David/PERSON J./PERSON Swarts/PERSON ,/O noting/O that/O there/O is/O nothing/O similar/O to/O the/O Buffalo/LOCATION area/O 's/O six/O collection/O points/O in/O the/O regions/O immediately/O surrounding/O Rochester/LOCATION ,/O Albany/LOCATION ,/O Syracuse/LOCATION ,/O Binghamton/LOCATION and/O Utica/LOCATION ./O 
+``/O We/O 're/O the/O only/O upstate/O city/O that/O has/O tollbooths/O in/O the/O commuter/O area/O ./O ''/O 
+A/O Thruway/ORGANIZATION Authority/ORGANIZATION spokesman/O ,/O Daniel/PERSON J./PERSON Gilbert/PERSON ,/O said/O that/O was/O because/O the/O authority/O did/O not/O own/O or/O maintain/O highways/O in/O those/O other/O municipalities/O ./O 
+Kathleen/PERSON Hochul/PERSON ,/O the/O deputy/O county/O clerk/O ,/O has/O been/O advocating/O removal/O of/O all/O four/O toll-collection/O points/O on/O the/O I-190/O and/O moving/O the/O mainline/O barriers/O further/O from/O Buffalo/LOCATION since/O 1996/O ,/O when/O the/O bonds/O used/O to/O finance/O the/O original/O Thruway/O construction/O were/O retired/O ./O 
+Since/O 1988/O ,/O the/O Thruway/ORGANIZATION Authority/ORGANIZATION has/O spent/O almost/O $/O 243/O million/O on/O what/O is/O known/O as/O the/O Niagara/LOCATION section/O of/O the/O interstate/O while/O collecting/O less/O than/O $/O 154/O million/O in/O tolls/O there/O ,/O Mr./O Gilbert/PERSON said/O ./O 
+Much/O of/O that/O money/O has/O been/O devoted/O to/O the/O first/O major/O construction/O project/O on/O the/O road/O ,/O which/O was/O completed/O in/O 1960/O ./O 
+Ms./O Hochul/PERSON also/O serves/O on/O the/O town/O board/O in/O Hamburg/LOCATION ,/O a/O suburb/O south/O of/O Buffalo/LOCATION ,/O which/O is/O home/O to/O two/O exits/O from/O I-90/O ./O 
+She/O said/O many/O of/O her/O constituents/O paid/O 35/O cents/O to/O drive/O a/O mile/O on/O the/O mainline/O Thruway/ORGANIZATION ,/O then/O another/O 75/O cents/O to/O get/O on/O I-190/O ,/O which/O runs/O through/O downtown/O Buffalo/LOCATION ./O 
+``/O My/O town/O is/O hit/O harder/O by/O the/O tolls/O than/O anyplace/O ,/O ''/O she/O said/O ,/O citing/O the/O Thruway/ORGANIZATION Authority/ORGANIZATION 's/O annual/O report/O that/O showed/O more/O than/O $/O 20/O million/O was/O collected/O at/O the/O four/O barriers/O along/O the/O I-190/O in/O 2003/O ./O 
+``/O We/O 're/O a/O first-ring/O suburb/O ,/O but/O we/O 're/O basically/O paying/O a/O commuter/O tax/O ./O 
+It/O costs/O commuters/O in/O our/O town/O hundreds/O of/O dollars/O a/O year/O ./O ''/O 
+At/O 8/O a.m./O Friday/O ,/O a/O ``/O Penny/O Parade/O ''/O organized/O by/O the/O radio/O hosts/O backed/O up/O normally/O smooth-flowing/O toll/O lanes/O ./O 
+One/O participant/O took/O the/O opposite/O approach/O ,/O paying/O his/O toll/O with/O a/O $/O 100/O bill/O and/O insisting/O on/O a/O receipt/O ./O 
+The/O morning/O show/O ,/O which/O has/O been/O on/O the/O air/O for/O more/O than/O a/O decade/O ,/O has/O garnered/O local/O publicity/O for/O previous/O pranks/O and/O contests/O ,/O most/O of/O which/O were/O decidedly/O less/O civic-minded/O ./O 
+``/O Sometimes/O you/O do/O stuff/O just/O for/O fun/O or/O to/O see/O what/O you/O can/O get/O people/O to/O do/O ,/O ''/O said/O Ted/PERSON Shredd/PERSON ,/O Mr./O Ragan/PERSON 's/O co-host/O ./O 
+``/O Sometimes/O you/O 're/O driven/O by/O a/O cause/O -/O like/O this/O time/O ./O ''/O 
+For/O some/O ,/O the/O protest/O extended/O beyond/O the/O extra/O quarter/O to/O outrage/O at/O all/O levels/O of/O government/O ./O 
+In/O February/O ,/O a/O public/O outcry/O helped/O kill/O a/O 1/O percent/O sales/O tax/O increase/O proposed/O by/O County/O Executive/O Joel/PERSON Giambra/PERSON ,/O leaving/O a/O hole/O of/O more/O than/O $/O 100/O million/O in/O the/O budget/O for/O 2005/O ./O 
+When/O Mr./O Giambra/PERSON floated/O the/O idea/O of/O a/O temporary/O increase/O as/O new/O deficits/O emerged/O in/O recent/O weeks/O ,/O he/O found/O little/O support/O among/O county/O or/O state/O legislators/O ./O 
+``/O People/O are/O finally/O outraged/O around/O here/O ,/O ''/O said/O Mr./O Shredd/PERSON ,/O who/O like/O Mr./O Ragan/PERSON wore/O an/O orange/O Thruway/ORGANIZATION Authority/ORGANIZATION jacket/O ,/O donated/O by/O an/O employee/O ./O 
+``/O We/O just/O feel/O like/O we/O 're/O getting/O taken/O advantage/O of/O time/O and/O time/O again/O ./O 
+We/O want/O to/O send/O a/O message/O that/O enough/O is/O enough/O ./O ''/O 
+unique_identifier/O How/O to/O protest/O road/O tolls/O in/O China/LOCATION :/O pay/O in/O coppers/O In/O protest/O of/O increasing/O and/O frequently/O placed/O road/O tolls/O in/O China/LOCATION ,/O a/O couple/O of/O drivers/O thought/O they/O 'd/O put/O a/O fork/O in/O the/O system/O by/O paying/O their/O charge/O in/O copper/O coins/O ./O 
+It/O took/O so/O many/O guards/O so/O long/O to/O count/O them/O ,/O that/O the/O gate/O was/O blocked/O for/O forty/O minutes/O ./O 
+And/O yet/O ,/O everyone/O seemed/O to/O find/O it/O hilarious/O ./O 
+China/LOCATION 's/O newly/O built/O and/O vastly/O improved/O motorway/O system/O does/O n't/O come/O for/O free/O ./O 
+Which/O is/O why/O numerous/O and/O frequent/O toll/O gates/O have/O sprung/O up/O in/O the/O past/O five/O years/O ./O 
+Seventy/O per/O cent/O of/O the/O world/O 's/O 140,000/O km/O of/O tolled/O roads/O are/O found/O in/O China/LOCATION ./O 
+Driving/O along/O the/O Jinshen/LOCATION Expressway/LOCATION -LRB-/O which/O travels/O 635km/O northwest/O from/O Beijing/LOCATION to/O Shenyang/LOCATION -RRB-/O ,/O you/O could/O find/O yourself/O pulling/O up/O every/O 15km/O to/O hand/O over/O some/O coins/O ./O 
+Exasperated/O with/O the/O constant/O stops/O ,/O drivers/O have/O found/O innovative/O ways/O to/O protest/O ./O 
+One/O pair/O of/O bloggers/O from/O Jiangsu/LOCATION thought/O it/O funny/O to/O create/O tailing/O queues/O by/O occupying/O the/O toll/O guards/O in/O paying/O a/O 10/O Yuan/O charge/O -LRB-/O around/O $/O 1/O -RRB-/O with/O plastic/O bags/O full/O of/O around/O 1000/O one/O and/O two/O cents/O coins/O -LRB-/O worth/O 0.1/O -/O 0.2/O euro/O cents/O -RRB-/O ./O 
+They/O thought/O the/O idea/O so/O very/O funny/O in/O fact/O ,/O that/O they/O posted/O photos/O of/O the/O game/O ,/O carried/O out/O in/O a/O toll/O gate/O in/O Sheyang/LOCATION ,/O north/O of/O Shanghai/LOCATION ,/O online/O ./O 
+Eyeing/O up/O the/O bags/O on/O the/O way/O ./O 
+Each/O coin/O is/O worth/O 0.1/O or/O 0.2/O euro/O cents/O ./O 
+Handing/O over/O a/O bag/O at/O the/O toll/O gate/O ./O 
+The/O electronic/O counter/O ./O 
+The/O queue/O ./O 
+Giving/O up/O on/O electronic/O counter/O ./O 
+The/O guards/O seemed/O to/O find/O the/O whole/O thing/O rather/O funny/O ,/O surprisingly/O ./O 
+The/O receipt/O -/O ``/O it/O worked/O !/O ''/O 
+Stashes/O of/O coins/O saved/O up/O for/O future/O trips/O to/O the/O toll/O station/O -/O the/O story/O does/O n't/O end/O here/O .../O unique_identifier/O Ill./LOCATION man/O pays/O part/O of/O settlement/O with/O $/O 150K/O in/O quarters/O Court/O ordered/O him/O to/O share/O $/O 500K/O from/O insurance/O payout/O with/O survivors/O of/O car/O crash/O that/O killed/O his/O son/O ./O 
+Workers/O Wednesday/O unloaded/O 150/O bags/O of/O quarters/O from/O an/O armored/O truck/O to/O another/O truck/O in/O Marion/LOCATION ,/O Ill./LOCATION ./O 
+The/O coins/O ,/O weighing/O 4/O tons/O ,/O were/O delivered/O to/O two/O local/O law/O firms/O as/O a/O protest/O by/O Roger/PERSON Herrin/PERSON ,/O of/O Harrisburg/LOCATION ,/O Ill./LOCATION ,/O against/O a/O court/O ruling/O in/O an/O insurance/O settlement/O for/O a/O crash/O that/O killed/O his/O son/O in/O 2001/O ./O 
+Ordered/O by/O an/O Illinois/LOCATION appeals/O court/O to/O share/O $/O 500,000/O from/O insurance/O with/O passengers/O who/O survived/O a/O car/O crash/O that/O killed/O his/O teenage/O son/O ,/O an/O angry/O businessman/O complied/O by/O paying/O about/O one/O quarter/O of/O the/O settlement/O in/O quarters/O --/O 600,000/O of/O them/O ./O 
+The/O $/O 150,000/O payback/O in/O change/O Wednesday/O was/O a/O ``/O protest/O against/O the/O ruling/O ,/O ''/O Roger/PERSON Herrin/PERSON ,/O a/O retired/O foot/O surgeon/O ,/O nursing/O home/O owner/O ,/O told/O //O The/O //O //O Wall/O Street/O Journal/O //O ./O 
+The/O 4-ton/O ,/O 150-bag/O payback/O was/O first/O reported/O by/O //O The/O Southern/O //O newspaper/O ./O 
+``/O It/O 's/O vehemently/O wrong/O in/O my/O view/O and/O nearly/O everybody/O else/O in/O the/O world/O ,/O ''/O Herrin/PERSON ,/O of/O Harrisburg/LOCATION ,/O Ill./LOCATION ,/O told/O the/O paper/O ./O 
+``/O If/O and/O when/O someone/O loses/O a/O child/O ,/O it/O leaves/O a/O hole/O in/O your/O heart/O that/O is/O never/O repairable/O ./O ''/O 
+His/O 15-year-old-son/O ,/O Michael/PERSON ,/O died/O in/O June/O 2001/O when/O a/O farm/O truck/O ran/O a/O stop/O sign/O in/O southern/O Illinois/LOCATION and/O broadsided/O the/O Jeep/O Cherokee/O he/O was/O in/O ./O 
+The/O crash/O injured/O two/O friends/O and/O the/O driver/O ,/O the/O mother/O of/O one/O friend/O ./O 
+The/O boy/O 's/O family/O received/O $/O 1.65/O million/O in/O a/O settlement/O of/O a/O wrongful-death/O lawsuit/O with/O two/O insurance/O companies/O representing/O the/O truck/O driver/O ./O 
+In/O addition/O ,/O a/O trial/O court/O awarded/O the/O Herrins/O $/O 500,000/O of/O an/O $/O 800,000/O pool/O for/O underinsured/O motorists/O for/O all/O passengers/O ./O 
+But/O in/O January/O 2012/O ,/O the/O state/O 5th/ORGANIZATION District/ORGANIZATION Appellate/ORGANIZATION Court/ORGANIZATION ruled/O that/O the/O Saline/LOCATION County/LOCATION trial/O court/O had/O erred/O in/O awarding/O the/O Herrins/O the/O additional/O money/O and/O ordered/O that/O it/O be/O redistributed/O to/O the/O injured/O passengers/O ./O 
+Wednesday/O was/O the/O deadline/O for/O Herrin/PERSON to/O comply/O ./O 
+An/O armored/O truck/O drove/O the/O quarters/O from/O the/O Federal/ORGANIZATION Reserve/ORGANIZATION Bank/ORGANIZATION of/ORGANIZATION St./ORGANIZATION Louis/ORGANIZATION to/O a/O bank/O in/O Marion/LOCATION ,/O Ill./LOCATION ./O 
+There/O ,/O under/O the/O direction/O of/O the/O 76-year-old/O Herrin/PERSON ,/O workers/O transferred/O the/O change/O to/O flatbed/O trucks/O ,/O the/O //O Journal/O //O said/O ./O 
+The/O trucks/O then/O took/O the/O money/O to/O two/O unsuspecting/O law/O firms/O representing/O the/O injured/O passengers/O ,/O where/O the/O bags/O were/O dropped/O in/O their/O lobbies/O ./O 
+Herrin/PERSON said/O that/O the/O lawyers/O were/O ``/O not/O happy/O ''/O and/O that/O he/O ``/O was/O n't/O real/O congenial/O ./O ''/O 
+One/O attorney/O ,/O Mark/PERSON Prince/PERSON ,/O told/O the/O //O Journal/O //O ,/O ``/O If/O he/O wants/O to/O pay/O in/O quarters/O ,/O that/O 's/O his/O business/O ./O ''/O 
+unique_identifier/O Ill./LOCATION ./O 
+Man/O Repays/O Settlement/O with/O 4/O Tons/O of/O Quarters/O An/O Illinois/LOCATION man/O ,/O frustrated/O by/O a/O court/O ruling/O that/O ordered/O him/O to/O return/O more/O than/O $/O 500,000/O he/O received/O following/O a/O car/O crash/O that/O killed/O his/O teenage/O son/O ,/O sent/O the/O money/O back/O in/O quarters/O ,/O totaling/O more/O than/O four/O tons/O in/O change/O ./O 
+Roger/PERSON Herrin/PERSON wanted/O to/O pay/O the/O money/O back/O in/O pennies/O ,/O in/O protest/O of/O decision/O he/O thought/O was/O unfair/O ,/O but/O when/O that/O proved/O impossible/O he/O settled/O for/O quarters/O ,/O packaged/O in/O 50/O pound/O sacks/O ./O 
+ap/O insurance/O quarters/O payment/O kb/O 130802/O 16x9/O 608/O Ill./LOCATION ./O 
+Man/O Repays/O Settlement/O with/O 4/O Tons/O of/O Quarters/O On/O Wednesday/O ,/O an/O armored/O truck/O delivered/O $/O 150,000/O in/O change/O from/O the/O Federal/ORGANIZATION Reserve/ORGANIZATION in/O St./LOCATION Louis/LOCATION ,/O Mo./LOCATION ,/O to/O two/O law/O firms/O representing/O three/O other/O victims/O who/O were/O also/O injured/O in/O the/O 2001/O wreck/O ./O 
+Calling/O it/O ``/O an/O obvious/O protest/O ,/O ''/O Herrin/PERSON told/O ABC/ORGANIZATION affiliate/O WSIL/ORGANIZATION ,/O ``/O They/O can/O have/O all/O the/O money/O in/O the/O world/O and/O I/O 'd/O take/O my/O son/O back/O ./O ''/O 
+Michael/PERSON Herrin/PERSON ,/O 15/O ,/O was/O killed/O in/O 2001/O when/O a/O truck/O ran/O a/O stop/O sign/O and/O broadsided/O the/O Jeep/O Cherokee/O in/O which/O the/O teen/O and/O his/O friends/O were/O riding/O ./O 
+ap/O insurance/O payment/O quarters/O kb/O 130802/O 16x9/O 608/O Ill./O ./O 
+Man/O Repays/O Settlement/O with/O 4/O Tons/O of/O Quarters/O Roger/PERSON Herrin/PERSON received/O $/O 1.6/O million/O in/O compensation/O through/O his/O own/O insurance/O ,/O plus/O an/O additional/O $/O 800,000/O paid/O out/O through/O other/O insurance/O ./O 
+Since/O Michael/PERSON was/O the/O only/O one/O killed/O in/O the/O crash/O his/O estate/O received/O the/O bulk/O of/O the/O cash/O ./O 
+The/O three/O injured/O survivors/O appealed/O and/O recently/O won/O ,/O leading/O Herrin/PERSON to/O begrudgingly/O return/O the/O money/O ./O 
+Citing/O confidentiality/O agreements/O ,/O Mark/PERSON Prince/PERSON ,/O an/O attorney/O for/O the/O Jeep/O 's/O driver/O and/O her/O son/O ,/O who/O was/O also/O a/O passenger/O ,/O would/O not/O discuss/O the/O case/O but/O called/O the/O delivery/O of/O coins/O ``/O counterproductive/O ./O ''/O 
+ap/O insurance/O quarters/O harrin/O kb/O 130802/O 16x9/O 608/O Ill./LOCATION ./O 
+Man/O Repays/O Settlement/O with/O 4/O Tons/O of/O Quarters/O ``/O We/O 've/O been/O on/O pins/O and/O needles/O because/O we/O had/O a/O lot/O of/O cash/O suddenly/O laying/O around/O ,/O it/O was/O publicized/O ,/O ''/O Prince/PERSON told/O the/O Associated/ORGANIZATION Press/ORGANIZATION ./O 
+``/O We/O do/O n't/O have/O safes/O or/O vaults/O ,/O and/O we/O lock/O our/O front/O door/O ./O 
+Advance/O notice/O would/O have/O been/O nice/O ,/O because/O we/O could/O have/O made/O arrangements/O to/O have/O it/O delivered/O to/O the/O bank/O ./O ''/O 
+unique_identifier/O Illinois/LOCATION businessman/O pays/O insurance/O settlement/O in/O quarters/O A/O prominent/O Illinois/LOCATION businessman/O who/O disagreed/O with/O the/O outcome/O of/O an/O insurance/O payout/O after/O the/O death/O of/O his/O son/O paid/O a/O portion/O of/O the/O final/O legal/O settlement/O in/O thousands/O of/O pounds/O of/O quarters/O ,/O an/O attorney/O involved/O in/O the/O case/O said/O on/O Thursday/O ./O 
+Attorney/O Douglas/PERSON Dorris/PERSON confirmed/O that/O Roger/PERSON Herrin/PERSON arrived/O at/O his/O law/O firm/O on/O Wednesday/O with/O 75/O bags/O ,/O each/O containing/O 4,000/O quarters/O ,/O weighing/O 48/O pounds/O each/O ,/O for/O a/O total/O of/O $/O 75,000/O ,/O as/O part/O of/O the/O settlement/O payment/O ./O 
+The/O firm/O had/O to/O hire/O a/O Brinks/O truck/O to/O haul/O away/O the/O bags/O of/O coins/O and/O count/O them/O ./O 
+Herrin/PERSON ,/O 76/O ,/O a/O retired/O podiatrist/O whose/O company/O owns/O three/O nursing/O homes/O ,/O is/O a/O member/O of/O the/O Southern/ORGANIZATION Illinois/ORGANIZATION University/ORGANIZATION board/O of/O trustees/O and/O has/O served/O on/O other/O state/O government/O boards/O ,/O including/O the/O Illinois/ORGANIZATION Finance/ORGANIZATION Authority/ORGANIZATION ./O 
+In/O June/O of/O 2001/O ,/O Roger/PERSON Herrin/PERSON 's/O teenage/O son/O ,/O Michael/PERSON ,/O was/O a/O passenger/O in/O a/O Jeep/O Cherokee/O when/O it/O was/O struck/O by/O a/O truck/O running/O a/O stop/O sign/O ,/O according/O to/O court/O records/O ./O 
+Michael/PERSON Herrin/PERSON was/O thrown/O out/O of/O the/O Jeep/O and/O killed/O ,/O and/O two/O other/O teens/O ,/O Jared/PERSON Head/PERSON and/O Ross/PERSON Duncan/PERSON ,/O were/O injured/O ./O 
+The/O driver/O ,/O Duncan/PERSON 's/O mother/O ,/O was/O also/O injured/O ./O 
+Michael/PERSON Herrin/PERSON 's/O estate/O had/O $/O 5.5/O million/O in/O various/O forms/O of/O insurance/O coverage/O ,/O according/O to/O court/O records/O ./O 
+Roger/PERSON Herrin/PERSON accepted/O on/O behalf/O of/O his/O son/O 's/O estate/O a/O settlement/O offer/O of/O $/O 1.65/O million/O ./O 
+The/O insurance/O policy/O for/O the/O Jeep/O 's/O owner/O provided/O another/O $/O 800,000/O in/O coverage/O for/O all/O the/O accident/O victims/O ,/O and/O the/O truck/O 's/O insurance/O provided/O $/O 100,000/O more/O ./O 
+Roger/PERSON Herrin/PERSON ,/O as/O administrator/O of/O his/O son/O 's/O estate/O ,/O claimed/O he/O was/O due/O the/O lion/O 's/O share/O of/O those/O funds/O ,/O too/O ,/O and/O a/O judge/O agreed/O ,/O awarding/O an/O additional/O payout/O of/O $/O 677,851/O to/O Herrin/PERSON ./O 
+But/O an/O appellate/O court/O found/O that/O under/O Illinois/LOCATION law/O ,/O Herrin/PERSON 's/O estate/O was/O not/O entitled/O to/O money/O from/O the/O Jeep/O owner/O 's/O insurance/O because/O it/O had/O received/O a/O much/O larger/O payout/O already/O ./O 
+The/O survivors/O from/O the/O Jeep/O accident/O had/O over/O $/O 900,000/O in/O claims/O ,/O according/O to/O court/O records/O ./O 
+Ultimately/O ,/O a/O settlement/O was/O reached/O by/O which/O Herrin/PERSON had/O to/O pay/O back/O money/O to/O the/O other/O accident/O victims/O ./O 
+Herrin/PERSON was/O not/O immediately/O available/O for/O comment/O ./O 
+However/O ,/O he/O told/O the/O Southern/ORGANIZATION Illinoisan/ORGANIZATION newspaper/O that/O the/O settlement/O payment/O in/O the/O case/O was/O ``/O vehemently/O wrong/O ''/O and/O that/O losing/O a/O child/O ``/O leaves/O a/O hole/O in/O your/O heart/O that/O is/O never/O repairable/O ./O ''/O 
+The/O newspaper/O reported/O the/O amount/O Herrin/PERSON had/O to/O return/O came/O to/O roughly/O $/O 500,000/O ,/O though/O the/O total/O sum/O could/O not/O be/O independently/O confirmed/O by/O Reuters/ORGANIZATION ./O 
+Dorris/PERSON ,/O the/O attorney/O for/O Head/O ,/O said/O he/O believed/O the/O decisions/O followed/O the/O law/O ,/O although/O Herrin/PERSON ``/O obviously/O is/O very/O upset/O with/O the/O opinions/O and/O rulings/O of/O the/O appellate/O court/O ./O 
+``/O On/O the/O other/O hand/O ,/O I/O have/O no/O desire/O to/O criticize/O a/O man/O who/O has/O lost/O a/O son/O ,/O ``/O Dorris/PERSON said/O ./O 
+``/O I/O can/O understand/O him/O being/O very/O upset/O ./O 
+``/O An/O attorney/O for/O the/O other/O survivors/O was/O not/O immediately/O available/O for/O comment/O ./O 
+unique_identifier/O Illinois/LOCATION man/O repays/O wrongful/O death/O insurance/O money/O with/O 4/O tons/O of/O coins/O A/O southern/O Illinois/LOCATION man/O paid/O off/O a/O portion/O of/O a/O court-ordered/O legal/O settlement/O with/O nearly/O four/O tons/O of/O quarters/O packed/O into/O dozens/O of/O bags/O ./O 
+Harrisburg/LOCATION resident/O Roger/PERSON Herrin/PERSON was/O ordered/O to/O repay/O $/O 500,000/O in/O insurance/O money/O related/O to/O the/O 2001/O death/O of/O his/O teenage/O son/O ,/O who/O died/O in/O a/O car/O accident/O ./O 
+Herrin/PERSON packed/O a/O third/O of/O the/O money/O --/O $/O 150,000/O --/O into/O 50-pound/O bags/O of/O quarters/O ./O 
+They/O were/O unloaded/O from/O an/O armored/O truck/O and/O delivered/O to/O a/O Marion/O law/O firm/O on/O Wednesday/O ./O 
+The/O businessman/O says/O he/O 's/O upset/O that/O an/O appellate/O court/O ordered/O him/O to/O repay/O the/O money/O from/O a/O wrongful/O death/O suit/O ./O 
+He/O says/O he/O decided/O to/O fork/O over/O the/O quarters/O in/O protest/O ./O 
+He/O tells/O WSIL-TV/O that/O he/O chose/O the/O coins/O because/O :/O ``/O I/O could/O n't/O do/O it/O in/O pennies/O ./O ''/O 
+unique_identifier/O Indiana/LOCATION Man/O Buys/O Pickup/O Truck/O With/O Spare/O Change/O By/O consumeristcarey/O December/O 26/O ,/O 2007/O Paul/PERSON Brant/PERSON of/O Indiana/LOCATION bought/O a/O 2008/O Dodge/O Ram/O with/O quarters/O and/O gold/O dollars/O worth/O $/O 26,670/O ./O 
+The/O septuagenarian/O spent/O thirteen/O years/O collecting/O enough/O loose/O change/O to/O buy/O the/O new/O pickup/O ,/O which/O will/O replace/O the/O Dodge/ORGANIZATION he/O purchased/O in/O 1994/O with/O 144,000/O quarters/O ./O 
+Brant/PERSON 's/O revolutionary/O method/O for/O collecting/O spare/O change/O ,/O after/O the/O jump/O ./O 
+Being/O thrifty/O ,/O Brant/PERSON said/O ,/O comes/O naturally/O ./O 
+``/O I/O reckon/O I/O was/O just/O brought/O up/O that/O way/O ,/O ''/O he/O said/O ./O 
+His/O father/O always/O paid/O cash/O ,/O he/O said/O ,/O and/O it/O 's/O a/O tradition/O he/O carried/O on/O ./O 
+Besides/O ,/O he/O added/O ,/O ``/O Checks/O are/O no/O fun/O ./O ''/O 
+He/O makes/O it/O a/O habit/O to/O save/O his/O loose/O change/O ,/O he/O said/O ,/O explaining/O that/O he/O cleans/O out/O his/O pockets/O every/O morning/O ,/O and/O does/O n't/O hesitate/O to/O pick/O up/O stray/O coins/O from/O the/O ground/O wherever/O he/O goes/O ./O 
+``/O Once/O you/O drop/O them/O out/O of/O your/O hand/O ,/O they/O 're/O gone/O ,/O ''/O he/O said/O ./O 
+``/O They/O do/O n't/O last/O very/O long/O ./O ''/O 
+The/O dealership/O ca/O n't/O convince/O any/O bank/O to/O accept/O the/O water/O jugs/O ,/O coffee/O cans/O ,/O and/O piggy/O banks/O that/O hold/O Brant/PERSON 's/O spare/O change/O ,/O so/O they/O hired/O an/O armored/O car/O to/O haul/O and/O count/O the/O coins/O ./O 
+unique_identifier/O Insurance/O Agency/O Allegedly/O Delivers/O Elderly/O Man/O 's/O Settlement/O In/O Buckets/O Of/O Loose/O Change/O When/O an/O insurance/O agency/O finally/O agreed/O earlier/O this/O year/O to/O settle/O a/O lawsuit/O with/O an/O elderly/O California/LOCATION man/O ,/O he/O probably/O expected/O that/O his/O payout/O would/O come/O in/O the/O form/O of/O a/O check/O ,/O or/O perhaps/O even/O in/O an/O envelope/O of/O cash/O ./O 
+Instead/O ,/O Andres/PERSON Carrasco/PERSON ,/O 76/O ,/O says/O Adriana/PERSON 's/O Insurance/ORGANIZATION Services/ORGANIZATION chose/O to/O pay/O him/O in/O thousands/O and/O thousands/O of/O coins/O ./O 
+Carrasco/PERSON 's/O attorney/O ,/O Antonio/PERSON Gallo/PERSON ,/O says/O that/O the/O California-based/O company/O recently/O dropped/O off/O several/O buckets/O of/O loose/O change/O at/O his/O office/O ,/O per/O local/O news/O outlet/O KNBC-TV/ORGANIZATION ./O 
+It/O 's/O estimated/O that/O the/O coins/O value/O more/O than/O $/O 20,000/O ./O 
+``/O There/O 's/O over/O 16/O buckets/O of/O quarters/O ,/O nickels/O ,/O dimes/O and/O pennies/O ,/O ''/O Gallo/PERSON told/O CBS/ORGANIZATION Los/LOCATION Angeles/LOCATION ./O 
+``/O It/O 's/O going/O to/O take/O us/O at/O least/O ,/O conservatively/O ,/O one/O week/O to/O count/O that/O whole/O amount/O of/O money/O ./O ''/O 
+One/O of/O the/O buckets/O was/O reportedly/O full/O of/O just/O pennies/O ./O 
+andres/O carrasco/O //O Andres/PERSON Carrasco/PERSON with/O the/O buckets/O of/O change/O he/O won/O as/O a/O partial/O settlement/O in/O a/O 2012/O lawsuit/O against/O Adriana/PERSON '/O $/O ™/ORGANIZATION s/ORGANIZATION Insurance/ORGANIZATION Services/ORGANIZATION ./O 
+//O Carrasco/PERSON filed/O a/O lawsuit/O against/O Adriana/ORGANIZATION 's/ORGANIZATION Insurance/ORGANIZATION Services/ORGANIZATION in/O 2012/O after/O he/O was/O allegedly/O assaulted/O by/O one/O of/O the/O company/O 's/O employees/O ,/O CBS/ORGANIZATION LA/ORGANIZATION reports/O ./O 
+Adriana/PERSON 's/O Insurance/O agreed/O to/O a/O settlement/O in/O June/O and/O ,/O according/O to/O The/O Associated/ORGANIZATION Press/ORGANIZATION ,/O gave/O Carrasco/PERSON a/O partial/O payment/O in/O the/O form/O of/O a/O check/O last/O week/O ./O 
+The/O remainder/O of/O the/O money/O ,/O however/O ,/O was/O allegedly/O delivered/O as/O buckets/O of/O coins/O ./O 
+``/O It/O 's/O insulting/O to/O my/O client/O ,/O ''/O Carrasco/PERSON 's/O attorney/O said/O ,/O per/O the/O AP/ORGANIZATION ./O 
+``/O He/O 's/O 76/O years/O old/O ,/O he/O just/O had/O a/O hernia/O operation/O ./O 
+Come/O on/O ./O 
+He/O feels/O that/O he/O was/O n't/O treated/O as/O a/O human/O being/O ./O ''/O 
+Neither/O the/O insurance/O agency/O nor/O its/O attorney/O responded/O to/O requests/O for/O comment/O ./O 
+``/O I/O am/O disappointed/O by/O the/O way/O Adriana/PERSON 's/O treats/O their/O customers/O and/O the/O elderly/O ,/O ''/O Carrasco/PERSON said/O in/O the/O statement/O ,/O per/O KNBC/ORGANIZATION ./O 
+``/O We/O might/O be/O poor/O ,/O but/O we/O are/O people/O too/O ./O ''/O 
+unique_identifier/O Insurance/O broker/O pays/O out/O $/O 21K/O settlement/O to/O 73-year-old/O in/O buckets/O of/O small/O change/O Andres/PERSON Carrasco/PERSON and/O his/O ``/O settlement/O ./O ''/O 
+What/O a/O bunch/O of/O a-holes/O ./O 
+Andres/PERSON Carrasco/PERSON filed/O a/O lawsuit/O in/O 2012/O against/O Adriana/ORGANIZATION 's/ORGANIZATION Insurance/ORGANIZATION Service/ORGANIZATION ,/ORGANIZATION Inc./ORGANIZATION alleging/O he/O was/O physically/O assaulted/O by/O one/O of/O the/O company/O 's/O employees/O ./O 
+After/O agreeing/O to/O a/O settlement/O with/O Andres/PERSON Carrasco/PERSON in/O June/O ,/O Adriana/PERSON 's/O Insurance/O decided/O to/O deliver/O the/O funds/O in/O the/O form/O of/O a/O check/O --/O and/O buckets/O and/O buckets/O of/O quarters/O ,/O dimes/O ,/O nickels/O and/O pennies/O ./O 
+The/O guy/O is/O a/O senior/O citizen/O and/O recently/O had/O a/O hernia/O operation/O and/O is/O unable/O to/O lift/O the/O buckets/O ./O 
+Apparently/O eight/O Adriana/PERSON 's/O Insurance/ORGANIZATION Service/ORGANIZATION employees/O arrived/O at/O Carrasco/ORGANIZATION 's/O lawyers/O office/O and/O just/O started/O dropping/O off/O buckets/O of/O loose/O change/O that/O amounted/O to/O around/O $/O 21,000/O ./O 
+``/O I/O am/O disappointed/O by/O the/O way/O Adriana/PERSON 's/O treats/O their/O customers/O and/O the/O elderly/O ,/O ''/O Carrasco/PERSON said/O in/O the/O statement/O ./O 
+``/O We/O might/O be/O poor/O ,/O but/O we/O are/O people/O too/O ./O ''/O 
+Unsurprisingly/O ,/O when/O contacted/O by/O the/O press/O ,/O Adriana/PERSON 's/O Insurance/ORGANIZATION Service/ORGANIZATION was/O unavailable/O for/O comment/O ./O 
+Not/O really/O sure/O that/O they/O could/O say/O anything/O to/O defend/O such/O a/O cruel/O and/O childish/O action/O anyway/O ./O 
+unique_identifier/O Company/O Pays/O Settlement/O in/O Buckets/O of/O Loose/O Change/O An/O unexpected/O delivery/O of/O loose/O change/O has/O a/O 73-year-old/O man/O in/O California/LOCATION giving/O his/O own/O two/O cents/O ./O 
+Andres/PERSON Carrasco/PERSON filed/O a/O lawsuit/O in/O 2012/O against/O Adriana/ORGANIZATION 's/ORGANIZATION Insurance/ORGANIZATION Service/ORGANIZATION ,/ORGANIZATION Inc./ORGANIZATION alleging/O he/O was/O physically/O assaulted/O by/O one/O of/O the/O company/O 's/O employees/O ./O 
+After/O agreeing/O to/O a/O settlement/O with/O Andres/PERSON Carrasco/PERSON in/O June/O ,/O Adriana/PERSON 's/O Insurance/O decided/O to/O deliver/O the/O funds/O in/O the/O form/O of/O a/O check/O --/O and/O buckets/O and/O buckets/O of/O quarters/O ,/O dimes/O ,/O nickels/O and/O pennies/O ./O 
+The/O coins/O amount/O to/O more/O than/O $/O 21,000/O ,/O said/O Carrasco/PERSON 's/O attorney/O Antonio/PERSON Gallo/PERSON ./O 
+``/O Adriana/PERSON 's/O Insurance/O ,/O is/O this/O the/O way/O you/O treat/O everyone/O ?/O ''/O 
+Carrasco/PERSON said/O in/O a/O statement/O ./O 
+``/O Why/O do/O n't/O you/O like/O your/O clients/O ?/O ''/O 
+When/O the/O time/O to/O pony/O up/O for/O the/O settlement/O came/O ,/O Carrasco/PERSON 's/O attorney/O said/O eight/O of/O Adriana/PERSON 's/O Insurance/O employees/O arrived/O in/O a/O van/O with/O five-gallon/O containers/O full/O of/O coins/O in/O hand/O ./O 
+The/O employees/O then/O went/O to/O Carrasco/PERSON 's/O attorney/O 's/O office/O ,/O dropped/O them/O off/O in/O waiting/O room/O and/O left/O ./O 
+Carrasco/PERSON had/O just/O had/O a/O hernia/O operation/O and/O would/O n't/O be/O able/O to/O lift/O one/O of/O buckets/O ,/O let/O alone/O the/O scores/O left/O by/O the/O company/O ,/O Gallo/PERSON said/O ./O 
+``/O I/O am/O disappointed/O by/O the/O way/O Adriana/PERSON 's/O treats/O their/O customers/O and/O the/O elderly/O ,/O ''/O Carrasco/PERSON said/O in/O the/O statement/O ./O 
+``/O We/O might/O be/O poor/O ,/O but/O we/O are/O people/O too/O ./O ''/O 
+Officials/O with/O the/O insurance/O company/O did/O not/O respond/O to/O requests/O for/O comment/O ./O 
+unique_identifier/O Insurance/O company/O pays/O $/O 21,000/O settlement/O with/O buckets/O of/O loose/O change/O Andres/PERSON Carrasco/PERSON ,/O 76/O ,/O received/O thousands/O of/O quarters/O ,/O nickels/O and/O dimes/O as/O payment/O from/O Adriana/ORGANIZATION 's/ORGANIZATION Insurance/ORGANIZATION Services/ORGANIZATION in/O California/LOCATION An/O insurance/O company/O begrudgingly/O paid/O a/O $/O 21,000/O -LRB-/O #/O 12,000/O -RRB-/O court/O settlement/O by/O dropping/O it/O off/O in/O buckets/O full/O of/O loose/O change/O ./O 
+Adriana/PERSON 's/O Insurance/ORGANIZATION Services/ORGANIZATION ,/O based/O in/O Rancho/LOCATION Cucamonga/LOCATION ,/O California/LOCATION ,/O settled/O a/O dispute/O with/O Andres/PERSON Carrasco/PERSON in/O June/O ./O 
+The/O 76-year-old/O Los/LOCATION Angeles/LOCATION claims/O an/O Adriana/PERSON employee/O assaulted/O him/O during/O an/O argument/O over/O why/O the/O company/O had/O cancelled/O his/O car/O insurance/O ./O 
+He/O was/O expecting/O a/O cheque/O in/O the/O post/O ,/O but/O instead/O received/O thousands/O of/O quarters/O ,/O nickels/O and/O dimes/O ./O 
+The/O buckets/O were/O dropped/O off/O at/O his/O lawyer/O Antonio/PERSON Gallo/PERSON 's/O office/O this/O week/O ,/O a/O day/O after/O Mr/O Gallo/PERSON had/O refused/O to/O accept/O the/O delivery/O ./O 
+``/O There/O 's/O maybe/O 17/O buckets/O of/O coins/O ,/O ''/O the/O attorney/O explained/O ./O 
+``/O They/O probably/O -LRB-/O each/O -RRB-/O weigh/O anywhere/O between/O 70/O to/O 100/O pounds/O ./O 
+I/O 'm/O assuming/O ,/O because/O I/O ca/O n't/O lift/O them/O ./O 
+``/O It/O 's/O insulting/O to/O my/O client/O ./O 
+He/O 's/O 76/O years/O old/O ;/O he/O just/O had/O a/O hernia/O operation/O ,/O ''/O he/O added/O ./O 
+``/O He/O feels/O that/O he/O was/O n't/O treated/O as/O a/O human/O being/O ./O ''/O 
+Mr/O Carrasco/PERSON said/O he/O was/O ``/O disappointed/O ''/O about/O the/O way/O he/O has/O been/O treated/O ./O 
+His/O lawyer/O has/O asked/O the/O insurance/O company/O to/O remove/O the/O coins/O and/O issue/O a/O cheque/O for/O the/O full/O settlement/O amount/O ./O 
+Adriana/PERSON 's/O Insurance/ORGANIZATION Services/ORGANIZATION has/O not/O responded/O to/O requests/O for/O comment/O ./O 
+unique_identifier/O Insurance/O company/O pays/O $/O 21k/O in/O coins/O to/O elderly/O man/O with/O a/O hernia/O A/O small/O insurance/O company/O in/O California/LOCATION has/O a/O thing/O or/O two/O to/O learn/O about/O customer/O service/O ./O 
+Adriana/PERSON 's/O Insurance/ORGANIZATION Service/ORGANIZATION settled/O a/O lawsuit/O over/O an/O employee/O assaulting/O an/O elderly/O man/O .../O and/O delivered/O his/O compensation/O in/O buckets/O full/O of/O coins/O ./O 
+Andres/PERSON Carrasco/PERSON filed/O a/O lawsuit/O against/O the/O company/O in/O 2012/O ,/O claiming/O he/O was/O physically/O assaulted/O by/O an/O Adriana/PERSON 's/O Insurance/ORGANIZATION Service/ORGANIZATION employee/O ./O 
+The/O business/O agreed/O to/O settle/O in/O June/O ./O 
+When/O it/O came/O time/O for/O Adriana/PERSON 's/O to/O pay/O up/O the/O $/O 21,000/O they/O owed/O him/O ,/O however/O ,/O they/O did/O n't/O just/O cut/O a/O check/O ./O 
+Employees/O eight/O of/O them/O arrived/O at/O Carrasco/PERSON 's/O lawyer/O 's/O office/O in/O a/O van/O ,/O and/O proceeded/O to/O deliver/O five-gallon/O bucket/O after/O five-gallon/O bucket/O filled/O with/O change/O before/O leaving/O ./O 
+//O ``/O There/O 's/O over/O 16/O buckets/O of/O quarters/O ,/O nickels/O ,/O dimes/O and/O pennies/O ./O 
+It/O 's/O going/O to/O take/O us/O at/O least/O ,/O conservatively/O ,/O one/O week/O to/O count/O that/O whole/O amount/O of/O money/O ,/O ''/O //O attorney/O Antonio/PERSON Gallo/PERSON told/O KCBS/ORGANIZATION ./O 
+Carrasco/PERSON ,/O who/O is/O 73/O ,/O just/O had/O a/O hernia/O operation/O ,/O and/O is/O unable/O to/O lift/O any/O of/O the/O buckets/O ,/O Gallo/PERSON said/O to/O KNBC/ORGANIZATION ./O 
+//O ``/O It/O 's/O too/O heavy/O ,/O ''/O //O the/O recipient/O said/O to/O KCBS/ORGANIZATION ./O 
+//O ``/O I/O am/O disappointed/O by/O the/O way/O Adriana/PERSON 's/O treats/O their/O customers/O and/O the/O elderly/O ,/O ''/O //O Carrasco/PERSON said/O in/O a/O statement/O ./O 
+//O ``/O We/O might/O be/O poor/O ,/O but/O we/O are/O people/O too/O ./O ''/O 
+//O If/O online/O reviews/O are/O any/O indication/O ,/O the/O company/O is/O not/O known/O for/O its/O customer/O service/O ./O 
+Jeff/PERSON B./PERSON gave/O Adriana/PERSON 's/O its/O highest/O Yelp/O rating/O of/O two/O stars/O back/O in/O 2012/O ./O 
+//O ``/O When/O we/O 've/O dealt/O with/O customer/O service/O in/O person/O or/O on/O the/O phone/O ,/O feels/O like/O the/O DMV/ORGANIZATION ./O 
+And/O you/O know/O how/O that/O goes/O ,/O ''/O //O he/O wrote/O in/O his/O review/O ./O 
+On/O Reddit/LOCATION ,/O user/O mikelaza/O wrote/O ,/O //O ``/O I/O worked/O for/O Adriana/PERSON 's/O Insurance/O and/O can/O confirm/O they/O care/O very/O little/O for/O their/O clients/O ./O ''/O 
+//O Another/O ,/O stevezorz/O ,/O said/O he/O is/O a/O former/O client/O ./O 
+He/O explained/O his/O experiences/O with/O the/O company/O :/O Adriana/PERSON 's/O is/O a/O budget/O insurance/O company/O local/O to/O Los/LOCATION Angeles/LOCATION and/O surrounding/O counties/O ./O 
+I/O had/O them/O for/O a/O while/O ,/O because/O they/O were/O cheap/O as/O hell/O ./O 
+But/O ,/O as/O the/O saying/O goes/O ,/O you/O get/O what/O you/O pay/O for/O ./O 
+Customer/O service/O sucks/O ,/O it/O was/O next/O to/O impossible/O to/O get/O reimbursed/O for/O roadside/O assistance/O included/O on/O your/O plan/O ,/O and/O even/O talking/O to/O their/O reps/O in/O person/O was/O nightmare/O ./O 
+My/O mom/O tried/O to/O cancel/O her/O insurance/O with/O them/O ,/O and/O they/O gave/O her/O the/O whole/O merry-go-round/O phone/O service/O treatment/O ,/O transferring/O her/O ,/O dropping/O her/O calls/O and/O doing/O everything/O they/O could/O to/O avoid/O canceling/O ./O 
+So/O ,/O we/O just/O stopped/O paying/O ./O 
+That/O got/O their/O attention/O ,/O and/O they/O cancelled/O our/O policy/O with/O them/O promptly/O ./O 
+In/O short/O ,/O it/O 's/O run/O by/O bunch/O of/O scumbag/O assholes/O who/O did/O n't/O give/O a/O shit/O about/O you/O ,/O as/O long/O as/O you/O 're/O paying/O them/O on/O time/O ./O 
+The/O Better/ORGANIZATION Business/ORGANIZATION Bureau/ORGANIZATION ranks/O the/O company/O a/O C/O -/O ./O 
+Adriana/PERSON 's/O failed/O to/O respond/O to/O six/O complaints/O against/O it/O ,/O and/O has/O a/O total/O of/O 11/O closed/O complaints/O the/O majority/O for/O problems/O with/O the/O product/O or/O service/O ./O 
+//O ``/O Adriana/PERSON 's/O Insurance/O ,/O is/O this/O the/O way/O you/O treat/O everyone/O ?/O ''/O 
+//O Carrasco/PERSON said/O in/O the/O statement/O ./O 
+//O ``/O Why/O do/O n't/O you/O like/O your/O clients/O ?/O ''/O 
+//O The/O company/O has/O not/O responded/O to/O requests/O from/O a/O variety/O of/O media/O outlets/O about/O their/O payment/O delivery/O ./O 
+unique_identifier/O Insurance/O company/O pays/O $/O 21K/O settlement/O in/O loose/O change/O A/O California/LOCATION man/O received/O a/O $/O 21,000/O insurance/O settlement/O this/O week/O in/O buckets/O of/O quarters/O ,/O nickels/O ,/O dimes/O and/O pennies/O ./O 
+According/O to/O CBS/ORGANIZATION Los/LOCATION Angeles/LOCATION ,/O Andres/PERSON Carrasco/PERSON filed/O a/O lawsuit/O in/O 2012/O ,/O claiming/O an/O employee/O at/O Adriana/ORGANIZATION 's/ORGANIZATION Insurance/ORGANIZATION Service/ORGANIZATION ,/ORGANIZATION Inc./ORGANIZATION physically/O assaulted/O him/O ./O 
+After/O agreeing/O to/O a/O settlement/O with/O the/O senior/O citizen/O in/O June/O ,/O the/O insurance/O company/O reportedly/O sent/O Carrasco/PERSON a/O cheque/O of/O an/O undisclosed/O amount/O of/O money/O but/O also/O delivered/O 16/O buckets/O of/O loose/O change/O to/O the/O office/O of/O the/O man/O 's/O lawyer/O ./O 
+``/O It/O 's/O going/O to/O take/O us/O at/O least/O ,/O conservatively/O ,/O one/O week/O to/O count/O that/O whole/O amount/O of/O money/O ,/O ''/O Antonio/PERSON Gallo/PERSON told/O CBS/ORGANIZATION ./O 
+According/O to/O NBC/ORGANIZATION ,/O Carrasco/PERSON recently/O had/O a/O hernia/O operation/O and/O Gallo/PERSON said/O his/O client/O ca/O n't/O lift/O a/O single/O bucket/O of/O coins/O ./O 
+``/O Adriana/PERSON 's/O Insurance/O ,/O is/O this/O the/O way/O you/O treat/O everyone/O ?/O ''/O 
+Carrasco/PERSON said/O in/O a/O statement/O ./O 
+``/O Why/O do/O n't/O you/O like/O your/O clients/O ?/O ''/O 
+The/O insurance/O company/O has/O declined/O requests/O for/O comment/O ./O 
+unique_identifier/O Insurance/O Company/O Pays/O Elderly/O Man/O With/O $/O 21,000/O in/O Coins/O Andres/PERSON Carrasco/PERSON ,/O 73/O ,/O from/O California/LOCATION ,/O filed/O a/O lawsuit/O against/O Adriana/PERSON 's/O Insurance/ORGANIZATION Service/ORGANIZATION back/O in/O 2012/O ,/O alleging/O he/O was/O physically/O assaulted/O by/O an/O employee/O from/O the/O company/O ./O 
+In/O June/O the/O company/O agreed/O to/O a/O settlement/O but/O showed/O up/O to/O Carrasco/PERSON 's/O attorney/O 's/O office/O to/O deliver/O the/O money/O in/O the/O most/O unorthodox/O way/O ./O 
+Buckets/O ,/O filled/O with/O dimes/O ,/O nickles/O ,/O quarters/O and/O pennies/O ./O 
+Since/O the/O story/O ,/O Adriana/PERSON 's/O Insurance/O 's/O Yelp/O page/O has/O been/O slammed/O with/O negative/O reviews/O and/O people/O leaving/O their/O own/O 2/O cents/O !/O 
+unique_identifier/O 
