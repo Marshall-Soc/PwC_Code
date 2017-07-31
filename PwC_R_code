@@ -63,7 +63,7 @@ write.csv(negsum, file="neg.csv")
 write.csv(freq, file="freq.csv")
 
 # Getting t-d matrix with POS tags for coding. See Bash POS code to see how the docs were person-tagged.
-tags <- file.path("/Users/marshalltaylor/Box Sync/Coins as Protest/stanford-ner-2015-12-09/tagged_docs/")
+tags <- file.path("/file/path/to/stanford-ner-2015-12-09/tagged_docs/")
 tags2 <- Corpus(DirSource(tags))
 toString <- content_transformer(function(x, from, to) gsub(from, to, x))
 tags2 <- tm_map(tags2, toString, "/", "")
