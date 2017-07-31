@@ -5,7 +5,10 @@
 	
 ##############################
 ## PwC_Bash_Code.txt: "Paying with Change" Article State Code
-## Note: Used Stanford NER tagger, version 3.6.0.
+## Note: Used Stanford NER tagger, version 3.6.0. You will need to download the tagger and
+	##nest it within your file path. You will then need to download the "Bash_files" 
+	##sub-folder within the "Data" folder, unzip the files that need unzipping, and
+	##then nest these folders within the NER tagger folder.
 ## Author: Marshall A. Taylor
 ##############################
 
