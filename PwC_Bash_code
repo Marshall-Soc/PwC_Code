@@ -1,0 +1,82 @@
+### "Paying with Change" Article Bash Code ###
+
+# Marshall A. Taylor #
+# Dustin S. Stoltz #
+	
+##############################
+## PwC_Bash_Code.txt: "Paying with Change" Article State Code
+## Note: Used Stanford NER tagger, version 3.6.0.
+## Author: Marshall A. Taylor
+##############################
+
+############################
+##  COMMANDS BEGIN HERE   ##
+############################
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data1/“
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data2/”
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data3/“
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data4/”
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data5/“
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/Data/Data6/”
+
+$ echo "  unique_identifier" | tee -a *.txt
+
+$ cd "/file/path/to/stanford-ner-2015-12-09/“
+
+$ cat Data/Data1/*.txt >> text1.txt
+
+$ cat Data/Data2/*.txt >> text2.txt
+
+$ cat Data/Data3/*.txt >> text3.txt
+
+$ cat Data/Data4/*.txt >> text4.txt
+
+$ cat Data/Data5/*.txt >> text5.txt
+
+$ cat Data/Data6/*.txt >> text6.txt 
+
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text1.txt > tagged_text1.txt
+
+java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text2.txt > tagged_text2.txt
+
+java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text3.txt > tagged_text3.txt
+
+java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text4.txt > tagged_text4.txt
+
+java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text5.txt > tagged_text5.txt
+
+java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text6.txt > tagged_text6.txt
+
+$ csplit -f tagsa tagged_text1.txt /"unique_identifier/O”/ {49}
+
+$ csplit -f tagsb tagged_text2.txt /“unique_identifier/O”/ {49}
+
+$ csplit -f tagsc tagged_text3.txt /“unique_identifier/O”/ {49}
+
+$ csplit -f tagsd tagged_text4.txt /“unique_identifier/O”/ {49}
+
+$ csplit -f tagse tagged_text5.txt /“unique_identifier/O”/ {49}
+
+$ csplit -f tagsf tagged_text6.txt /“unique_identifier/O”/ {29}
+
+$ rm tagsa50 tagsb50 tagsc50 tagsd50 tagse50 tagsf30
+
+$ mkdir tagged_docs
+
+$ mv tags* tagged_docs/
