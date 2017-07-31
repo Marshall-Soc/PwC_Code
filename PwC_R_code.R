@@ -29,7 +29,7 @@ library(LambertW)
 ############################
 
 # Loading in corpus.
-docs <- file.path("/file/path/here/to/PwC_docs") 
+docs <- file.path("/file/path/here/to/PwC_docs") #You will need to unzip this from the "Data" folder.
 dir(docs)
 corp <- Corpus(DirSource(docs))
 summary(corp)
