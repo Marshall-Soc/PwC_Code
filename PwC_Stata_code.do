@@ -24,7 +24,7 @@ set more off
 **************************
 ***COMMANDS BEGIN HERE ***
 **************************
-use PwC_Data, clear
+use PwC_Stata_Data, clear
 
 //Descriptives 
 univar sqapol Perceptibility Legibility Space Resistance Amount Payor3 Payee if missflag==1
