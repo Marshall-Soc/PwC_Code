@@ -55,17 +55,23 @@ $ cat Data/Data5/*.txt >> text5.txt
 
 $ cat Data/Data6/*.txt >> text6.txt 
 
-$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text1.txt > tagged_text1.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \ 
+> classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text1.txt > tagged_text1.txt
 
-java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text2.txt > tagged_text2.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \
+> classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text2.txt > tagged_text2.txt
 
-java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text3.txt > tagged_text3.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \
+$ classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text3.txt > tagged_text3.txt
 
-java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text4.txt > tagged_text4.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \
+> classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text4.txt > tagged_text4.txt
 
-java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text5.txt > tagged_text5.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \
+> classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text5.txt > tagged_text5.txt
 
-java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text6.txt > tagged_text6.txt
+$ java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier \
+> classifiers/english.all.3class.distsim.crf.ser.gz outputFormat slashTags -textFile text6.txt > tagged_text6.txt
 
 $ csplit -f tagsa tagged_text1.txt /"unique_identifier/O”/ {49}
 
