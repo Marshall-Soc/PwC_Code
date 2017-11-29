@@ -87,7 +87,7 @@ scatter r yhat
 graph twoway (lfitci sqapol yhat) (scatter sqapol yhat)
 
 	//Comparing sqapol to sqasubject (square root transformation of subject).
-		//See footnote 6.
+		//See footnote 7.
 xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 	re vce(robust)
 xttest0 //Variance across events--supports use of random effects
@@ -108,6 +108,21 @@ xtreg sqapol i.Legibility $controls if missflag==1, ///
 xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 	re vce(robust)
 
+/* Why our model */
+	/*Generating largest between-setting R^ and one of the smallest rmse.
+	Root MSE's and between-R^2's for different specifications with control variables:
+	(our model) i. Space i.Resistance c.Amount##i.Payor3 i.Payee 
+		RMSE = .1734; b-R^2 = .1349
+	i.Space##c.Amount i.Resistance i.Payor3 i.Payee 
+		RMSE = .1736; b-R^2 = .1283
+	i.Space c.Amount i.Resistance i.Payor3 i.Payee 
+		RMSE = .1752; b-R^2 = .1128
+	i.Space c.Amount##i.Resistance i.Payor3 i.Payee 
+		RMSE = .1745; b-R^2 = .1150
+	i.Space i.Resistance i.Payor3 c.Amount##i.Payee 
+		RMSE = .1720; b-R^2 = .1331
+	i.Space i.Resistance i.Payor3 i.Payee c.Amount##c.Amount2
+		RMSE = .1752; b-R^2 = .1237 */
 //
 log close
 exit 
