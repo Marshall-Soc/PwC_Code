@@ -28,6 +28,9 @@ library(LambertW)
 ##  COMMANDS BEGIN HERE   ##
 ############################
 
+# Loading in .RData file.
+load("PwC_R_Data.RData")
+
 # Loading in corpus.
 docs <- file.path("/file/path/here/to/PwC_docs") #You will need to unzip this from the "Data" folder.
 dir(docs)
