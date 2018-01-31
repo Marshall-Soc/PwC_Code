@@ -24,7 +24,7 @@ set more off
 **************************
 ***COMMANDS BEGIN HERE ***
 **************************
-use PwC_Stata_Data, clear
+use PwC_Data, clear
 
 //Descriptives 
 univar sqapol Perceptibility Legibility Space Resistance Amount Payor3 Payee if missflag==1
@@ -46,9 +46,31 @@ permute sqapol _b, seed(50) reps(1000): xtreg sqapol ///
 		//in ggplot2.
 xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
 	missflag==1, re vce(robust) 
-contrast r.Legibility@Perceptibility, asobserved 
+contrast r.Legibility@Perceptibility, asobserved
 contrast r.Perceptibility@Legibility, asobserved
-margins Legibility, at (Perceptibility=(0(1)1)) asobserved 
+margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+
+program define perm1
+version 13.1
+xtreg sqapol ///
+	i.Perceptibility##i.Legibility $controls if missflag==1, re
+contrast r.Perceptibility@Legibility, asobserved post
+end
+
+permute sqapol _b, seed(50) reps(1000): perm1 if missflag==1
+				//_b[Per]@0.Leg = Not sig. (p = .826)
+				//_b[Per]@1.Leg = Sig at p < .01 (p = .002)
+
+program define perm2
+version 13.1
+xtreg sqapol ///
+	i.Perceptibility##i.Legibility $controls if missflag==1, re
+contrast r.Legibility@Perceptibility, asobserved post
+end
+
+permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1 
+				//_b[Leg]@0.Per = Not sig. (p = .129)
+				//_b[Leg]@1.Per = Marginally sig (p = .065)
 
 //Some diagnostics
 	//Hausman specification test
@@ -87,7 +109,7 @@ scatter r yhat
 graph twoway (lfitci sqapol yhat) (scatter sqapol yhat)
 
 	//Comparing sqapol to sqasubject (square root transformation of subject).
-		//See footnote 7.
+		//See footnote 6.
 xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 	re vce(robust)
 xttest0 //Variance across events--supports use of random effects
