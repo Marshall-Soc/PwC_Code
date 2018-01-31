@@ -57,6 +57,7 @@ xtreg sqapol ///
 contrast r.Perceptibility@Legibility, asobserved post
 end
 
+	//Perceptibility effect sig. at 1.Legibility
 permute sqapol _b, seed(50) reps(1000): perm1 if missflag==1
 				//_b[Per]@0.Leg = Not sig. (p = .826)
 				//_b[Per]@1.Leg = Sig at p < .01 (p = .002)
@@ -68,6 +69,7 @@ xtreg sqapol ///
 contrast r.Legibility@Perceptibility, asobserved post
 end
 
+	//Legibility effect sig. at 1.Perceptibility
 permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1 
 				//_b[Leg]@0.Per = Not sig. (p = .129)
 				//_b[Leg]@1.Per = Marginally sig (p = .065)
@@ -147,4 +149,4 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 		RMSE = .1752; b-R^2 = .1237 */
 //
 log close
-exit 
+exit  
