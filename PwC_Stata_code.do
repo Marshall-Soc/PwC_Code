@@ -69,7 +69,7 @@ xtreg sqapol ///
 contrast r.Legibility@Perceptibility, asobserved post
 end
 
-	//Legibility effect sig. at 1.Perceptibility
+	//Legibility effect (marginally) sig. at 1.Perceptibility
 permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1 
 				//_b[Leg]@0.Per = Not sig. (p = .129)
 				//_b[Leg]@1.Per = Marginally sig (p = .065)
