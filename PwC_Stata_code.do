@@ -69,7 +69,14 @@ xtreg sqapol ///
 contrast r.Legibility@Perceptibility, asobserved post
 end
 
-	//Legibility effect (marginally) sig. at 1.Perceptibility
+	//Legibility effect (marginally) sig. at 1.Perceptibility (Note that though 
+		//the difference between low leg and high leg appears to be only
+		//sig in settings where money ideal-typically has high per, this
+		//still means that BOTH high leg and high per are needed to maximize
+		//the media sentiment score used here: for high per to be meaningfully
+		//different from low per, the money needs to ALSO EXHIBIT high leg,
+		//even though the difference between high leg and low leg itself is
+		//only marginally sig at higher levels of perceptibility)
 permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1 
 				//_b[Leg]@0.Per = Not sig. (p = .129)
 				//_b[Leg]@1.Per = Marginally sig (p = .065)
