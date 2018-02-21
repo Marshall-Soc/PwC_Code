@@ -86,7 +86,7 @@ permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1
 		//after 1,000 permutations, doesn't appear to be due to a randomness
 		//data-generating process (see "test1" below). 
 		
-		//Also note:
+	//Also note:
 		//while one may be tempted to use Wald tests with randomization model p-values 
 		//to compare the high P by high L prediction with the other three predictions
 		//to assess differences, this doesn't work in the present case. This is
