@@ -84,7 +84,32 @@ permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1
 				
 	//The prediction with high L and High P appears to be the only one that,
 		//after 1,000 permutations, doesn't appear to be due to a randomness
-		//data-generating process (see below "test1" below).
+		//data-generating process (see "test1" below). 
+		
+		//Also note:
+		//while one may be tempted to use Wald tests with randomization model p-values 
+		//to compare the high P by high L prediction with the other three predictions
+		//to assess differences, this doesn't work in the present case. This is
+		//because all of the predictions generated with "test1" except for the 
+		//high P by high L one can easily be accounted for by a random data
+		//generating process--i.e., more than 5% of the absolute values of each
+		//of those three predictions from the 1,000 permutations are greater than
+		//or equal to the absolute value of the observed predictions. For instance,
+		//you get a lot of low L by low P predictions that are greater than
+		//.44; so, when you perform Wald tests of this difference with the 
+		//high P by high L prediction for each permutation, you can easily get
+		//a number of a bunch of small differences or even differences going in
+		//the opposite direction. This is not because the two predictions are not
+		//that different from one another; rather, it is because the absolute 
+		//value of the high P by high L prediction is consistently less than the
+		//absolute value of the observed prediction (because randomness cannot
+		//account for the observed prediction) while the absolute value of the
+		//if the low P by low L prediction is consistently GREATER THAN the 
+		//absolute value of the observed prediction (because randomness CAN 
+		//account for the observed prediction). It seems to me that the only
+		//valid way to use a Wald test of prediction differences under the
+		//randomization model of inference is to compare predictions that are
+		//statistically significant under the randomization model.
 program define test1
 version 13.1
 xtreg sqapol ///
