@@ -156,7 +156,7 @@ scatter r yhat
 graph twoway (lfitci sqapol yhat) (scatter sqapol yhat)
 
 	//Comparing sqapol to sqasubject (square root transformation of subject).
-		//See footnote 6.
+		//See footnote 7.
 xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 	re vce(robust)
 xttest0 //Variance across events--supports use of random effects
