@@ -71,7 +71,7 @@ end
 
 	//Legibility effect (marginally) sig. at 1.Perceptibility (Note that though 
 		//the difference between low leg and high leg appears to be only
-		//sig in settings where money ideal-typically has high per, this
+		//marginally sig in settings where money ideal-typically has high per, this
 		//still means that BOTH high leg and high per are needed to maximize
 		//the media sentiment score used here: for high per to be meaningfully
 		//different from low per, the money needs to ALSO EXHIBIT high leg,
