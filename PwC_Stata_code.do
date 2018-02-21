@@ -84,7 +84,7 @@ permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1
 				
 	//The prediction with high L and High P appears to be the only one that,
 		//after 1,000 permutations, doesn't appear to be due to a randomness
-		//data-generating process.
+		//data-generating process (see below "test1" below).
 program define test1
 version 13.1
 xtreg sqapol ///
