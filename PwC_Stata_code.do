@@ -81,6 +81,18 @@ end
 permute sqapol _b, seed(50) reps(1000): perm2 if missflag==1 
 				//_b[Leg]@0.Per = Not sig. (p = .129)
 				//_b[Leg]@1.Per = Marginally sig (p = .065)
+				
+	//The prediction with high L and High P appears to be the only one that,
+		//after 1,000 permutations, doesn't appear to be due to a randomness
+		//data-generating process.
+program define test1
+version 13.1
+xtreg sqapol ///
+	i.Perceptibility##i.Legibility $controls if missflag==1, re
+margins Legibility, at (Perceptibility=(0(1)1)) asobserved post
+end
+
+permute sqapol _b, reps(1000) seed(50): test1 if missflag==1
 
 //Some diagnostics
 	//Hausman specification test
