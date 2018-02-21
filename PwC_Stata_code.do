@@ -48,7 +48,8 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
 	missflag==1, re vce(robust) 
 contrast r.Legibility@Perceptibility, asobserved
 contrast r.Perceptibility@Legibility, asobserved
-margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+margins Legibility, at (Perceptibility=(0(1)1)) asobserved //Highest score = High Leg and High Per,
+								//supporting the hypothesis
 
 program define perm1
 version 13.1
