@@ -192,6 +192,39 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 		RMSE = .1720; b-R^2 = .1331
 	i.Space i.Resistance i.Payor3 i.Payee c.Amount##c.Amount2
 		RMSE = .1752; b-R^2 = .1237 */
+		
+//Supplementary P-Plot
+xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
+	missflag==1, re vce(robust) 
+margins Legibility, at (Perceptibility=(0(1)1)) asobserved
+
+mat p_model = J(4, 3, .)
+
+qui xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
+	missflag==1, re vce(robust)
+qui margins Legibility, at (Perceptibility=(0(1)1)) asobserved post
+mat def beta = e(b)
+forvalues k = 1/4 {
+	global k`k' = round(beta[1,`k'], .001)
+	}
+	
+permute sqapol _b, reps(1000) seed(50): test1 if missflag==1
+mat def m1 = r(p)
+mat def m12 = r(ci)
+forvalues k = 1/4 {
+	mat p_model[`k',1] = m1[1,`k']
+	mat p_model[`k',2] = m12[1,`k']
+	mat p_model[`k',3] = m12[2,`k']
+	}
+	
+coefplot (matrix(p_model[,1]), ci((p_model[,2] p_model[,3]))), ///
+	mlabels(r1=12 ${k1} r2=12 ${k2} r3=12 ${k3} r4=12 ${k4}) mlabcolor(black) ///
+	xline(0.05, lcolor(black)) mcol(black) msize(small) mlabsize(2) ///
+	graphregion(fcolor(white) lcolor(white) lwidth(thick)) ///
+	coeflabels(r1="Less P, Less L" r2="Less P, More L" r3="More P, Less L" ///
+	r4="More P, More L", labsize(small)) xtitle("{it:P}-Value") ///
+	xsize(1) ysize(1) saving(modelplot.gph, replace)
+
 //
 log close
 exit  
