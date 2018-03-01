@@ -177,8 +177,9 @@ xtreg sqapol i.Legibility $controls if missflag==1, ///
 xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 	re vce(robust)
 
-/* Why our model */
-	/*Generating largest between-setting R^ and one of the smallest rmse.
+/* Why we chose the control variable specification that we did */
+	/*It made the most theoretical sense to us. This model also generated the largest between-setting R^2 
+	and one of the smallest rmse.
 	Root MSE's and between-R^2's for different specifications with control variables:
 	(our model) i. Space i.Resistance c.Amount##i.Payor3 i.Payee 
 		RMSE = .1734; b-R^2 = .1349
@@ -190,7 +191,7 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 		RMSE = .1745; b-R^2 = .1150
 	i.Space i.Resistance i.Payor3 c.Amount##i.Payee 
 		RMSE = .1720; b-R^2 = .1331
-	i.Space i.Resistance i.Payor3 i.Payee c.Amount##c.Amount2
+	i.Space i.Resistance i.Payor3 i.Payee c.Amount##c.Amount
 		RMSE = .1752; b-R^2 = .1237 */
 		
 //Supplementary P-Plot
