@@ -179,7 +179,8 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 
 /* Why we chose the control variable specification that we did */
 	/*It made the most theoretical sense to us. This model also generated the largest between-setting R^2 
-	and one of the smallest rmse. Further, looking at p-value CIs, can't rule out a p < .05 for any of these.
+	and one of the smallest rmse. Further, looking at p-value CIs, can't rule out a p < .05 for the
+	primary interaction term for any of these.
 	Root MSE's and between-R^2's for different specifications with control variables:
 	(our model) i. Space i.Resistance c.Amount##i.Payor3 i.Payee 
 		RMSE = .1734; b-R^2 = .1349
