@@ -200,7 +200,8 @@ global controls2 i. Space i.Resistance c.logamount##i.Payor3 i.Payee
 permute sqapol _b, seed(50) reps(5000): xtreg sqapol ///
 	i.Perceptibility##i.Legibility $controls2 if missflag==1, re
 	//Results are very similar: Perc = .006, Leg = -.043, and Perc*Leg = .130. High-P and High-L
-	//object-settings therefore still produce the largest predicted media sentiment.
+	//object-settings therefore still produce the largest predicted media sentiment, so the 
+	//sign flip for the Perc main effect is inconsequential.
 	//1,000 permutations gives a p(Perc*Leg) = .038 with a CI = (.027, .052). We then 
 	//tried 5,000 permutations since this produced a boundary p-value, since
 	//a larger number of permutations always generate more precise CIs since
@@ -208,6 +209,7 @@ permute sqapol _b, seed(50) reps(5000): xtreg sqapol ///
 	//5,000 permutations produce a CI = (.032, .043). As such, the "real" p-value
 	//across permutations is clearly smaller than .05, so the results are consistent
 	//regardless of whether the Amount variable was transformed or not.
+	//The effect contrast tests are consistent.
 
 //Supplementary P-Plot
 xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
