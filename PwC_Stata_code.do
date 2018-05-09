@@ -193,7 +193,22 @@ xtreg sqapol i.Perceptibility##i.Legibility $controls if missflag==1, ///
 		RMSE = .1720; b-R^2 = .1331
 	i.Space i.Resistance i.Payor3 i.Payee c.Amount##c.Amount
 		RMSE = .1752; b-R^2 = .1237 */
-		
+
+//What if we log the Amount variable, since it is right-skewed?
+gen logamount = log(Amount)
+global controls2 i. Space i.Resistance c.logamount##i.Payor3 i.Payee
+permute sqapol _b, seed(50) reps(5000): xtreg sqapol ///
+	i.Perceptibility##i.Legibility $controls2 if missflag==1, re
+	//Results are very similar: Perc = .006, Leg = -.043, and Perc*Leg = .130. High-P and High-L
+	//object-settings therefore still produce the largest predicted media sentiment.
+	//1,000 permutations gives a p(Perc*Leg) = .038 with a CI = (.027, .052). We then 
+	//tried 5,000 permutations since this produced a boundary p-value, since
+	//a larger number of permutations always generate more precise CIs since
+	//we get closer to approximating the actual number of possible permutations.
+	//5,000 permutations produce a CI = (.032, .043). As such, the "real" p-value
+	//across permutations is clearly smaller than .05, so the results are consistent
+	//regardless of whether the Amount variable was transformed or not.
+
 //Supplementary P-Plot
 xtreg sqapol i.Perceptibility##i.Legibility $controls if ///
 	missflag==1, re vce(robust) 
